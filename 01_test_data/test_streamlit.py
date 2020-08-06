@@ -17,5 +17,11 @@ data_load_state = st.text('Loading data...')
 data = load_data(100)
 data_load_state.text("Done! (using st.cache)")
 
-st.subheader('Raw dataframe')
+st.subheader('Dataframe')
 st.write(data)
+
+option = st.selectbox(
+    'Which game do you like best?',
+     data['name'])
+
+'You selected: ', option
