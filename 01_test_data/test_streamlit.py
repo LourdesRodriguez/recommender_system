@@ -32,14 +32,7 @@ else:
 
 'You selected: ',choose2[:2]
 
-image1 = "https://cf.geekdo-images.com/itemrep/img/YkRbhRKwFAkS917yqf50cvtNAog=/fit-in/246x300/pic5073276.jpg"
-image2 = "https://cf.geekdo-images.com/itemrep/img/YkRbhRKwFAkS917yqf50cvtNAog=/fit-in/246x300/pic5073276.jpg"
-image3 = "https://cf.geekdo-images.com/itemrep/img/IBtRtMGWMXEXCVHroWqbbPT8I1g=/fit-in/246x300/pic2439223.jpg"
-image4 = "https://cf.geekdo-images.com/itemrep/img/0_gpX_v9CeKcm60nSkDzi47PVOA=/fit-in/246x300/pic361592.jpg"
-image5= "https://cf.geekdo-images.com/itemrep/img/xAtnSiJMCFYKpOy9mujcchgZ4jo=/fit-in/246x300/pic1638795.jpg"
 
-indice = ['Nemesis', 'Nemesis','Otro','Otro mas', 'No sé cual es']
-st.image([image1,image2, image3, image4, image5], width=150, caption= indice)
 
 
 
