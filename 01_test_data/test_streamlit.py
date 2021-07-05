@@ -1,8 +1,31 @@
+# Streamlit dependencies
+import streamlit as st
+
+# Data handling dependencies
+import pandas as pd
+import numpy as np
+
+# Custom Libraries example
+#from recommenders.collaborative_based import collab_model
+#from recommenders.content_based import content_model
+
+# Data Loading
+title_list = load_movie_titles('DATA/r_users_bgs.csv')
+
+
+
+
+
+
+
+
+
+
 import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title('Game Recommended')
+st.title('Board Game Recommender')
 
 folder= './Data'
 
