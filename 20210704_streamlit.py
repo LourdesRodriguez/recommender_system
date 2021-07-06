@@ -16,22 +16,7 @@ import numpy as np
 ### ------ Recommender engine - BACK-END -----
 
 
-df = pd.read_csv('DATA/cb_recommendations.csv')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#df = pd.read_csv('DATA/cb_recommendations20000.csv')
 
 
 
@@ -47,15 +32,20 @@ st.image('DATA/Catan.png',use_column_width=True)
 
 folder= './DATA'
 
+@st.cache
+def load_data(nrows):
+    data = pd.read_csv(folder+'/cb_recommendations20000.csv', nrows=nrows)
+    lowercase = lambda x: str(x).lower()
+    data.rename(lowercase, axis='columns', inplace=True)
+    return data
 
-def load_titles(path_to_games):
-    df = pd.read_csv(path_to_games)
-    df = df.drop_duplicates()
-    game_list = df['Game'].to_list()
-    return game_list
+data = load_data(1000)
+#st.dataframe(data)
+game_list = data['game'].to_list()
+
 
 #title_list = load_titles(folder+'/r_users_bgs.csv')
-title_list = load_titles(folder+'/cb_recommendations.csv')
+#title_list = load_titles(folder+'/cb_recommendations20000.csv')
 
 
 
@@ -69,7 +59,7 @@ sys = st.radio("Select an algorithm",
 # User preferences
 
 st.write('### Enter Your TWO Favorites Board Games')
-game_1 = st.selectbox('Fisrt Option',title_list[:400000])
+game_1 = st.selectbox('Fisrt Option',game_list[:])
 #game_2 = st.selectbox('Second Option',title_list[400000:])
 #fav_games = [game_1,game_2]
 fav_games=game_1
@@ -91,19 +81,21 @@ if sys == 'Popularity':
                               We'll need to fix it!")
                     
                     
-if sys == 'Content Based Filtering':
+
+if sys == 'Content Based':
     if st.button("Recommend"):
-        try:
-            with st.spinner('Crunching the numbers...'):
-                for e in df['Game'].iteritems():
-                    if e == fav_game:
-                        print(df['recommendation'][e])
-                st.title("We think you'll like:")
-                for i,j in enumerate(top_recommendations):
-                    st.subheader(str(i+1)+'. '+j)
-        except:
-            st.error("Oops! Looks like this algorithm does't work.\
-                              We'll need to fix it!")
+        with st.spinner('Crunching the numbers...'):
+            for e in data['game'].iteritems():
+                if e[1] == fav_games:
+                    idx=e[0]
+                    t_r= data['recomendacion'][idx].replace('[','').replace(']','').replace("'",'')
+                    top_rec=t_r.split(',')
+                
+
+            st.title("We think you'll like:")
+            for i,e in enumerate (top_rec):
+                st.subheader(str(i+1)+'. '+e)
+
 
 
 
