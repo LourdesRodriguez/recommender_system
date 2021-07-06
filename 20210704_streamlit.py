@@ -15,7 +15,9 @@ import numpy as np
 
 ### ------ Recommender engine - BACK-END -----
 
-df = pd.read_csv('DATA/r_users_bgs.csv')
+
+df = pd.read_csv('DATA/cb_recommendations.csv')
+
 
 
 
@@ -52,7 +54,8 @@ def load_titles(path_to_games):
     game_list = df['Game'].to_list()
     return game_list
 
-title_list = load_titles(folder+'/r_users_bgs.csv')
+#title_list = load_titles(folder+'/r_users_bgs.csv')
+title_list = load_titles(folder+'/cb_recommendations.csv')
 
 
 
@@ -67,8 +70,9 @@ sys = st.radio("Select an algorithm",
 
 st.write('### Enter Your TWO Favorites Board Games')
 game_1 = st.selectbox('Fisrt Option',title_list[:400000])
-game_2 = st.selectbox('Second Option',title_list[400000:])
-fav_games = [game_1,game_2]
+#game_2 = st.selectbox('Second Option',title_list[400000:])
+#fav_games = [game_1,game_2]
+fav_games=game_1
 
 
 # Perform top-10 board games recommendation generation
@@ -91,8 +95,9 @@ if sys == 'Content Based Filtering':
     if st.button("Recommend"):
         try:
             with st.spinner('Crunching the numbers...'):
-                top_recommendations = content_model(game_list=fav_movies,
-                                                            top_n=10)
+                for e in df['Game'].iteritems():
+                    if e == fav_game:
+                        print(df['recommendation'][e])
                 st.title("We think you'll like:")
                 for i,j in enumerate(top_recommendations):
                     st.subheader(str(i+1)+'. '+j)
@@ -114,24 +119,5 @@ if sys == 'Collaborative Based Filtering':
         except:
             st.error("Oops! Looks like this algorithm does't work.\
                               We'll need to fix it!")
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-    
-
-
 
 
