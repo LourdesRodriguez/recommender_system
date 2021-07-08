@@ -40,12 +40,9 @@ def load_data(nrows):
     return data
 
 data = load_data(1000)
-#st.dataframe(data)
+cf = pd.read_csv(folder+'/cf_similars.csv')
+st.dataframe(cf)
 game_list = data['game'].to_list()
-
-
-#title_list = load_titles(folder+'/r_users_bgs.csv')
-#title_list = load_titles(folder+'/cb_recommendations20000.csv')
 
 
 
@@ -54,14 +51,12 @@ game_list = data['game'].to_list()
 sys = st.radio("Select an algorithm",
                        ('Popularity',
                         'Content Based',
-                        'Collaborative Based Filtering'))
+                        'Collaborative Filtering'))
 
 # User preferences
 
-st.write('### Enter Your TWO Favorites Board Games')
-game_1 = st.selectbox('Fisrt Option',game_list[:])
-#game_2 = st.selectbox('Second Option',title_list[400000:])
-#fav_games = [game_1,game_2]
+st.write('### Enter Your Favorite Board Games')
+game_1 = st.selectbox('Choose',game_list[:])
 fav_games=game_1
 
 
@@ -84,32 +79,46 @@ if sys == 'Popularity':
 
 if sys == 'Content Based':
     if st.button("Recommend"):
-        with st.spinner('Crunching the numbers...'):
-            for e in data['game'].iteritems():
-                if e[1] == fav_games:
-                    idx=e[0]
-                    t_r= data['recomendacion'][idx].replace('[','').replace(']','').replace("'",'')
-                    top_rec=t_r.split(',')
+        try:
+            with st.spinner('Crunching the numbers...'):
+                for e in data['game'].iteritems():
+                    if e[1] == fav_games:
+                        idx=e[0]
+                        t_r= data['recomendacion'][idx].replace('[','').replace(']','').replace("'",'')
+                        top_rec=t_r.split(',')
                 
 
             st.title("We think you'll like:")
             for i,e in enumerate (top_rec):
                 st.subheader(str(i+1)+'. '+e)
-
-
-
-
-if sys == 'Collaborative Based Filtering':
-    if st.button("Recommend"):
-        try:
-            with st.spinner('Crunching the numbers...'):
-                top_recommendations = collab_model(movie_list=fav_movies,
-                                                           top_n=10)
-                st.title("We think you'll like:")
-                for i,j in enumerate(top_recommendations):
-                    st.subheader(str(i+1)+'. '+j)
         except:
             st.error("Oops! Looks like this algorithm does't work.\
                               We'll need to fix it!")
+
+
+
+
+if sys == 'Collaborative Filtering':
+    if st.button("Recommend"):
+        try:
+            with st.spinner('Crunching the numbers...'):
+                for e in data['game'].iteritems():
+                    if e[1] == fav_games:
+                        idx=e[0]
+                        t_r= cf['recommendation'][idx].replace('[','').replace(']','').replace("'",'')
+                        top_rec=t_r.split(',')
+        
+            st.title("We think you'll like:")
+            for i,e in enumerate (top_rec):
+                st.subheader(str(i+1)+'. '+e)
+        except:
+            st.error("Oops! Looks like this algorithm does't work.\
+                              We'll need to fix it!")
+
+                   
+                    
+
+ 
+
 
 
