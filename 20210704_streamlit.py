@@ -40,8 +40,9 @@ def load_data(nrows):
     return data
 
 data = load_data(1000)
+pop=pd.read_csv(folder+'/popular.csv')
 cf = pd.read_csv(folder+'/cf_similars.csv')
-st.dataframe(cf)
+#st.dataframe(pop)
 game_list = data['game'].to_list()
 
 
@@ -65,11 +66,10 @@ if sys == 'Popularity':
     if st.button("Recommend"):
         try:
             with st.spinner('Crunching the numbers...'):
-                top_recommendations = content_model(game_list=fav_movies,
-                                                            top_n=10)
+                top_rec=pop['title']
                 st.title("We think you'll like:")
 
-                for i,j in enumerate(top_recommendations):
+                for i,j in enumerate(top_rec):
                     st.subheader(str(i+1)+'. '+j)
         except:
                     st.error("Oops! Looks like this algorithm does't work.\
