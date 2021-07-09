@@ -4,6 +4,7 @@
 El mercado de los juegos de mesa está en crecimiento en los últimos años. Aunque en España es desconocido, en el norte de Europa está muy consolidado. 
 Con el fin de acercar a los usuarios este tipo de juegos, he basado mi TFM en crear un Recomendador de Juegos de Mesa. Así cada usuario puede conocer los juegos que mejor se adaptan a sus preferencias/gustos.
 
+![Captura de pantalla 2021-07-09 a las 22 47 18](https://user-images.githubusercontent.com/58312522/125134523-c8834980-e107-11eb-92a9-0f8ad887869d.png)
 
 ## Estructura del proyecto
 Este proyecto se compone de 3 notebooks y una única carpeta.
