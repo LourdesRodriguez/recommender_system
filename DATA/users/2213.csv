@@ -1,0 +1,524 @@
+,Game,Plays,BGG Rank,BGG Rating,Your Rating,Users Rating,Utilisation
+0,Codenames,58,93,7.6,8.0,67424,99.9%
+1,Patchwork,35,88,7.7,7.5,46298,99.9%
+2,Qwixx,33,764,6.9,7.0,9443,99.9%
+3,Scythe,32,14,8.2,9.0,57625,99.9%
+4,Codenames: Duet,30,160,7.6,8.0,13865,99.9%
+5,That's Pretty Clever!,30,130,7.6,8.0,14225,99.9%
+6,Splendor,29,167,7.5,8.0,58499,99.8%
+7,Pickomino,27,1252,6.6,7.0,8983,99.8%
+8,Encore!,27,1017,7.0,8.0,3233,99.8%
+9,Dixit: Odyssey,24,212,7.5,7.0,16662,99.6%
+10,Love Letter,23,282,7.2,8.0,55827,99.4%
+11,Wingspan,21,20,8.1,9.0,42672,99.2%
+12,Tri-Ominos,21,20112,5.3,7.0,2258,99.2%
+13,Sagrada,21,147,7.5,8.5,25897,99.2%
+14,Potion Explosion,21,437,7.2,7.5,13355,99.2%
+15,Mafia de Cuba,21,1603,6.6,6.5,3568,99.2%
+16,Las Vegas,17,502,7.1,7.5,9208,98.0%
+17,Terraforming Mars,16,4,8.4,9.0,64485,97.4%
+18,Istanbul,16,117,7.6,7.0,25157,97.4%
+19,The Castles of Burgundy,16,15,8.1,8.5,46330,97.4%
+20,Azul,16,50,7.8,8.0,53207,97.4%
+21,The Crew: The Quest for Planet Nine,15,41,8.0,9.0,14567,96.8%
+22,Las Vegas Royale,13,1812,7.5,8.0,809,94.9%
+23,Fields of Arle,13,58,8.1,9.0,8085,94.9%
+24,Camel Up,13,477,7.0,8.0,22756,94.9%
+25,The Taverns of Tiefenthal,12,267,7.6,8.5,6217,93.6%
+26,Spexxx,12,6133,6.4,7.0,354,93.6%
+27,The Voyages of Marco Polo,12,55,7.9,9.0,20157,93.6%
+28,Qwixx gemixxt,11,-1,6.7,7.5,604,92.0%
+29,Bravo!,11,2964,7.3,8.0,444,92.0%
+30,It's a Wonderful World,11,172,7.9,8.0,5855,92.0%
+31,Century: Spice Road,11,250,7.4,8.0,18492,92.0%
+32,Celestia,11,689,7.0,7.0,8356,92.0%
+33,Orléans,10,25,8.1,8.5,22110,90.0%
+34,Isle of Skye: From Chieftain to King,10,195,7.4,8.5,20353,90.0%
+35,Twice as Clever!,10,373,7.5,8.0,4866,90.0%
+36,Texas Showdown,9,2631,7.2,7.0,598,87.4%
+37,The Pursuit of Happiness,9,652,7.2,9.0,4094,87.4%
+38,Pandemic,9,99,7.6,8.0,101865,87.4%
+39,Keezbord,9,17620,5.6,7.0,111,87.4%
+40,Jaipur,9,135,7.5,8.0,37008,87.4%
+41,Imperial Settlers,9,212,7.4,8.0,21043,87.4%
+42,The Grizzled,9,402,7.2,8.0,12202,87.4%
+43,Ingenious,9,426,7.1,7.0,15617,87.4%
+44,Concept,9,756,6.8,6.0,15389,87.4%
+45,Azul: Summer Pavilion,9,151,7.8,8.5,6895,87.4%
+46,Longhorn,8,2294,6.6,7.0,1538,84.1%
+47,Imhotep,8,409,7.2,7.5,11737,84.1%
+48,Architects of the West Kingdom,8,79,7.8,8.0,16705,84.1%
+49,Alchemists,8,110,7.7,9.5,18203,84.1%
+50,Twenty One,7,4061,6.4,6.5,605,80.0%
+51,Rattlebones,7,3014,6.5,7.0,989,80.0%
+52,Qwixx: Bonus,7,-1,8.0,7.5,27,80.0%
+53,Qwixx: Big Points,7,-1,7.0,8.0,350,80.0%
+54,Flamme Rouge,7,198,7.6,8.0,12056,80.0%
+55,Deep Sea Adventure,7,619,7.0,8.0,10690,80.0%
+56,Caverna: The Cave Farmers,7,30,8.0,8.0,28040,80.0%
+57,Agricola,7,31,7.9,8.0,63367,80.0%
+58,The Quest for El Dorado,6,165,7.6,8.5,11988,74.8%
+59,Point Salad,6,384,7.3,7.5,7896,74.8%
+60,Pandemic: On the Brink,6,-1,8.1,8.0,16131,74.8%
+61,The Name of the Rose,6,1938,6.8,7.0,1472,74.8%
+62,Las Vegas Boulevard,6,-1,7.3,8.0,980,74.8%
+63,Keltis,6,1690,6.4,7.5,5646,74.8%
+64,La Granja,6,168,7.7,8.0,8724,74.8%
+65,Grand Austria Hotel,6,87,7.8,8.0,12516,74.8%
+66,Everdell,6,36,8.1,8.0,19285,74.8%
+67,Dixit,6,278,7.3,7.0,50499,74.8%
+68,The Climbers,6,1270,6.9,-1.0,2784,74.8%
+69,Bruxelles 1893,6,299,7.7,8.0,4705,74.8%
+70,Winter Kingdom,5,4539,7.5,9.0,197,68.3%
+71,Triple Yahtzee,5,10992,5.8,6.0,364,68.3%
+72,Red7,5,657,6.9,7.0,12645,68.3%
+73,Quadropolis,5,350,7.3,7.0,11027,68.3%
+74,Nyet!,5,1494,6.8,8.0,2248,68.3%
+75,Maracaibo,5,38,8.3,9.0,7481,68.3%
+76,KLASK,5,261,7.7,7.0,5624,68.3%
+77,Modern Art Card Game,5,2033,6.6,7.0,1809,68.3%
+78,The Palaces of Carrara,5,699,7.2,8.0,4049,68.3%
+79,Bärenpark,5,291,7.4,7.0,11956,68.3%
+80,Azul: Stained Glass of Sintra,5,308,7.4,7.8,8764,68.3%
+81,The Staufer Dynasty,4,1088,7.2,8.5,2099,60.1%
+82,Splendor: Cities of Splendor,4,-1,7.4,-1.0,3010,60.1%
+83,Qwinto,4,1105,7.1,7.0,2480,60.1%
+84,Port Royal,4,456,7.1,-1.0,12914,60.1%
+85,Planetarium,4,2031,7.0,7.0,1085,60.1%
+86,Legacy: The Testament of Duke de Crecy,4,737,7.2,8.5,4003,60.1%
+87,Dealt!,4,1941,7.1,7.0,975,60.1%
+88,Istanbul: Mocha & Baksheesh,4,-1,7.9,8.0,2758,60.1%
+89,The Speicherstadt,4,788,7.0,7.0,4750,60.1%
+90,Hadara,4,495,7.5,-1.0,3706,60.1%
+91,El Grande Big Box,4,-1,8.2,8.5,2542,60.1%
+92,FUSE,4,645,7.1,7.5,7016,60.1%
+93,Farmerama,4,7086,6.2,6.5,278,60.1%
+94,Daxu,4,5483,6.5,7.5,303,60.1%
+95,Coloretto,4,542,7.0,7.0,17960,60.1%
+96,Ganz Schön Clever: Challenge I,4,-1,7.9,-1.0,279,60.1%
+97,AquaSphere,4,470,7.3,7.0,6463,60.1%
+98,Trajan,3,95,7.8,8.0,14678,49.8%
+99,Targi,3,123,7.6,7.5,14453,49.8%
+100,Take 5!,3,2317,6.5,7.0,1890,49.8%
+101,Stone Age: Anniversary,3,-1,8.0,8.0,1433,49.8%
+102,Stockpile: Illicit Investments,3,-1,7.9,9.0,104,49.8%
+103,Stockpile: Continuing Corruption,3,-1,8.0,9.0,778,49.8%
+104,Stockpile,3,342,7.5,9.0,5500,49.8%
+105,Sheriff of Nottingham,3,368,7.1,7.0,29544,49.8%
+106,Scythe: The Rise of Fenris,3,-1,8.8,9.0,4705,49.8%
+107,Schotten Totten,3,394,7.3,-1.0,7585,49.8%
+108,Santa Cruz,3,2419,6.7,7.0,1184,49.8%
+109,Saint Petersburg (Second Edition),3,600,7.5,8.0,2828,49.8%
+110,Raiders of the North Sea,3,91,7.8,-1.0,15886,49.8%
+111,Puerto Rico,3,28,8.0,8.0,63032,49.8%
+112,Pixie Queen,3,2012,7.2,8.5,933,49.8%
+113,Pioneer Days,3,1198,7.3,7.5,1548,49.8%
+114,Party Bugs,3,10183,6.4,7.0,95,49.8%
+115,Orléans: Invasion,3,-1,8.3,9.0,2510,49.8%
+116,Oh My Goods!,3,630,7.0,7.0,9332,49.8%
+117,Marco Polo II: In the Service of the Khan,3,225,8.2,-1.0,2948,49.8%
+118,Keyflower,3,72,7.8,8.0,18952,49.8%
+119,Keltis: Der Weg der Steine Mitbringspiel,3,2920,6.4,7.0,1154,49.8%
+120,Imperial Settlers: Empires of the North,3,416,7.6,6.5,3836,49.8%
+121,Guilds of London,3,1507,6.9,8.0,2004,49.8%
+122,Gùgōng,3,317,7.5,8.5,6083,49.8%
+123,Great Western Trail,3,11,8.3,8.5,29290,49.8%
+124,No Thanks!,3,449,7.1,7.0,20289,49.8%
+125,Doppelt so Clever: Challenge I,3,-1,8.0,-1.0,182,49.8%
+126,Counterfeiters,3,3137,7.0,7.0,540,49.8%
+127,Christmas Tree,3,3418,7.2,8.0,379,49.8%
+128,Century: Eastern Wonders,3,578,7.2,8.0,5519,49.8%
+129,Letters from Whitechapel,3,264,7.4,7.0,13687,49.8%
+130,Baobab,3,6034,6.2,6.0,404,49.8%
+131,Wingspan: European Expansion,2,-1,8.4,8.0,5981,36.9%
+132,Whistle Stop,2,923,7.1,-1.0,2888,36.9%
+133,Ultimate Werewolf: Ultimate Edition,2,972,7.0,-1.0,3760,36.9%
+134,Watergate,2,173,8.0,-1.0,4314,36.9%
+135,Viticulture Essential Edition,2,23,8.1,8.5,29285,36.9%
+136,Versailles,2,3341,6.5,7.0,799,36.9%
+137,Tricky Dungeon,2,13044,6.6,9.0,42,36.9%
+138,Snowdonia: Deluxe Master Set,2,-1,8.2,9.0,1227,36.9%
+139,Seeland,2,1474,6.9,6.5,1887,36.9%
+140,Scythe: The Wind Gambit,2,-1,7.9,8.0,4919,36.9%
+141,Santa Maria,2,339,7.5,7.0,5197,36.9%
+142,Sagrada: The Great Facades – Passion,2,-1,7.6,8.0,656,36.9%
+143,Sagrada: 5-6 Player Expansion,2,-1,7.8,8.0,1899,36.9%
+144,Heckmeck Extrawurm,2,-1,7.0,8.0,501,36.9%
+145,Qwixx: Characters,2,-1,6.3,8.0,127,36.9%
+146,Porta Nigra,2,1091,7.2,-1.0,1973,36.9%
+147,Pergamon,2,1314,6.9,6.5,2295,36.9%
+148,Pandemic: Rapid Response,2,1940,6.7,-1.0,1733,36.9%
+149,Ora et Labora,2,136,7.7,9.0,9747,36.9%
+150,Notre Dame,2,289,7.3,7.0,12221,36.9%
+151,Nauticus,2,1857,6.9,7.0,1247,36.9%
+152,Mariposas,2,1354,7.2,8.0,1582,36.9%
+153,Madeira,2,383,7.6,8.0,3902,36.9%
+154,Macao,2,328,7.4,7.0,6953,36.9%
+155,Last Will,2,443,7.2,8.0,9026,36.9%
+156,Coal Baron,2,583,7.3,7.0,4295,36.9%
+157,Glasgow,2,2707,7.4,8.0,505,36.9%
+158,Divvy Dice,2,2815,7.0,-1.0,608,36.9%
+159,Fabled Fruit,2,770,7.0,8.0,5045,36.9%
+160,Dynasties: Heirate & Herrsche,2,1732,7.2,8.0,1030,36.9%
+161,Dixit: Memories,2,-1,8.0,7.0,1797,36.9%
+162,Haste Worte?,2,4578,6.9,7.0,305,36.9%
+163,Camel Up: Supercup,2,-1,7.3,8.0,2188,36.9%
+164,Bruges,2,260,7.4,8.0,10254,36.9%
+165,Brikks,2,3382,6.4,6.0,869,36.9%
+166,Yspahan,1,576,7.1,8.0,7744,20.5%
+167,World's Fair 1893,1,820,7.2,7.5,3170,20.5%
+168,Wisdom of Solomon,1,6202,7.6,7.5,111,20.5%
+169,Wingspan: Oceania Expansion,1,-1,8.6,8.0,1623,20.5%
+170,Welcome To...,1,126,7.6,8.0,17195,20.5%
+171,Viticulture: Tuscany – Expand the World of Viticulture,1,-1,8.4,9.0,2447,20.5%
+172,Troyes,1,83,7.8,8.0,18847,20.5%
+173,Through the Ages: A New Story of Civilization,1,6,8.4,6.0,22963,20.5%
+174,Stratego,1,2593,6.1,5.0,13793,20.5%
+175,Snow Tails,1,763,7.0,7.5,6008,20.5%
+176,Why First?,1,4215,6.1,7.5,1048,20.5%
+177,Rovers van de Noordzee: Helden uit het Noorden,1,-1,8.3,8.5,60,20.5%
+178,Rogue Agent,1,11838,5.8,5.0,229,20.5%
+179,Rococo,1,227,7.6,8.0,7494,20.5%
+180,Qwixx: Connected,1,-1,7.4,7.0,117,20.5%
+181,Qwirkle,1,796,6.8,5.0,16075,20.5%
+182,Queen's Architect,1,1981,6.9,7.5,1214,20.5%
+183,The Pursuit of Happiness: Community,1,-1,7.7,8.0,317,20.5%
+184,The Prodigals Club,1,962,7.3,8.0,2094,20.5%
+185,Merchants & Marauders,1,268,7.4,7.0,12712,20.5%
+186,Pandemic: Fall of Rome,1,355,7.7,8.0,3818,20.5%
+187,Paleo,1,1233,8.0,-1.0,987,20.5%
+188,Orléans: Trade & Intrigue,1,-1,8.4,8.0,2196,20.5%
+189,Noch mal!: Zusatzblockset,1,-1,7.3,-1.0,147,20.5%
+190,Nippon,1,313,7.7,8.0,4192,20.5%
+191,New Bedford,1,1361,7.1,-1.0,1716,20.5%
+192,Myrmes,1,528,7.3,7.0,5054,20.5%
+193,Mayday!Mayday!,1,5886,6.5,7.0,282,20.5%
+194,Citadels,1,403,7.1,6.5,48290,20.5%
+195,Legacy: The Testament of Duke de Crecy – Five Families,1,-1,6.8,8.0,258,20.5%
+196,Last Will: Getting Sacked,1,-1,7.5,8.0,874,20.5%
+197,IOTA,1,3553,6.2,5.0,1408,20.5%
+198,Koryŏ,1,2109,6.7,-1.0,1698,20.5%
+199,Kings of Israel,1,3104,7.3,8.0,424,20.5%
+200,Kingdom Builder: Big Box (Second Edition),1,-1,8.1,-1.0,446,20.5%
+201,K2,1,568,7.1,7.0,9050,20.5%
+202,The Voyages of Marco Polo: The New Characters,1,-1,8.1,8.0,1219,20.5%
+203,Imperial Settlers: Atlanteans,1,-1,7.4,9.0,1573,20.5%
+204,Village,1,156,7.5,8.0,20214,20.5%
+205,Herrlof,1,6371,7.2,7.0,128,20.5%
+206,Genotype: A Mendelian Genetics Game,1,8144,8.2,8.0,50,20.5%
+207,Gaia Project,1,8,8.5,9.0,16244,20.5%
+208,Freedom: The Underground Railroad,1,396,7.6,8.0,3860,20.5%
+209,Flamme Rouge: Peloton,1,-1,8.1,8.0,1887,20.5%
+210,Expedition: Northwest Passage,1,1407,7.0,6.5,1775,20.5%
+211,Village: Inn,1,-1,7.9,8.5,2838,20.5%
+212,Dixit: Daydreams,1,-1,7.7,7.0,2008,20.5%
+213,The Pillars of the Earth,1,298,7.3,7.0,16300,20.5%
+214,Crown of Emara,1,786,7.5,-1.0,2196,20.5%
+215,Corinth,1,1672,6.8,-1.0,2016,20.5%
+216,Coimbra,1,169,7.7,8.0,8444,20.5%
+217,Century: A New World,1,648,7.5,8.0,2846,20.5%
+218,Cartagena,1,3663,6.7,7.0,558,20.5%
+219,World Without End,1,591,7.3,7.5,4627,20.5%
+220,Boy Scouts,1,-1,5.7,-1.0,25,20.5%
+221,Arriala: Canal de Garonne,1,7979,6.4,5.0,170,20.5%
+222,Animals on Board,1,2075,6.6,6.0,1903,20.5%
+223,Among Nobles,1,3569,6.7,8.0,537,20.5%
+224,Amerigo,1,360,7.5,8.0,5492,20.5%
+225,Agricola: NL-Deck,1,-1,7.2,7.0,373,20.5%
+226,Yahtzee,0,20114,5.4,4.0,11803,0.0%
+227,Watergate: Change in History,0,-1,8.3,-1.0,9,0.0%
+228,The Voyages of Marco Polo: The Secret Path of Marco Polo,0,-1,7.8,-1.0,335,0.0%
+229,The Princes of Florence,0,182,7.5,-1.0,14549,0.0%
+230,Viticulture: Visit from the Rhine Valley,0,-1,8.3,-1.0,1110,0.0%
+231,Viticulture: Moor Visitors Expansion,0,-1,8.0,-1.0,1594,0.0%
+232,Vasco da Gama,0,620,7.2,-1.0,4282,0.0%
+233,UNO,0,20170,5.4,-1.0,21129,0.0%
+234,Ulm,0,1039,7.1,-1.0,2741,0.0%
+235,Troyes: The Ladies of Troyes,0,-1,8.0,7.5,1635,0.0%
+236,Troyes: Bonus Cards,0,-1,7.6,-1.0,764,0.0%
+237,Tongbrekers,0,-1,3.7,-1.0,2,0.0%
+238,Tichu,0,170,7.6,-1.0,13267,0.0%
+239,Thurn and Taxis,0,428,7.1,7.0,18091,0.0%
+240,That's My Throne,0,-1,8.5,-1.0,11,0.0%
+241,Terraforming Mars: Venus Next,0,-1,7.6,7.0,5505,0.0%
+242,Terraforming Mars: Turmoil Promos,0,-1,8.2,-1.0,365,0.0%
+243,Terraforming Mars: Turmoil,0,-1,7.7,8.0,2659,0.0%
+244,Terraforming Mars: Snow Algae Promo Card,0,-1,7.8,-1.0,886,0.0%
+245,Terraforming Mars: Small Asteroid Promo Card,0,-1,7.8,-1.0,1026,0.0%
+246,Terraforming Mars: Self Replicating Robots Promo Card,0,-1,7.7,-1.0,838,0.0%
+247,Terraforming Mars: Prelude,0,-1,8.8,9.0,8372,0.0%
+248,Terraforming Mars: Penguins Promo Card,0,-1,7.9,-1.0,937,0.0%
+249,Terraforming Mars: Hellas & Elysium,0,-1,8.4,-1.0,7069,0.0%
+250,Terraforming Mars: Colonies,0,-1,8.2,-1.0,4265,0.0%
+251,Terraforming Mars: BGG User-Created Corporation Pack,0,-1,7.9,-1.0,624,0.0%
+252,Targui,0,4042,6.4,-1.0,714,0.0%
+253,Targi: The Expansion,0,-1,8.2,-1.0,600,0.0%
+254,Strasbourg,0,962,7.2,-1.0,2495,0.0%
+255,Stockpile: Investor Card Promo Pack #3,0,-1,7.4,-1.0,29,0.0%
+256,Stockpile: Investment Strategy Card Promo Pack,0,-1,7.5,8.0,26,0.0%
+257,Stone Age: The Expansion,0,-1,7.4,-1.0,2771,0.0%
+258,Stap op,0,18027,5.5,-1.0,147,0.0%
+259,Splendor: Nobles Promo Tiles,0,-1,7.3,8.0,482,0.0%
+260,Spicy,0,1957,7.3,-1.0,969,0.0%
+261,Spectaculum,0,4019,6.4,7.0,634,0.0%
+262,The Solo System,0,9751,7.7,-1.0,41,0.0%
+263,Snowdonia: Isle of Man,0,-1,7.8,-1.0,30,0.0%
+264,Snow Tails: Polar Plunge Track,0,-1,7.1,-1.0,29,0.0%
+265,Skip-Bo,0,19922,5.5,-1.0,6071,0.0%
+266,Signorie,0,708,7.4,8.0,2625,0.0%
+267,SET,0,1438,6.5,-1.0,10813,0.0%
+268,Sequence,0,3221,6.0,-1.0,7464,0.0%
+269,Scythe: Promo Pack #4 – Factory Cards 13-18,0,-1,8.2,-1.0,662,0.0%
+270,Scythe: Promo Pack #3 – Objective Cards 24-27,0,-1,8.2,-1.0,616,0.0%
+271,Scythe: Promo Pack #2 – Encounter Cards 33-36,0,-1,8.2,-1.0,682,0.0%
+272,Scythe: Promo Pack #1 – Encounter Cards 29-32,0,-1,8.2,-1.0,648,0.0%
+273,Scythe: Modular Board,0,-1,8.4,-1.0,705,0.0%
+274,Scythe: Invaders from Afar,0,-1,8.4,8.5,8024,0.0%
+275,Scythe: Encounters,0,-1,8.1,-1.0,1595,0.0%
+276,Scrabble,0,1807,6.3,-1.0,26658,0.0%
+277,Scoville: Labs,0,-1,7.5,-1.0,403,0.0%
+278,Scoville,0,657,7.2,8.0,4756,0.0%
+279,Scotland Yard,0,1259,6.5,-1.0,14291,0.0%
+280,Sagrada: The Great Facades – Life,0,-1,8.0,-1.0,127,0.0%
+281,Sagrada: Promo 5 – Watch It Played Window Pattern Card,0,-1,7.5,-1.0,46,0.0%
+282,Sagrada: Promo 4 – BoardGameGeek Window Pattern Card,0,-1,7.4,-1.0,109,0.0%
+283,Saboteur: The Duel,0,4317,6.1,-1.0,1390,0.0%
+284,Rummikub,0,1638,6.4,-1.0,13147,0.0%
+285,Wars of the Roses: Lancaster vs. York,0,1221,7.4,-1.0,1447,0.0%
+286,Royals,0,1061,7.1,7.5,2295,0.0%
+287,Roll to the Top!: Special Challenges Pack,0,-1,7.4,-1.0,57,0.0%
+288,Roll to the Top!,0,2533,6.9,7.0,859,0.0%
+289,Rokoko: Fancy Dresses Promo,0,-1,7.5,-1.0,197,0.0%
+290,Revolver Expansion 1.1: Ambush on Gunshot Trail,0,-1,7.3,-1.0,130,0.0%
+291,Revolver,0,1885,6.9,-1.0,1396,0.0%
+292,Raiders of the North Sea: The Mico Promo,0,-1,7.8,-1.0,179,0.0%
+293,The Pursuit of Happiness: Thug Life,0,-1,7.6,-1.0,79,0.0%
+294,The Pursuit of Happiness: Space Trip Promo Card,0,-1,7.5,-1.0,90,0.0%
+295,The Pursuit of Happiness: Perform Magic Promo Card,0,-1,7.5,-1.0,21,0.0%
+296,The Pursuit of Happiness: KS Promos,0,-1,7.6,-1.0,228,0.0%
+297,The Pursuit of Happiness: Experiences KS Promos 3,0,-1,8.0,-1.0,36,0.0%
+298,The Pursuit of Happiness: Experiences,0,-1,7.8,8.0,116,0.0%
+299,The Pursuit of Happiness: Community – Found Animal Promo Card,0,-1,7.8,-1.0,22,0.0%
+300,The Pursuit of Happiness: Community KS Promos 2,0,-1,7.9,-1.0,77,0.0%
+301,The Pursuit of Happiness: Build Time Machine Promo Card,0,-1,7.6,-1.0,22,0.0%
+302,Potion Explosion: The Fifth Ingredient,0,-1,7.5,7.5,851,0.0%
+303,Potion Explosion: The 6th Student,0,-1,7.4,-1.0,207,0.0%
+304,Potion Explosion: Fulminating Serum,0,-1,7.2,-1.0,114,0.0%
+305,Port Royal: Just One More Contract...,0,-1,7.5,-1.0,1780,0.0%
+306,Pictionary,0,4640,5.8,5.5,6898,0.0%
+307,Phase 10,0,20237,5.1,-1.0,7676,0.0%
+308,Party & Co,0,17273,5.5,4.0,538,0.0%
+309,Shear Panic,0,2056,6.4,7.5,3678,0.0%
+310,Pandemic: Rising Tide,0,734,7.6,-1.0,2068,0.0%
+311,Pandemic: In the Lab,0,-1,7.9,-1.0,4736,0.0%
+312,Pandemic: Iberia,0,100,7.9,8.0,8332,0.0%
+313,Packet Row,0,4930,6.1,-1.0,675,0.0%
+314,Orléans: Promo Ortskarten N°2,0,-1,7.7,-1.0,72,0.0%
+315,Orléans: Promo Ortskarten N°1,0,-1,7.6,-1.0,135,0.0%
+316,Orléans: Prairie,0,-1,7.1,-1.0,106,0.0%
+317,Orléans: Neue Ortskarten N°5,0,-1,7.7,-1.0,187,0.0%
+318,Orléans: Neue Ortskarten N°4,0,-1,7.7,-1.0,268,0.0%
+319,Orléans: Neue Ortskarten N°3,0,-1,7.6,8.0,307,0.0%
+320,Orléans: Neue Ortskarten N°2,0,-1,7.5,8.0,309,0.0%
+321,Orléans: Neue Ortskarten N°1,0,-1,7.6,8.0,336,0.0%
+322,Orléans: Die Reise nach Tours,0,-1,7.3,-1.0,115,0.0%
+323,Orléans: Fan-Kit,0,-1,8.3,-1.0,275,0.0%
+324,Oil: The Great Adventure,0,19118,5.3,-1.0,213,0.0%
+325,Oh My Goods!: Longsdale in Revolt,0,-1,7.5,-1.0,1555,0.0%
+326,Notre Dame: The New Persons,0,-1,7.6,-1.0,202,0.0%
+327,Noch mal!: Zusatzblock III,0,-1,7.2,-1.0,100,0.0%
+328,Noch mal!: Zusatzblock II,0,-1,7.1,-1.0,103,0.0%
+329,Noch mal!: Zusatzblock I,0,-1,7.1,-1.0,131,0.0%
+330,Nippon: Keiretsu,0,-1,8.1,-1.0,97,0.0%
+331,New Amsterdam,0,1719,7.1,-1.0,1258,0.0%
+332,New Bedford: Rising Tide,0,-1,7.4,-1.0,344,0.0%
+333,Myrmes: Colony Tiles,0,-1,7.3,-1.0,110,0.0%
+334,Mr. Jack in New York,0,847,7.2,7.0,2976,0.0%
+335,Montana: Trade Post,0,-1,7.2,-1.0,20,0.0%
+336,Montana,0,2106,6.8,-1.0,1367,0.0%
+337,Monopoly: The Card Game,0,17681,5.5,-1.0,610,0.0%
+338,Monopoly,0,20278,4.4,5.0,28927,0.0%
+339,Mombasa,0,86,7.9,9.0,10927,0.0%
+340,Super-Hirn,0,-1,5.1,6.0,22,0.0%
+341,My Village: Vagrants Expansion,0,-1,7.5,-1.0,56,0.0%
+342,My Village,0,1194,7.0,-1.0,2490,0.0%
+343,Mi Tierra: New Era,0,4632,6.8,-1.0,354,0.0%
+344,Mesopotamia,0,2437,6.5,-1.0,1556,0.0%
+345,Marco Polo II: The Caravans,0,-1,7.3,-1.0,71,0.0%
+346,Maracaibo: Own Monument Promo Card,0,-1,7.5,-1.0,14,0.0%
+347,Maracaibo: La Armada,0,-1,7.9,-1.0,194,0.0%
+348,Maracaibo: Flying Dutchman Promo Tile,0,-1,7.8,-1.0,24,0.0%
+349,Mahjong,0,760,7.0,7.0,6439,0.0%
+350,Mafia de Cuba: Revolución,0,-1,6.7,-1.0,282,0.0%
+351,Madeira: The Ambassadors,0,-1,7.6,-1.0,148,0.0%
+352,The Logo Board Game,0,20122,5.1,-1.0,909,0.0%
+353,Letters from Whitechapel: Dear Boss,0,-1,7.0,-1.0,256,0.0%
+354,Legacy: The Testament of Duke de Crecy – Extra Mansion Cards,0,-1,6.7,-1.0,131,0.0%
+355,Domaine,0,893,7.0,-1.0,4276,0.0%
+356,Last Will: Messenger Promo Card,0,-1,7.1,-1.0,262,0.0%
+357,Lancaster: The New Laws,0,-1,7.5,-1.0,414,0.0%
+358,Lancaster: Reward Tiles,0,-1,7.4,-1.0,109,0.0%
+359,Lancaster: Henry V – The Power of the King,0,-1,7.7,-1.0,277,0.0%
+360,Lancaster,0,345,7.4,-1.0,6661,0.0%
+361,Kreuzwort,0,9394,6.4,5.0,97,0.0%
+362,Koop- en Kaapvaartspel,0,-1,5.5,-1.0,13,0.0%
+363,A Castle for All Seasons: Winter Cards,0,-1,6.8,-1.0,173,0.0%
+364,A Castle for All Seasons,0,1437,6.7,-1.0,2934,0.0%
+365,Catan Card Game,0,960,6.7,-1.0,13003,0.0%
+366,The King's Abbey,0,3207,6.9,-1.0,587,0.0%
+367,Keyword,0,-1,5.4,4.0,15,0.0%
+368,Keyflower: The Merchants,0,-1,8.1,-1.0,853,0.0%
+369,Keyflower: The Farmers,0,-1,7.9,-1.0,1119,0.0%
+370,Keyflower: Sorcerer,0,-1,7.9,-1.0,70,0.0%
+371,Keyflower: Boat 7,0,-1,7.9,-1.0,64,0.0%
+372,Keyflower: Beekeeper,0,-1,7.6,-1.0,186,0.0%
+373,Key Market (Second Edition),0,3843,7.6,-1.0,243,0.0%
+374,K2: The Avalanche,0,-1,7.0,-1.0,295,0.0%
+375,K2: Broad Peak,0,-1,7.6,-1.0,807,0.0%
+376,In the Year of the Dragon,0,297,7.4,-1.0,10759,0.0%
+377,It's a Wonderful World: Empire Cards Side C,0,-1,7.9,-1.0,48,0.0%
+378,Istanbul: Pegasus Depot Mini Expansion,0,-1,7.5,-1.0,199,0.0%
+379,Istanbul: Kebab Shop Mini Expansion,0,-1,7.2,-1.0,403,0.0%
+380,Istanbul: Caravan Leader Mini Expansion,0,-1,6.9,-1.0,92,0.0%
+381,Istanbul: Letters & Seals,0,-1,7.8,-1.0,1166,0.0%
+382,Isle of Skye: From Chieftain to King – Tunnelplättchen,0,-1,7.5,-1.0,120,0.0%
+383,Isle of Skye: From Chieftain to King – Themenplättchen,0,-1,7.3,-1.0,211,0.0%
+384,Isle of Skye: From Chieftain to King – Kennerspiel des Jahres Promo Tile,0,-1,7.3,-1.0,182,0.0%
+385,The Voyages of Marco Polo: Agents of Venice,0,-1,7.9,-1.0,1016,0.0%
+386,Lord of the Rings: Friends & Foes,0,-1,7.3,-1.0,2697,0.0%
+387,The Lord of the Rings,0,876,6.8,-1.0,14258,0.0%
+388,Imperial Settlers: Storage Tiles,0,-1,7.1,-1.0,100,0.0%
+389,Imperial Settlers: Storage Box Plus,0,-1,8.4,-1.0,9,0.0%
+390,Imperial Settlers: Rise of the Empire,0,-1,7.6,-1.0,91,0.0%
+391,Imperial Settlers: Council Promo,0,-1,6.9,-1.0,74,0.0%
+392,Imperial Settlers: Why Can't We Be Friends,0,-1,7.6,-1.0,1892,0.0%
+393,Imperial Settlers: Marketplace,0,-1,7.8,-1.0,34,0.0%
+394,Imperial Settlers: Expedition Tokens,0,-1,7.3,-1.0,245,0.0%
+395,Imperial Settlers: Empires of the North – Solo Scenarios,0,-1,7.9,-1.0,34,0.0%
+396,Imperial Settlers: Empires of the North – Roman Banners,0,-1,8.2,-1.0,233,0.0%
+397,Imperial Settlers: Empires of the North – Japanese Islands: Feudal Age Solo Scenario,0,-1,7.9,-1.0,11,0.0%
+398,Imperial Settlers: Empires of the North – Japanese Islands,0,-1,8.1,-1.0,306,0.0%
+399,Imperial Settlers: 3 Is a Magic Number,0,-1,7.5,-1.0,740,0.0%
+400,Imperial Settlers: Common Village Cards,0,-1,8.2,-1.0,15,0.0%
+401,Imperial Settlers: Aztecs,0,-1,7.6,-1.0,753,0.0%
+402,Imhotep: The Private Ships – Mini Expansion,0,-1,7.4,-1.0,193,0.0%
+403,Imhotep: A New Dynasty,0,-1,7.9,8.0,428,0.0%
+404,Imhotep: The Stonemason's Wager – Mini Expansion,0,-1,7.0,-1.0,167,0.0%
+405,Village: Customer Expansion 2,0,-1,7.3,8.0,243,0.0%
+406,Village: Customer Expansion,0,-1,7.2,8.0,470,0.0%
+407,Broker,0,10461,5.8,-1.0,383,0.0%
+408,Hansa,0,952,6.9,-1.0,4937,0.0%
+409,Hare & Tortoise,0,1400,6.6,6.5,4325,0.0%
+410,Guilds of London: New Guilds – Cheese- and Papermakers,0,-1,7.2,-1.0,50,0.0%
+411,Guilds of London: Guild of Snowmen,0,-1,7.2,-1.0,25,0.0%
+412,Het Groot Van Dale Spel der Nederlandse Taal: Welk Woord?,0,-1,6.4,7.0,5,0.0%
+413,Het Groot Van Dale Spel der Nederlandse Taal: Spreekwoorden en Gezegden,0,-1,5.9,7.0,9,0.0%
+414,Het Groot Van Dale Spel der Nederlandse Taal: Etymologie,0,-1,6.8,7.0,4,0.0%
+415,Het Groot Van Dale Spel der Nederlandse Taal,0,-1,5.9,7.0,28,0.0%
+416,The Grizzled: At Your Orders!,0,-1,7.7,-1.0,1958,0.0%
+417,Great Western Trail: Promo Station Master Tiles,0,-1,8.0,-1.0,240,0.0%
+418,La Granja: 2nd Edition Promo Cards,0,-1,7.6,8.5,278,0.0%
+419,Grand Austria Hotel: Christmas Time Promo,0,-1,8.4,-1.0,7,0.0%
+420,Goa,0,180,7.6,-1.0,10921,0.0%
+421,Go,0,171,7.6,-1.0,14810,0.0%
+422,Pack & Stack,0,2016,6.4,5.0,2901,0.0%
+423,FUSE: Wild Die,0,-1,7.2,-1.0,102,0.0%
+424,Wealth of Nations,0,13450,5.8,-1.0,261,0.0%
+425,Fortuna,0,3214,6.5,-1.0,873,0.0%
+426,Flamme Rouge: Vuokatin vaara,0,-1,7.0,-1.0,5,0.0%
+427,Flamme Rouge: Vätternrundan,0,-1,7.3,-1.0,6,0.0%
+428,Flamme Rouge: Team Trial,0,-1,7.0,-1.0,25,0.0%
+429,Flamme Rouge: Styrkeprøven,0,-1,7.2,-1.0,4,0.0%
+430,Flamme Rouge: Plateaux de Wallonie,0,-1,7.4,-1.0,13,0.0%
+431,Flamme Rouge: Meteo,0,-1,7.5,-1.0,689,0.0%
+432,Flamme Rouge: Le Grand Baroud (Team Direct Énergie),0,-1,7.3,-1.0,10,0.0%
+433,Flamme Rouge: Etape de la Vallée,0,-1,7.2,-1.0,4,0.0%
+434,Finca (2018 Edition),0,-1,7.8,8.0,249,0.0%
+435,Fields of Green: Crop Circle,0,-1,7.0,-1.0,126,0.0%
+436,Fields of Green: Camels,0,-1,7.6,-1.0,33,0.0%
+437,Fields of Green,0,815,7.2,-1.0,3179,0.0%
+438,Fabled Fruit: The Lime Expansion,0,-1,7.5,-1.0,150,0.0%
+439,Endeavor,0,295,7.4,7.0,9077,0.0%
+440,Egizia: Shifting Sands,0,1706,7.7,-1.0,715,0.0%
+441,Village: Port,0,-1,8.0,8.0,1742,0.0%
+442,Dominant Species,0,64,7.8,-1.0,17989,0.0%
+443,Dixit: Revelations,0,-1,8.0,7.0,1454,0.0%
+444,Dixit: Mirrors,0,-1,8.1,-1.0,64,0.0%
+445,Dixit: Anniversary,0,-1,8.0,-1.0,646,0.0%
+446,Dixit: Harmonies,0,-1,7.9,7.0,603,0.0%
+447,Dixit: Origins,0,-1,7.8,7.0,2316,0.0%
+448,Dixit 3: Journey,0,-1,7.8,7.0,2478,0.0%
+449,Dixit: Quest,0,-1,7.7,7.0,6616,0.0%
+450,Diplomacy,0,605,7.0,-1.0,12083,0.0%
+451,Die Siedler von Catan: Kartenspiel – Wissenschaft & Fortschritt,0,-1,7.1,-1.0,596,0.0%
+452,Die Siedler von Catan: Kartenspiel – Ritter & Händler,0,-1,6.9,-1.0,595,0.0%
+453,Die Siedler von Catan: Kartenspiel – Politik & Intrige,0,-1,7.0,-1.0,675,0.0%
+454,Die Siedler von Catan: Kartenspiel – Handel & Wandel,0,-1,7.0,-1.0,669,0.0%
+455,Catan,0,395,7.2,-1.0,101212,0.0%
+456,Die Glasstraße: Oktoberfest,0,-1,7.1,-1.0,183,0.0%
+457,Glass Road,0,270,7.4,-1.0,9013,0.0%
+458,Cuba: El Presidente,0,-1,7.7,8.0,1049,0.0%
+459,Cuba,0,531,7.1,7.0,7891,0.0%
+460,Crowbar Hotel,0,-1,9.5,-1.0,2,0.0%
+461,Covert: Kane Klenko Character Card,0,-1,7.0,-1.0,13,0.0%
+462,Covert,0,1506,7.1,8.0,1395,0.0%
+463,Counterfeiters: Action Improvements,0,-1,6.5,-1.0,16,0.0%
+464,Commissioned,0,2105,7.3,7.5,764,0.0%
+465,Columba: Officia,0,-1,6.7,-1.0,3,0.0%
+466,Columba,0,6403,6.9,-1.0,146,0.0%
+467,Codenames: Pictures – 5x5 Promo Tiles,0,-1,7.0,-1.0,257,0.0%
+468,Codenames: Pictures,0,319,7.3,7.0,16964,0.0%
+469,Codenames: Bonuskaarten 2016,0,-1,7.1,-1.0,23,0.0%
+470,Clue,0,8703,5.7,-1.0,17489,0.0%
+471,Christmas Tree: Essen Special Cards,0,-1,6.6,-1.0,5,0.0%
+472,Krieg und Frieden,0,5025,6.1,-1.0,705,0.0%
+473,Century: Spice Road – Bonus Cards,0,-1,7.7,-1.0,177,0.0%
+474,Celestia: Grappling Hook Promo,0,-1,7.3,-1.0,126,0.0%
+475,Celestia: A Little Initiative,0,-1,7.3,-1.0,170,0.0%
+476,Celestia: A Little Help,0,-1,7.3,-1.0,635,0.0%
+477,Cavum,0,2249,6.7,-1.0,1346,0.0%
+478,Caverna: The Forgotten Folk,0,-1,8.4,-1.0,877,0.0%
+479,Caverna: Water Expansion,0,-1,7.3,-1.0,400,0.0%
+480,Caverna: Mini Expansion,0,-1,7.4,-1.0,327,0.0%
+481,Castles of Mad King Ludwig: Secrets,0,-1,7.3,-1.0,1759,0.0%
+482,Castles of Mad King Ludwig,0,133,7.6,7.5,22082,0.0%
+483,The Castles of Burgundy: 8th Expansion – Trade Routes,0,-1,7.9,-1.0,413,0.0%
+484,The Castles of Burgundy: 5th Expansion – Pleasure Garden,0,-1,7.9,-1.0,645,0.0%
+485,The Castles of Burgundy: 4th Expansion – Monastery Boards,0,-1,7.8,-1.0,773,0.0%
+486,The Castles of Burgundy: 2nd Expansion – New Hex Tiles,0,-1,7.6,-1.0,838,0.0%
+487,Careers,0,5708,5.8,-1.0,2259,0.0%
+488,El Capitán,0,1786,6.8,-1.0,1748,0.0%
+489,Camel Up: The Referee Camel,0,-1,6.5,-1.0,169,0.0%
+490,Fortune,0,10746,6.0,-1.0,145,0.0%
+491,Bruges: The City on the Zwin,0,-1,7.8,8.5,1101,0.0%
+492,Brügge: Die Haustiere,0,-1,7.1,6.0,296,0.0%
+493,Brew Crafters,0,665,7.5,9.0,2795,0.0%
+494,BraveRats,0,2202,6.5,5.0,2156,0.0%
+495,Bohnanza,0,450,7.0,-1.0,38186,0.0%
+496,Black Stories Junior: Blue Stories,0,17661,5.0,-1.0,30,0.0%
+497,Black It Out,0,10854,8.2,-1.0,61,0.0%
+498,Bios:Genesis,0,1687,7.2,-1.0,1239,0.0%
+499,Big Brain Academy Cardgame,0,-1,4.5,-1.0,29,0.0%
+500,Basari: Das Kartenspiel,0,4898,6.6,-1.0,342,0.0%
+501,Malefiz,0,19732,5.4,-1.0,1035,0.0%
+502,Backgammon,0,1277,6.5,-1.0,11651,0.0%
+503,Adventure Land: King & Princess,0,-1,7.4,-1.0,107,0.0%
+504,Adventure Land,0,1414,6.9,-1.0,2038,0.0%
+505,Asara,0,1091,7.0,-1.0,2649,0.0%
+506,Artifact,0,14896,5.6,-1.0,125,0.0%
+507,Architects of the West Kingdom: Racketeer,0,-1,7.9,-1.0,27,0.0%
+508,Architects of the West Kingdom: Extra Player Boards,0,-1,7.9,-1.0,310,0.0%
+509,Architects of the West Kingdom: Garphill Games 5-Year Anniversary Promo Cards,0,-1,8.0,-1.0,81,0.0%
+510,Architects of the West Kingdom: Promo Paradise Card Set,0,-1,7.7,-1.0,48,0.0%
+511,Architects of the West Kingdom: King's Table Top,0,-1,7.8,-1.0,33,0.0%
+512,Aquileia,0,3925,6.7,-1.0,490,0.0%
+513,Amerigo Queenie 3: Special Production Buildings and Tokens,0,-1,7.4,-1.0,182,0.0%
+514,"Amerigo Queenie 2: Cove Island, Bay Island & New Progress Tokens",0,-1,7.6,-1.0,176,0.0%
+515,Amerigo Queenie 1: Volcanic Island,0,-1,7.3,-1.0,171,0.0%
+516,Alchemists: Publisher,0,-1,7.6,-1.0,125,0.0%
+517,Alchemists: Ring of Favor,0,-1,7.6,-1.0,224,0.0%
+518,Agricola: Through the Seasons,0,-1,7.1,8.0,880,0.0%
+519,Agricola: Farmers of the Moor,0,-1,8.1,-1.0,5599,0.0%
+520,4 Seasons,0,14242,6.4,-1.0,40,0.0%
+521,30 Seconds,0,3574,6.7,4.0,623,0.0%
+522,Het 1845 Spel,0,-1,4.2,4.0,10,0.0%

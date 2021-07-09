@@ -1,0 +1,698 @@
+,Game,Plays,BGG Rank,BGG Rating,Your Rating,Users Rating,Utilisation
+0,Two Rooms and a Boom,81,901,7.0,10.0,4292,99.9%
+1,Crokinole,74,66,7.9,10.0,12136,99.9%
+2,One Night Ultimate Werewolf,59,413,7.1,8.8,21419,99.9%
+3,Codenames,59,93,7.6,10.0,67424,99.9%
+4,Insider,37,1040,7.1,8.5,2675,99.9%
+5,Splendor,29,167,7.5,8.5,58499,99.8%
+6,Android: Netrunner,26,53,7.9,7.7,26700,99.7%
+7,Stockpile,24,342,7.5,9.8,5500,99.6%
+8,Decrypto,23,104,7.8,9.0,11595,99.4%
+9,Skull King,22,548,7.4,8.0,4083,99.3%
+10,7 Wonders,22,60,7.8,8.8,84104,99.3%
+11,Tak,21,809,7.7,9.5,2064,99.2%
+12,Survive: Escape from Atlantis!,17,285,7.3,8.8,20407,98.0%
+13,Viticulture,16,188,7.6,10.0,10152,97.4%
+14,Sushi Go!,16,444,7.1,7.8,34649,97.4%
+15,Ca$h 'n Guns (Second Edition),16,688,6.9,8.5,12597,97.4%
+16,One Night Ultimate Werewolf Daybreak,15,505,7.4,8.8,4864,96.8%
+17,Love Letter,15,282,7.2,7.0,55827,96.8%
+18,Lords of Waterdeep,15,71,7.8,8.5,45819,96.8%
+19,Eminent Domain,15,556,7.0,8.8,9502,96.8%
+20,CrossTalk,15,2483,7.0,9.0,753,96.8%
+21,Takenoko,14,280,7.3,8.0,35084,96.0%
+22,Arboretum,14,254,7.4,10.0,13034,96.0%
+23,7 Wonders: Cities,14,-1,7.8,9.2,9838,96.0%
+24,Telestrations: 12 Player Party Pack,13,595,7.8,8.2,2156,94.9%
+25,Lords of Waterdeep: Rapid Expansion Promo Card,13,-1,7.6,-1.0,272,94.9%
+26,Captain Sonar,13,157,7.6,9.0,15954,94.9%
+27,Wingspan,11,20,8.1,9.0,42672,92.0%
+28,Welcome To...,11,126,7.6,-1.0,17195,92.0%
+29,Sheriff of Nottingham,11,368,7.1,8.5,29544,92.0%
+30,One Night Ultimate Werewolf: Bonus Pack 1,11,-1,7.6,8.8,310,92.0%
+31,Panamax,10,622,7.3,9.5,3571,90.0%
+32,Monikers,10,340,7.8,10.0,3475,90.0%
+33,Roll for the Galaxy,9,94,7.7,8.2,26342,87.4%
+34,The Resistance: Avalon,9,131,7.6,8.6,27053,87.4%
+35,Pandemic,9,99,7.6,8.0,101865,87.4%
+36,The Estates,9,671,7.5,9.2,2531,87.4%
+37,Deception: Murder in Hong Kong,9,191,7.5,9.0,15932,87.4%
+38,Azul,9,50,7.8,9.4,53207,87.4%
+39,Fugitive,8,686,7.2,-1.0,3897,84.1%
+40,Coup,8,501,7.0,8.0,35884,84.1%
+41,Betrayal at House on the Hill,8,519,7.1,8.6,36940,84.1%
+42,Agricola,8,31,7.9,8.8,63367,84.1%
+43,7 Wonders: Leaders,8,-1,7.8,9.2,13462,84.1%
+44,Sol: Last Days of a Star,7,1508,7.6,-1.0,945,80.0%
+45,Skull,7,381,7.2,8.0,14130,80.0%
+46,Ninja Camp,7,2435,6.8,7.8,1077,80.0%
+47,Lords of Vegas,7,408,7.3,9.2,6532,80.0%
+48,Isle of Skye: From Chieftain to King,7,195,7.4,9.2,20353,80.0%
+49,Gloomhaven,7,1,8.8,-1.0,41815,80.0%
+50,Concordia,7,18,8.1,10.0,27940,80.0%
+51,Clans of Caledonia,7,44,8.0,9.2,14756,80.0%
+52,Call to Adventure,7,856,7.3,8.4,3223,80.0%
+53,Modern Art,7,221,7.4,9.2,16670,80.0%
+54,Viticulture: Tuscany – Expand the World of Viticulture,6,-1,8.4,10.0,2447,74.8%
+55,The Resistance,6,267,7.3,7.8,35861,74.8%
+56,Power Grid,6,39,7.9,7.8,56129,74.8%
+57,Great Western Trail,6,11,8.3,8.8,29290,74.8%
+58,Eminent Domain: Escalation,6,-1,7.8,8.5,1201,74.8%
+59,Concept,6,756,6.8,8.8,15389,74.8%
+60,City of the Big Shoulders,6,641,8.0,9.4,1693,74.8%
+61,The Castles of Burgundy,6,15,8.1,9.4,46330,74.8%
+62,Carcassonne,6,181,7.4,9.0,101546,74.8%
+63,Between Two Cities,6,588,7.0,8.5,9466,74.8%
+64,Architects of the West Kingdom,6,79,7.8,-1.0,16705,74.8%
+65,World Championship Russian Roulette,5,2707,6.9,-1.0,780,68.3%
+66,Wavelength,5,496,7.5,-1.0,3645,68.3%
+67,Risk Legacy,5,348,7.4,-1.0,7538,68.3%
+68,Pictomania,5,720,7.3,8.5,3230,68.3%
+69,Pax Pamir: Second Edition,5,77,8.4,-1.0,4264,68.3%
+70,Paperback,5,457,7.2,8.0,8906,68.3%
+71,Lords of Waterdeep: Scoundrels of Skullport,5,-1,8.2,8.7,11442,68.3%
+72,Keyflower,5,72,7.8,9.1,18952,68.3%
+73,High Society,5,566,7.1,-1.0,8875,68.3%
+74,Food Chain Magnate,5,30,8.1,-1.0,13806,68.3%
+75,A Fake Artist Goes to New York,5,656,7.2,-1.0,4768,68.3%
+76,Escape from the Aliens in Outer Space,5,1022,6.9,8.8,3864,68.3%
+77,Dixit: Journey,5,515,7.4,7.7,4189,68.3%
+78,Dead of Winter: A Crossroads Game,5,121,7.6,9.0,39207,68.3%
+79,Bruges,5,260,7.4,6.5,10254,68.3%
+80,Brass: Lancashire,5,19,8.2,9.5,19333,68.3%
+81,Archipelago,5,390,7.3,8.9,7359,68.3%
+82,7 Wonders: Wonder Pack,5,-1,7.6,7.5,5176,68.3%
+83,7 Wonders: Leaders – Wil,5,-1,7.0,8.4,484,68.3%
+84,Zombicide: Toxic City Mall,4,-1,7.7,-1.0,2541,60.1%
+85,Word Domination,4,2791,7.1,7.5,598,60.1%
+86,Tajemnicze Domostwo,4,633,7.2,8.5,4875,60.1%
+87,Stockpile: Continuing Corruption,4,-1,8.0,9.0,778,60.1%
+88,Qwirkle,4,796,6.8,7.0,16075,60.1%
+89,Mascarade,4,1151,6.6,7.4,9204,60.1%
+90,La Granja,4,168,7.7,8.9,8724,60.1%
+91,Gold West,4,781,7.4,8.5,2348,60.1%
+92,Gobblet,4,2270,6.6,-1.0,1653,60.1%
+93,Dune: Imperium,4,216,8.5,-1.0,2498,60.1%
+94,Dead of Winter: Kodiak Colby,4,-1,7.7,9.0,558,60.1%
+95,Container,4,702,7.2,8.8,4377,60.1%
+96,Cards Against Humanity,4,4284,5.9,7.2,23175,60.1%
+97,Betrayal Legacy,4,420,7.8,-1.0,3159,60.1%
+98,7 Wonders: Leaders – Stevie,4,-1,6.9,-1.0,1044,60.1%
+99,7 Wonders Duel,4,17,8.1,9.0,59932,60.1%
+100,Twilight Imperium: Third Edition,3,80,7.8,10.0,18296,49.8%
+101,T.I.M.E Stories,3,143,7.6,8.0,23672,49.8%
+102,Swords and Bagpipes,3,5397,6.6,-1.0,259,49.8%
+103,Survive: Escape from Atlantis! 5-6 Player Mini Expansion,3,-1,7.4,8.6,1615,49.8%
+104,Stack The Bones,3,-1,5.8,-1.0,19,49.8%
+105,The Sneaky Snacky Squirrel Game,3,20025,5.1,-1.0,432,49.8%
+106,Sheriff of Nottingham: Gen Con Promo Set,3,-1,7.3,-1.0,198,49.8%
+107,Sheriff of Nottingham: Dice Tower Promo Pack,3,-1,7.3,-1.0,120,49.8%
+108,Scythe,3,14,8.2,8.8,57625,49.8%
+109,Sakura Arms,3,2955,7.6,-1.0,426,49.8%
+110,The Pursuit of Happiness,3,652,7.2,8.2,4094,49.8%
+111,Pandemic: On the Brink,3,-1,8.1,-1.0,16131,49.8%
+112,Orléans,3,25,8.1,9.0,22110,49.8%
+113,On Mars,3,69,8.3,-1.0,5685,49.8%
+114,Nusfjord,3,365,7.6,-1.0,4091,49.8%
+115,Ninja Versus Ninja,3,4744,6.1,5.9,954,49.8%
+116,Lowlands,3,864,7.4,-1.0,2032,49.8%
+117,Glory to Rome,3,200,7.5,10.0,12957,49.8%
+118,Gentes: Deluxified Edition,3,-1,7.8,8.5,1288,49.8%
+119,DinoGenics,3,882,7.7,-1.0,1561,49.8%
+120,Deep Sea Adventure,3,619,7.0,-1.0,10690,49.8%
+121,Cuisine a la Card,3,6521,7.0,7.3,148,49.8%
+122,Carcassonne: The Cult,3,-1,6.7,-1.0,498,49.8%
+123,Carcassonne: Promo Tiles,3,-1,7.3,-1.0,1190,49.8%
+124,"Carcassonne: Expansion 6 – Count, King & Robber",3,-1,6.8,-1.0,1785,49.8%
+125,Carcassonne: Expansion 2 – Traders & Builders,3,-1,7.6,9.0,15539,49.8%
+126,Carcassonne: Expansion 1 – Inns & Cathedrals,3,-1,7.6,9.0,19773,49.8%
+127,Blood Rage,3,34,8.0,9.2,33822,49.8%
+128,Above and Below,3,251,7.4,8.4,12830,49.8%
+129,7 Wonders: Leaders – Louis,3,-1,7.0,-1.0,921,49.8%
+130,Yokohama,2,104,7.9,7.7,8829,36.9%
+131,Xia: Legends of a Drift System,2,145,7.9,-1.0,7323,36.9%
+132,Tokaido Collector's Edition,2,-1,7.7,8.9,1243,36.9%
+133,Tigris & Euphrates,2,92,7.7,-1.0,25297,36.9%
+134,Spy Web,2,9938,6.1,5.2,146,36.9%
+135,Skyway Robbery,2,7485,6.7,7.7,140,36.9%
+136,Sidereal Confluence: Remastered Edition,2,508,7.8,-1.0,2328,36.9%
+137,Seasons,2,210,7.4,7.8,20745,36.9%
+138,SeaFall,2,2541,6.3,-1.0,3121,36.9%
+139,Russian Railroads,2,90,7.8,-1.0,14806,36.9%
+140,Rising Sun,2,85,7.9,-1.0,15717,36.9%
+141,Pax Renaissance,2,517,8.0,-1.0,1892,36.9%
+142,Pandemic Legacy: Season 2,2,35,8.2,-1.0,12031,36.9%
+143,Outlive,2,667,7.4,8.5,3563,36.9%
+144,Ninja Camp: Badges and Activities,2,-1,7.1,-1.0,59,36.9%
+145,Mysterium,2,256,7.3,8.2,31970,36.9%
+146,Mottainai,2,937,7.0,7.2,3486,36.9%
+147,Monikers: Shmonikers,2,3031,8.0,9.0,279,36.9%
+148,Kemet,2,102,7.7,-1.0,16243,36.9%
+149,Jaipur,2,135,7.5,-1.0,37008,36.9%
+150,Irish Gauge,2,1043,7.4,-1.0,1721,36.9%
+151,Happy Salmon,2,1227,6.8,7.0,4035,36.9%
+152,A Game of Thrones: The Board Game (Second Edition),2,132,7.6,8.0,28575,36.9%
+153,The Gallerist,2,57,8.0,-1.0,9649,36.9%
+154,For Glory,2,7998,8.4,-1.0,70,36.9%
+155,Dinosaur Island,2,134,7.7,-1.0,11483,36.9%
+156,Clank! Legacy: Acquisitions Incorporated,2,56,8.8,9.4,3242,36.9%
+157,Carson City: Big Box,2,-1,8.1,-1.0,1602,36.9%
+158,Cards Against Humanity: Third Expansion,2,-1,6.7,-1.0,1631,36.9%
+159,"Cards Against Humanity: The Bigger, Blacker Box",2,-1,6.6,-1.0,1100,36.9%
+160,Cards Against Humanity: Second Expansion,2,-1,6.7,-1.0,2173,36.9%
+161,Cards Against Humanity: Reject Pack,2,-1,6.1,-1.0,105,36.9%
+162,Cards Against Humanity: PAX Prime 2013 Promo Pack,2,-1,5.9,-1.0,58,36.9%
+163,Cards Against Humanity: PAX East 2013 Promo Packs,2,-1,6.1,-1.0,125,36.9%
+164,Cards Against Humanity: House of Cards Pack,2,-1,6.0,-1.0,64,36.9%
+165,Cards Against Humanity: Fourth Expansion,2,-1,6.7,-1.0,1173,36.9%
+166,Cards Against Humanity: First Expansion,2,-1,6.6,-1.0,2693,36.9%
+167,Cards Against Humanity: 12 Days of Holiday Bullshit,2,-1,6.7,-1.0,453,36.9%
+168,Cards Against Humanity: 2012 Holiday Pack,2,-1,6.6,-1.0,714,36.9%
+169,Blokus,2,646,6.9,6.0,22840,36.9%
+170,Barrage,2,61,8.2,9.0,6375,36.9%
+171,Animal Upon Animal,2,908,6.8,-1.0,7101,36.9%
+172,The 7th Continent,2,32,8.2,9.0,16777,36.9%
+173,7 Wonders: Babel,2,-1,7.0,-1.0,3636,36.9%
+174,Zombicide Season 2: Prison Outbreak,1,582,7.4,-1.0,4247,20.5%
+175,Zatre,1,5928,6.4,-1.0,294,20.5%
+176,Voodoo,1,3695,6.3,-1.0,1153,20.5%
+177,The Voyages of Marco Polo,1,55,7.9,-1.0,20157,20.5%
+178,Vinhos Deluxe Edition,1,109,8.2,-1.0,4225,20.5%
+179,Twilight Imperium: Third Edition – Shattered Empire,1,-1,8.6,9.6,4588,20.5%
+180,Trogdor!! The Board Game,1,2842,7.0,-1.0,651,20.5%
+181,Ticket to Ride: 10th Anniversary,1,-1,8.3,8.6,5030,20.5%
+182,Survive: Escape from Atlantis! The Giant Squid Mini Expansion,1,-1,7.1,-1.0,1500,20.5%
+183,Shadowrun: Sprawl Ops,1,7337,6.6,-1.0,208,20.5%
+184,Roll for the Galaxy: Ambition,1,-1,8.1,-1.0,3144,20.5%
+185,Rhino Hero,1,722,6.9,7.2,8330,20.5%
+186,[redacted],1,4844,6.2,-1.0,681,20.5%
+187,Project: ELITE,1,1391,7.7,-1.0,988,20.5%
+188,Power Grid: BGG Promo Card Set,1,-1,7.5,-1.0,602,20.5%
+189,Paladins of the West Kingdom,1,73,8.1,-1.0,8082,20.5%
+190,The Ninth World: A Skillbuilding Game for Numenera,1,9392,6.3,-1.0,119,20.5%
+191,Martians: A Story of Civilization,1,3395,6.5,-1.0,850,20.5%
+192,Lords of Hellas,1,218,7.9,-1.0,5482,20.5%
+193,Keyflower: The Farmers,1,-1,7.9,-1.0,1119,20.5%
+194,Istanbul,1,117,7.6,-1.0,25157,20.5%
+195,Inis,1,107,7.8,8.0,12580,20.5%
+196,Imperial,1,207,7.6,-1.0,8243,20.5%
+197,FUSE,1,645,7.1,7.9,7016,20.5%
+198,Funemployed: Seasonal Help,1,-1,6.8,8.6,38,20.5%
+199,Funemployed,1,1992,6.8,8.6,1578,20.5%
+200,Escape the Room: Secret of Dr. Gravely's Retreat,1,2608,7.0,-1.0,717,20.5%
+201,Escape Room: The Game (Escape Rooms II),1,-1,6.9,-1.0,105,20.5%
+202,The Dresden Files Cooperative Card Game: Expansion 3 – Wardens Attack,1,-1,7.6,-1.0,163,20.5%
+203,The Dresden Files Cooperative Card Game,1,1612,7.1,-1.0,1519,20.5%
+204,Dixit: Odyssey,1,212,7.5,7.7,16662,20.5%
+205,Deckscape: Heist in Venice,1,2072,6.8,-1.0,1277,20.5%
+206,Concordia: Salsa,1,-1,8.3,10.0,2986,20.5%
+207,Concordia Venus,1,249,8.4,9.0,2261,20.5%
+208,Cards Against Humanity: Fifth Expansion,1,-1,6.8,-1.0,759,20.5%
+209,Carcassonne: The River,1,-1,7.0,-1.0,9925,20.5%
+210,Ca$h 'n Guns (Second Edition): More Ca$h 'n More Guns,1,-1,7.3,-1.0,693,20.5%
+211,Burgle Bros.,1,238,7.5,-1.0,8386,20.5%
+212,Brass: Birmingham,1,3,8.7,-1.0,18969,20.5%
+213,Belfort,1,513,7.2,7.8,5945,20.5%
+214,Acquire,1,276,7.3,6.5,18189,20.5%
+215,7 Wonders: Catan,1,-1,7.1,5.0,1862,20.5%
+216,Xia: Missions and Powers,0,-1,8.5,-1.0,626,0.0%
+217,Xia: Legends of a Drift System – Sellsword,0,-1,7.8,-1.0,473,0.0%
+218,Xia: Embers of a Forsaken Star,0,-1,8.7,-1.0,1871,0.0%
+219,Xia: Balanced Economy Promo Card,0,-1,7.7,-1.0,6,0.0%
+220,World War Z: The Game,0,19790,4.5,-1.0,111,0.0%
+221,Wingspan: European Expansion,0,-1,8.4,-1.0,5981,0.0%
+222,Wild Assent: Exclusive Workers Promo Cards,0,-1,0.0,-1.0,0,0.0%
+223,When I Dream: Bonus Cards,0,-1,6.9,-1.0,33,0.0%
+224,Western Legends: Man in Black Promo Card,0,-1,7.5,-1.0,19,0.0%
+225,We're Doomed!: Alternative Facts Promo Card,0,-1,6.0,-1.0,1,0.0%
+226,Wazabi: Dice Tower 2017 Promo Pack,0,-1,6.2,-1.0,5,0.0%
+227,VooDoo: Kickstarter Bonus Cards,0,-1,7.3,-1.0,3,0.0%
+228,Viticulture: Visit from the Rhine Valley,0,-1,8.3,-1.0,1110,0.0%
+229,Viticulture: Moor Visitors Expansion,0,-1,8.0,-1.0,1594,0.0%
+230,Vindication: Man Vs. Meeple Promo Pair,0,-1,8.0,-1.0,16,0.0%
+231,Villagers: Dice Tower Promo Cards,0,-1,8.5,-1.0,2,0.0%
+232,Vikings: The Board Game – Dice Tower Kickstarter 2016 Promo,0,-1,5.0,-1.0,1,0.0%
+233,Veggie Garden: Harvest Festival Expansion,0,-1,7.2,-1.0,39,0.0%
+234,Uprising (Fan expansion for Android: Netrunner),0,-1,8.5,-1.0,17,0.0%
+235,Unlock!: Escape Adventures – In Pursuit of Cabrakan,0,6255,6.7,-1.0,171,0.0%
+236,Underwater Cities: MvM Island Facility Promo Card,0,-1,7.4,-1.0,5,0.0%
+237,UBOOT: The Board Game,0,1072,7.8,-1.0,1549,0.0%
+238,Twilight Struggle,0,10,8.3,-1.0,40694,0.0%
+239,Twilight Imperium: Third Edition – Shards of the Throne,0,-1,8.7,-1.0,2365,0.0%
+240,Twilight Imperium: Fourth Edition – Prophecy of Kings,0,-1,9.4,-1.0,430,0.0%
+241,Twilight Imperium: Fourth Edition,0,5,8.7,-1.0,13361,0.0%
+242,Tuscany: Special Worker Promo Cards,0,-1,7.9,-1.0,135,0.0%
+243,Truth Be Told,0,13368,5.9,-1.0,94,0.0%
+244,Trismegistus: The Ultimate Formula – Alchemists,0,-1,8.3,-1.0,4,0.0%
+245,Trick Shot: Towering Promo Cards,0,-1,0.0,-1.0,0,0.0%
+246,Tokaido: Felicia Promo Card,0,-1,6.7,-1.0,69,0.0%
+247,Tiny Epic Tactics: Dice Tower 2020 Promo Cards,0,-1,7.5,-1.0,6,0.0%
+248,Tiny Epic Mechs: Man vs. Meeple Promo Cards,0,-1,6.0,-1.0,3,0.0%
+249,Theseus: The Dark Orbit – Space Station Cards,0,-1,7.0,-1.0,78,0.0%
+250,Teotihuacan: City of Gods – Man vs Meeple Promo,0,-1,7.8,-1.0,17,0.0%
+251,Tekhenu: Obelisk of the Sun – Foundations of Karnak,0,-1,7.3,-1.0,9,0.0%
+252,Teenage Mutant Ninja Turtles: Shadows Of The Past – Fugitoid Promo,0,-1,7.3,-1.0,8,0.0%
+253,Tang Garden: Apricot Tree,0,-1,7.6,-1.0,122,0.0%
+254,Tajemnicze Domostwo: Motive cards,0,-1,7.3,-1.0,49,0.0%
+255,Tainted Grail: The Fall of Avalon – War Runes,0,-1,5.3,-1.0,11,0.0%
+256,Tainted Grail: Forever Autumn Promo Cards,0,-1,3.7,-1.0,12,0.0%
+257,T.I.M.E Stories: Santo Tomás de Aquino,0,-1,7.1,-1.0,474,0.0%
+258,Swords and Bagpipes: Special Dagger deck,0,-1,7.2,-1.0,15,0.0%
+259,Swords and Bagpipes: Know Your Enemy,0,-1,7.9,-1.0,12,0.0%
+260,Swords and Bagpipes: God Me Defend promo,0,-1,7.6,-1.0,10,0.0%
+261,Sushi Go!: Soy Sauce Promo,0,-1,6.9,-1.0,767,0.0%
+262,Survive: Escape from Atlantis! Dolphins & Dive Dice Mini Expansion,0,-1,7.2,-1.0,878,0.0%
+263,Suburbia: Collector's Edition – The Dice Towers,0,-1,7.5,-1.0,26,0.0%
+264,Suburbia: Collector's Edition – Man vs. Meeple Studios,0,-1,7.3,-1.0,26,0.0%
+265,Subatomic: Stephen Hawking Promo Cards,0,-1,6.3,-1.0,3,0.0%
+266,Stockpile: Investor Card Promo Pack #3,0,-1,7.4,-1.0,29,0.0%
+267,Stockpile: Investor Card Promo Pack #2 – Moneymaker Mitt and Socialist Sanders,0,-1,7.3,-1.0,96,0.0%
+268,Stockpile: Investor Card Promo Pack #1 – Opulent Oprah and Royal Robins,0,-1,7.3,-1.0,90,0.0%
+269,Stockpile: Investment Strategy Card Promo Pack,0,-1,7.5,-1.0,26,0.0%
+270,Stockpile: Illicit Investments,0,-1,7.9,-1.0,104,0.0%
+271,Stockpile: Epic Edition,0,-1,8.0,-1.0,405,0.0%
+272,Star Realms: Promo Pack I,0,-1,7.8,-1.0,403,0.0%
+273,Star Realms: Disposal Bot Promo Card,0,-1,7.7,-1.0,3,0.0%
+274,Spyfest: Dice Tower 2020 Promo Cards,0,-1,0.0,-1.0,0,0.0%
+275,Splendor: Nobles Promo Tiles,0,-1,7.3,-1.0,482,0.0%
+276,Splendor: Brettspiel Adventskalender 2017 Promo,0,-1,7.1,-1.0,80,0.0%
+277,Spirit Island: Branch & Claw,0,-1,8.8,-1.0,2714,0.0%
+278,Spell Smashers: Helm of Sponsorship,0,-1,6.7,-1.0,4,0.0%
+279,Speechless: Dice Tower Promo Pack,0,-1,5.0,-1.0,2,0.0%
+280,Space Freaks: Prophecy – The 19th Head Promo Card,0,-1,6.4,-1.0,5,0.0%
+281,Sleeping Gods: Zokmere Polearm Promo Card,0,-1,8.5,-1.0,2,0.0%
+282,Slap .45 Mini,0,16124,5.7,-1.0,38,0.0%
+283,Skulk Hollow: Ancient Relics Mini-Expansion,0,-1,7.4,-1.0,34,0.0%
+284,Silver: Marauder Promo Card Pack,0,-1,9.1,-1.0,5,0.0%
+285,Shipwrights of the North Sea: Garphill Games 5-Year Anniversary Promos,0,-1,7.2,-1.0,41,0.0%
+286,Shinobi WAT-AAH!: Saitenza Promo Card,0,-1,6.8,-1.0,15,0.0%
+287,Sheriff of Nottingham: Tabletop Trophy of Awesome,0,-1,7.0,-1.0,110,0.0%
+288,Sheriff of Nottingham: Royal Summons Promo Card,0,-1,7.1,-1.0,206,0.0%
+289,Sheriff of Nottingham: Pig Promo Pack,0,-1,7.1,-1.0,32,0.0%
+290,Sheriff of Nottingham: Merry Men,0,-1,7.7,-1.0,1346,0.0%
+291,Sheriff of Nottingham: 2017 Dice Tower Indiegogo Promo Pack,0,-1,7.2,-1.0,33,0.0%
+292,Sheriff of Nottingham: 2016 Dice Tower Kickstarter Promo Pack,0,-1,7.3,-1.0,61,0.0%
+293,Shards of Infinity: Subversion Elders Promo Card,0,-1,7.8,-1.0,4,0.0%
+294,Shadowrun: Sprawl Ops – Dice Tower Kickstarter 2019 Promo Cards,0,-1,7.5,-1.0,2,0.0%
+295,Shadowrun: Sprawl Ops – Co-Op Expansion,0,-1,7.3,-1.0,24,0.0%
+296,Shadowrun: Sprawl Ops – Catalyst HQ Promo,0,-1,7.3,-1.0,7,0.0%
+297,Shadowrun: Sprawl Ops – 5-6 Player Expansion,0,-1,7.0,-1.0,23,0.0%
+298,Shadowrun: Sprawl Ops (Side jobs),0,-1,7.5,-1.0,2,0.0%
+299,Sequence,0,3221,6.0,-1.0,7464,0.0%
+300,Secrets of the Lost Station: Dr. Quatuormanus XVI,0,-1,0.0,-1.0,0,0.0%
+301,Seasons: Speedwall the Escaped,0,-1,7.0,-1.0,124,0.0%
+302,Scythe: The Wind Gambit,0,-1,7.9,-1.0,4919,0.0%
+303,Scythe: The Rise of Fenris,0,-1,8.8,-1.0,4705,0.0%
+304,Scythe: Promo Pack #7 – Encounter Card 38,0,-1,8.2,-1.0,326,0.0%
+305,Scythe: Promo Pack #6 – Encounter Card 37,0,-1,8.1,-1.0,320,0.0%
+306,Scythe: Promo Pack #14 – Encounter Card 42,0,-1,8.2,-1.0,273,0.0%
+307,Scythe: Promo Pack #13 – Encounter Card 41,0,-1,8.1,-1.0,305,0.0%
+308,Scythe: Promo Pack #12 – Encounter Card 40,0,-1,8.2,-1.0,277,0.0%
+309,Scythe: Promo Pack #11 – Encounter Card 39,0,-1,8.2,-1.0,287,0.0%
+310,Scythe: Invaders from Afar,0,-1,8.4,-1.0,8024,0.0%
+311,Sanctum: Dice Tower 2020 Promo Cards,0,-1,8.0,-1.0,2,0.0%
+312,Salvation Road,0,5264,6.8,-1.0,247,0.0%
+313,Saltlands: Oil can promo card,0,-1,7.5,-1.0,4,0.0%
+314,Saltlands: Lost In The Desert Expansion,0,-1,7.2,-1.0,102,0.0%
+315,Saltlands,0,3778,6.9,-1.0,464,0.0%
+316,Sagrada: Promo 9 – Man Vs Meeple Window Pattern Card,0,-1,8.0,-1.0,2,0.0%
+317,Sagrada: Promo 10 – Dice Tower 2020 Window Pattern Card,0,-1,8.3,-1.0,8,0.0%
+318,Russian Railroads: Mini-Expansion,0,-1,7.7,-1.0,470,0.0%
+319,Russian Railroads: Juri Dreigleisky,0,-1,7.5,-1.0,68,0.0%
+320,Run Fight or Die: Reloaded – Zombie Cosplayer Promo Card,0,-1,6.4,-1.0,5,0.0%
+321,Romantic Rendezvous,0,-1,4.7,-1.0,6,0.0%
+322,Roll Player: Ring of Charity Promo Card,0,-1,7.7,-1.0,9,0.0%
+323,Roll for the Galaxy: Terraforming Colony/Diversified Economy Promo Tile,0,-1,7.5,-1.0,199,0.0%
+324,Roll for the Galaxy: Bountiful Gaming Grid Promo Tile,0,-1,7.4,-1.0,190,0.0%
+325,Rococo: Deluxe Edition,0,-1,8.4,-1.0,717,0.0%
+326,Robinson Crusoe: Adventures on the Cursed Island – Spyglass of Illusory Hope,0,-1,6.2,-1.0,215,0.0%
+327,Rising Sun: Monster Pack,0,-1,8.2,-1.0,1182,0.0%
+328,Rising Sun: Kami Unbound,0,-1,8.1,-1.0,1154,0.0%
+329,Rising Sun: Dynasty Invasion,0,-1,8.3,-1.0,986,0.0%
+330,Rising Sun: Daimyo Box,0,-1,8.5,-1.0,1293,0.0%
+331,The Rise of Queensdale,0,1557,7.6,-1.0,932,0.0%
+332,The Resistance: Hidden Agenda & Hostile Intent,0,-1,7.6,-1.0,528,0.0%
+333,The Resistance: Avalon Promo Cards,0,-1,7.3,-1.0,429,0.0%
+334,[redacted]: Mercenaries,0,-1,6.7,-1.0,46,0.0%
+335,[redacted]: Garden Party,0,-1,7.3,-1.0,35,0.0%
+336,Reavers of Midgard: Mara Promo Cards,0,-1,8.0,-1.0,2,0.0%
+337,Reavers of Midgard: Finnish Linens Promo Cards,0,-1,6.7,-1.0,3,0.0%
+338,Quodd Heroes: Tom's Brew,0,-1,7.5,-1.0,4,0.0%
+339,The Pursuit of Happiness: Thug Life,0,-1,7.6,-1.0,79,0.0%
+340,The Pursuit of Happiness: Space Trip Promo Card,0,-1,7.5,-1.0,90,0.0%
+341,The Pursuit of Happiness: Run Fair Booth,0,-1,8.1,-1.0,18,0.0%
+342,The Pursuit of Happiness: Perform Magic Promo Card,0,-1,7.5,-1.0,21,0.0%
+343,The Pursuit of Happiness: KS Promos,0,-1,7.6,-1.0,228,0.0%
+344,The Pursuit of Happiness: Experiences – Maui,0,-1,8.8,-1.0,2,0.0%
+345,The Pursuit of Happiness: Experiences KS Promos 3,0,-1,8.0,-1.0,36,0.0%
+346,The Pursuit of Happiness: Experiences,0,-1,7.8,-1.0,116,0.0%
+347,The Pursuit of Happiness: Community – Found Animal Promo Card,0,-1,7.8,-1.0,22,0.0%
+348,The Pursuit of Happiness: Community KS Promos 2,0,-1,7.9,-1.0,77,0.0%
+349,The Pursuit of Happiness: Community,0,-1,7.7,-1.0,317,0.0%
+350,The Pursuit of Happiness: Build Time Machine Promo Card,0,-1,7.6,-1.0,22,0.0%
+351,Project: ELITE – Spawn a Boss Promo Card,0,-1,6.3,-1.0,12,0.0%
+352,Project: ELITE – Sandman,0,-1,7.0,-1.0,61,0.0%
+353,Project: ELITE – Dice Tower Promo Cards,0,-1,6.3,-1.0,8,0.0%
+354,Project: ELITE – Alien Pack,0,-1,7.4,-1.0,117,0.0%
+355,Potion Explosion: Franklin Stickler,0,-1,7.3,-1.0,10,0.0%
+356,Police Precinct: Richard Austria Character Board,0,-1,7.0,-1.0,2,0.0%
+357,Pixel Tactics Promo Pack,0,-1,7.0,-1.0,8,0.0%
+358,Pixel Tactics 4,0,4286,7.1,-1.0,279,0.0%
+359,Pipeline,0,428,7.8,-1.0,2967,0.0%
+360,Pie Town: Special Order Micro Expansion,0,-1,7.6,-1.0,5,0.0%
+361,Periodic: A Game of The Elements – Dice Goal Card,0,-1,0.0,-1.0,0,0.0%
+362,Pax Renaissance: BGG Promo Pack,0,-1,8.2,-1.0,79,0.0%
+363,Pax Renaissance Expansion,0,-1,8.2,-1.0,182,0.0%
+364,Pax Porfiriana,0,464,7.7,-1.0,2981,0.0%
+365,Paris: La Cité de la Lumière – La Liberté éclairant le monde Carte Postale,0,-1,7.5,-1.0,2,0.0%
+366,Paranormal Detectives: Man vs Meeple Promo Card,0,-1,7.5,-1.0,2,0.0%
+367,Pandemic: In the Lab,0,-1,7.9,-1.0,4736,0.0%
+368,Paladins of the West Kingdom: Meeple Folk,0,-1,7.6,-1.0,12,0.0%
+369,Pairs,0,2578,6.4,-1.0,2064,0.0%
+370,Outlive: Leader – Greg & Emmy,0,-1,7.8,-1.0,38,0.0%
+371,Outlive: Kickstarter Exclusives,0,-1,7.7,-1.0,174,0.0%
+372,Orléans: Christmas Market,0,-1,7.1,-1.0,106,0.0%
+373,Orléans: Prairie,0,-1,7.1,-1.0,106,0.0%
+374,Orléans: Neue Ortskarten N°4,0,-1,7.7,-1.0,268,0.0%
+375,Orléans: Neue Ortskarten N°3,0,-1,7.6,-1.0,307,0.0%
+376,Orléans: Neue Ortskarten N°2,0,-1,7.5,-1.0,309,0.0%
+377,Orléans: Neue Ortskarten N°1,0,-1,7.6,-1.0,336,0.0%
+378,On the Underground: Street Fair,0,-1,8.0,-1.0,2,0.0%
+379,Oceans: The Deep – Promo Pack 2,0,-1,8.2,-1.0,44,0.0%
+380,Oceans: The Deep – Promo Pack 1,0,-1,8.2,-1.0,44,0.0%
+381,Nusfjord: The Forgotten,0,-1,7.2,-1.0,31,0.0%
+382,Nusfjord: Plaice Deck,0,-1,8.1,-1.0,211,0.0%
+383,Nothing Personal: The Lodge,0,-1,0.0,-1.0,0,0.0%
+384,Ninja Camp: Kitten,0,-1,7.0,-1.0,55,0.0%
+385,New Salem: Tom Commands Promo Card,0,-1,6.6,-1.0,8,0.0%
+386,Nemesis: Feat Promo Cards,0,-1,8.6,-1.0,8,0.0%
+387,Nemesis: Blood Tests Deck,0,-1,9.7,-1.0,6,0.0%
+388,Nemesis: Adrestia,0,-1,7.7,-1.0,70,0.0%
+389,Near and Far: Secret Cabal Character Tiles,0,-1,7.6,-1.0,18,0.0%
+390,Near And Far: Rodney & Pep Watch It Played Character Tiles,0,-1,7.4,-1.0,27,0.0%
+391,Near and Far: Pandoran Box Promo Card,0,-1,7.1,-1.0,11,0.0%
+392,Near and Far: Handy Headwear promo pack,0,-1,7.6,-1.0,61,0.0%
+393,Near and Far: Dice Tower Character Tiles,0,-1,7.2,-1.0,26,0.0%
+394,Near and Far: Bounty Hunter Character Tiles,0,-1,8.1,-1.0,6,0.0%
+395,Near and Far: Amber Mines,0,-1,8.2,-1.0,720,0.0%
+396,Near and Far,0,150,7.8,-1.0,7190,0.0%
+397,Mysthea: Dice Tower 2020 Promo Cards,0,-1,8.7,-1.0,3,0.0%
+398,Mysterium: Game Day 2016 Promo Card,0,-1,7.6,-1.0,60,0.0%
+399,Mysterium: Brettspiel Adventskalender 2017 Promo,0,-1,7.6,-1.0,43,0.0%
+400,Mysterium: Brettspiel Adventskalender 2016 Promo,0,-1,7.2,-1.0,107,0.0%
+401,Muse: Factory Promo Card,0,-1,6.8,-1.0,14,0.0%
+402,Monster Lands: Aleaturrim Promo Card,0,-1,7.9,-1.0,7,0.0%
+403,Monopoly,0,20278,4.4,3.0,28927,0.0%
+404,Monikers: Twelve Hopelessly Stupid Fourth Rounds,0,-1,7.7,-1.0,39,0.0%
+405,Monikers: The Shut Up & Sit Down Nonsense Box,0,2809,8.1,-1.0,302,0.0%
+406,Monikers: The McElroy Collection,0,-1,8.0,-1.0,22,0.0%
+407,Monikers: Something Something,0,3559,8.1,-1.0,210,0.0%
+408,Monikers: Serious Nonsense,0,4210,8.3,-1.0,145,0.0%
+409,Monikers: More Monikers,0,3928,8.2,-1.0,165,0.0%
+410,Millennium Blades: Sponsors Mini-Expansion,0,-1,8.0,-1.0,109,0.0%
+411,Millennium Blades: Set Rotation,0,-1,8.4,-1.0,362,0.0%
+412,Millennium Blades: Professionals Mini-Expansion,0,-1,8.1,-1.0,53,0.0%
+413,Millennium Blades: Futures Mini-Expansion,0,-1,8.1,-1.0,96,0.0%
+414,Millennium Blades: Fusion Chaos Mini-Expansion,0,-1,8.1,-1.0,108,0.0%
+415,Millennium Blades: Final Bosses Mini-Expansion,0,-1,8.1,-1.0,103,0.0%
+416,Millennium Blades: Crossover Mini-Expansion,0,-1,8.0,-1.0,117,0.0%
+417,Millennium Blades: Collusion,0,-1,8.7,-1.0,25,0.0%
+418,Millennium Blades: Chucky Smooth Promo,0,-1,7.6,-1.0,16,0.0%
+419,Millennium Blades,0,352,7.7,-1.0,3881,0.0%
+420,Middara: Unintentional Malum – Act 1,0,1353,8.7,-1.0,799,0.0%
+421,MBL Pocket Pro Tour,0,14808,6.0,-1.0,39,0.0%
+422,Mascarade: Expansion,0,-1,7.3,-1.0,806,0.0%
+423,Maracaibo: Own Monument Promo Card,0,-1,7.5,-1.0,14,0.0%
+424,The Magnificent: Master Tiles,0,-1,0.0,-1.0,0,0.0%
+425,Mage Wars: Eeker Promo Card,0,-1,9.0,-1.0,1,0.0%
+426,Mage Wars: Dice Tower 2015 Funding Campaign Promo Card Set,0,-1,6.6,-1.0,11,0.0%
+427,Lowlands: Brettspiel Adventskalender 2018 Promo,0,-1,7.3,-1.0,27,0.0%
+428,Lorenzo il Magnifico: The Pazzi Conspiracy,0,-1,7.0,-1.0,3,0.0%
+429,Lords of Vegas: UP!,0,-1,7.5,-1.0,604,0.0%
+430,Lords of Vegas: Underworld – Promo Cards,0,-1,7.8,-1.0,6,0.0%
+431,Lords of Vegas: Underworld,0,-1,8.0,-1.0,18,0.0%
+432,Lords of Vegas: Sky Bridge / Building Boom,0,-1,7.4,-1.0,51,0.0%
+433,Lords of Vegas: Mob Rules & Union of the Shakes,0,-1,6.8,-1.0,24,0.0%
+434,Lords of Hellas: Dark Ages Expansion,0,-1,8.3,-1.0,229,0.0%
+435,Lords of Hellas: Sparta Cards,0,-1,8.9,-1.0,8,0.0%
+436,Lords of Hellas: Prophecy Cards,0,-1,9.0,-1.0,9,0.0%
+437,Lords of Hellas: Lord of the Sun,0,-1,8.1,-1.0,126,0.0%
+438,Lords of Hellas: Leonidas,0,-1,8.2,-1.0,107,0.0%
+439,Lords of Hellas: Determination Cards,0,-1,8.8,-1.0,20,0.0%
+440,Lords of Hellas: City of Steel,0,-1,8.0,-1.0,127,0.0%
+441,Lords of Hellas: Atlas Overload,0,-1,7.9,-1.0,109,0.0%
+442,Loaded Questions The Game,0,-1,5.0,-1.0,1,0.0%
+443,Leaving Earth: Mercury,0,-1,7.9,-1.0,274,0.0%
+444,Leaving Earth,0,543,7.8,-1.0,2345,0.0%
+445,Last Bastion: Wu-Feng,0,-1,7.8,-1.0,16,0.0%
+446,Kingdom Rush: Rift in Time – Double Power Promo Tile,0,-1,8.7,-1.0,6,0.0%
+447,Keyflower: Trader,0,-1,7.6,-1.0,172,0.0%
+448,Keyflower: Pig Shelter,0,-1,7.7,-1.0,113,0.0%
+449,Keyflower: Keymelequin,0,-1,7.7,-1.0,135,0.0%
+450,Keyflower: Key Celeste,0,-1,7.4,-1.0,393,0.0%
+451,Keyflower: Emporium & Monument,0,-1,7.5,-1.0,286,0.0%
+452,Keyflower: Developer,0,-1,7.7,-1.0,52,0.0%
+453,Keyflower: Delivery Man,0,-1,7.8,-1.0,41,0.0%
+454,Keyflower: Beekeeper,0,-1,7.6,-1.0,186,0.0%
+455,Kemet: Dice Tower Promo 2016,0,-1,7.5,-1.0,75,0.0%
+456,Istanbul: Mocha & Baksheesh,0,-1,7.9,-1.0,2758,0.0%
+457,Isle of Skye: Journeyman,0,-1,7.4,-1.0,966,0.0%
+458,Isle of Skye: From Chieftain to King – Tunnelplättchen 2,0,-1,7.5,-1.0,88,0.0%
+459,Isle of Skye: From Chieftain to King – Tunnelplättchen,0,-1,7.5,-1.0,120,0.0%
+460,Isle of Skye: From Chieftain to King – Themenplättchen,0,-1,7.3,-1.0,211,0.0%
+461,Isle of Skye: From Chieftain to King – Kennerspiel des Jahres Promo Tile,0,-1,7.3,-1.0,182,0.0%
+462,Isle of Skye: From Chieftain to King – Adjacency Scrolls,0,-1,7.5,-1.0,157,0.0%
+463,Isle of Skye: Druids,0,-1,7.8,-1.0,655,0.0%
+464,Imperial Settlers: Empires of the North – Islands Set II,0,-1,8.3,-1.0,3,0.0%
+465,Imperial Settlers: Empires of the North – Common Field Promos,0,-1,7.0,-1.0,1,0.0%
+466,Holmes: Sherlock & Mycroft – Sherrinford Holmes Promo Card,0,-1,7.0,-1.0,1,0.0%
+467,High Frontier (Third Edition),0,1517,8.3,-1.0,645,0.0%
+468,Heroes Wanted: Dice Promo Card,0,-1,6.7,-1.0,34,0.0%
+469,Gùgōng: Bonus Gift Cards,0,-1,7.4,-1.0,8,0.0%
+470,Great Western Trail: Rails to the North,0,-1,8.5,-1.0,2547,0.0%
+471,Great Western Trail: 13th Building Tile,0,-1,8.0,-1.0,72,0.0%
+472,La Granja: 2nd Edition Promo Cards,0,-1,7.6,-1.0,278,0.0%
+473,Gorus Maximus: ManBearPig,0,-1,7.3,-1.0,14,0.0%
+474,Gold West: Trading Post Promo,0,-1,6.9,-1.0,50,0.0%
+475,Gold West: Bandits Promo,0,-1,7.2,-1.0,35,0.0%
+476,"Going, Going, GONE!",0,3529,6.2,7.5,1283,0.0%
+477,Glory to Rome Promo Cards,0,-1,7.5,-1.0,189,0.0%
+478,Gloomhaven: Jaws of the Lion,0,7,8.9,-1.0,7952,0.0%
+479,Gloomhaven: Forgotten Circles,0,-1,8.0,-1.0,1172,0.0%
+480,Get Rich Quick: Dice Tower Casino Promo,0,-1,7.8,-1.0,2,0.0%
+481,Gen7: A Crossroads Game,0,5165,6.4,-1.0,404,0.0%
+482,The Gallerist: Scoring Expansion,0,-1,7.9,-1.0,130,0.0%
+483,The Gallerist: KS Stretch Goal Pack #2,0,-1,7.7,-1.0,245,0.0%
+484,FUSE: International Tabletop Day 2017 Promo Card,0,-1,6.9,-1.0,56,0.0%
+485,FUSE: Flatline Promo Cards,0,-1,7.3,-1.0,40,0.0%
+486,Fury of Dracula (Third/Fourth Edition),0,220,7.5,8.7,11454,0.0%
+487,Fruitcake Fun Pack,0,-1,6.3,-1.0,14,0.0%
+488,Fossilis: 2020 Dice Tower Promo Cards,0,-1,0.0,-1.0,0,0.0%
+489,Forbidden Sky: Ledge Extender Promo Card,0,-1,6.5,-1.0,9,0.0%
+490,Folklore: The Affliction – Dark Tales Expansion: Wanted Rumor Card,0,-1,9.0,-1.0,1,0.0%
+491,Floor Plan: Tom & Zee Client Promos,0,-1,8.5,-1.0,2,0.0%
+492,Floor Plan: Kira & Ryan Client Promos,0,-1,6.5,-1.0,1,0.0%
+493,Fist of Dragonstones: The Tavern Edition – Percy Promo Pack,0,-1,8.0,-1.0,3,0.0%
+494,"Finger Guns at High Noon: ""Stinky"" Pete Boone Promo Card",0,-1,6.0,-1.0,1,0.0%
+495,Fantastic Factories: Promo Pack 1,0,-1,7.5,-1.0,52,0.0%
+496,The Expanse Board Game,0,1472,7.2,-1.0,1353,0.0%
+497,Expancity: Dice Tower Cruise Promo Tile,0,-1,6.0,-1.0,5,0.0%
+498,Exodus: Proxima Centauri – ECID-S14 Mini-Expansion,0,-1,6.0,-1.0,2,0.0%
+499,Etherfields: Search Mini Deck,0,-1,9.0,-1.0,3,0.0%
+500,Escape Tales: The Awakening,0,1173,7.2,-1.0,1796,0.0%
+501,Escape Tales: Low Memory,0,3734,6.9,-1.0,435,0.0%
+502,Enchanters: Port Dasix Promo Card,0,-1,9.0,-1.0,2,0.0%
+503,Eminent Domain: Exotica,0,-1,7.6,-1.0,298,0.0%
+504,Eminent Domain: Base Game Scenarios Promo,0,-1,7.4,-1.0,60,0.0%
+505,Dungeon Party: Dice Tower Coasters,0,-1,9.5,-1.0,2,0.0%
+506,Dungeon Drop: Phase Shifter,0,-1,7.2,-1.0,23,0.0%
+507,Dungeon Drop: Cultist's Curse,0,-1,7.0,-1.0,21,0.0%
+508,Dune: Imperium – Jessica of Arrakis Promo Card,0,-1,7.8,-1.0,29,0.0%
+509,Dune,0,284,8.2,-1.0,3133,0.0%
+510,The Dresden Files Cooperative Card Game: Ra Crossover,0,-1,7.2,-1.0,65,0.0%
+511,The Dresden Files Cooperative Card Game: Mouse & Variants,0,-1,7.6,-1.0,90,0.0%
+512,The Dresden Files Cooperative Card Game: Expansion 5 – Winter Schemes,0,-1,7.7,-1.0,66,0.0%
+513,The Dresden Files Cooperative Card Game: Expansion 4 – Dead Ends,0,-1,7.6,-1.0,63,0.0%
+514,The Dresden Files Cooperative Card Game: Expansion 2 – Helping Hands,0,-1,7.6,-1.0,175,0.0%
+515,The Dresden Files Cooperative Card Game: Expansion 1 – Fan Favorites,0,-1,7.6,-1.0,179,0.0%
+516,Dragonscales: Dice Tower 2020 Promo Cards,0,-1,0.0,-1.0,0,0.0%
+517,Dragonrealm: Hidden Treasure! Expansion,0,-1,7.2,-1.0,9,0.0%
+518,Downfall (fan expansion for Android: Netrunner),0,-1,8.7,-1.0,31,0.0%
+519,Dominion: Church Promo Card,0,-1,7.9,-1.0,97,0.0%
+520,Dominion: Captain Promo Card,0,-1,8.2,-1.0,87,0.0%
+521,Dixit: Tabletop Day 2015 Promo Pack,0,-1,7.6,-1.0,35,0.0%
+522,Dixit: Spielbox 03/15 Promo Card,0,-1,7.4,-1.0,71,0.0%
+523,Dixit: 2012 Asmodee Special Cards,0,-1,7.5,-1.0,330,0.0%
+524,"Dixit: ""The Dragon"" Promo Card",0,-1,7.7,-1.0,153,0.0%
+525,"Dixit 2: ""Dice Tower"" Promo Card",0,-1,6.6,-1.0,5,0.0%
+526,Dixit,0,278,7.3,7.7,50499,0.0%
+527,Dinosaur Island: Totally Liquid,0,-1,8.1,-1.0,1594,0.0%
+528,Dinosaur Island: Space Dinosaur Promo,0,-1,7.9,-1.0,12,0.0%
+529,Dinosaur Island: Mascot Promo Card,0,-1,7.6,-1.0,16,0.0%
+530,DinoGenics: Breaking News Promo Cards,0,-1,8.1,-1.0,4,0.0%
+531,Dice Forge: Dice Tower,0,-1,9.3,-1.0,1,0.0%
+532,Detective: LA Crimes – Steve Spang Promo Card,0,-1,7.8,-1.0,4,0.0%
+533,Deranged: Monstrumologist & Expurgation Promo Cards,0,-1,7.5,-1.0,1,0.0%
+534,Decrypto: Expansion #01 – Laserdrive,0,-1,7.7,-1.0,206,0.0%
+535,Deception: Undercover Allies,0,-1,8.0,-1.0,912,0.0%
+536,Deception: Murder in Hong Kong – Kickstarter Promo Pack,0,-1,7.6,-1.0,141,0.0%
+537,Deception: Murder in Hong Kong – Gen Con 2016 Promo Cards,0,-1,7.5,-1.0,54,0.0%
+538,Deception: Murder in Hong Kong – Game Boy Geek Season 6 Kickstarter Promo Cards,0,-1,7.1,-1.0,15,0.0%
+539,Deception: Murder in Hong Kong – Game Boy Geek Season 4 Kickstarter Promo Cards,0,-1,7.4,-1.0,66,0.0%
+540,Deception: Murder in Hong Kong – Dice Tower 2018 Kickstarter Promo Pack,0,-1,7.6,-1.0,25,0.0%
+541,Deception: Murder in Hong Kong – Dice Tower 2017 Indiegogo Promo Pack,0,-1,7.6,-1.0,45,0.0%
+542,Deception: Murder in Hong Kong – Dice Tower 2016 Kickstarter Promo Pack,0,-1,7.6,-1.0,84,0.0%
+543,Deception/CS-Files Theme Pack: Western Europe,0,-1,7.4,-1.0,65,0.0%
+544,Deception/CS-Files Theme Pack: Southern Europe,0,-1,7.4,-1.0,66,0.0%
+545,Deception/CS-Files Theme Pack: North America,0,-1,7.4,-1.0,66,0.0%
+546,Dead of Winter: Rodney Smith,0,-1,7.9,-1.0,59,0.0%
+547,Dead of Winter: Roberta Plum,0,-1,7.6,-1.0,162,0.0%
+548,Dead of Winter: Rich Sommer,0,-1,7.7,-1.0,109,0.0%
+549,Dead of Winter: Lucky Luke Smith,0,-1,7.8,-1.0,92,0.0%
+550,Dead of Winter: Felicia Day,0,-1,7.5,-1.0,266,0.0%
+551,Dead of Winter: Dice Tower Crossroads Promo,0,-1,7.8,-1.0,94,0.0%
+552,Dead of Winter: BGG Crossroads Promo,0,-1,7.6,-1.0,110,0.0%
+553,Dead of Winter: Andrea Smith,0,-1,7.7,-1.0,71,0.0%
+554,D6: New Hero Promo Cards,0,-1,8.0,-1.0,2,0.0%
+555,Cthulhu: A Deck Building Game – Chef & Sea Captain promos,0,-1,0.0,-1.0,0,0.0%
+556,The Crew: The Quest for Planet Nine,0,41,8.0,-1.0,14567,0.0%
+557,The Crew: Flight to the ISS,0,-1,7.8,-1.0,52,0.0%
+558,Coup: Speculator Promo,0,-1,7.2,-1.0,61,0.0%
+559,Coup: Socialist,0,-1,6.2,-1.0,25,0.0%
+560,Coup: Reformation,0,-1,7.3,-1.0,4570,0.0%
+561,Container: The Second Shipment,0,-1,7.3,-1.0,298,0.0%
+562,Conflicting Legends: Ferdinand Magellan Promo Card,0,-1,6.0,-1.0,1,0.0%
+563,Conflicting Legends: Dice Tower 2020 Promo Pack,0,-1,0.0,-1.0,0,0.0%
+564,Concordia: Venus (Expansion),0,-1,8.4,-1.0,383,0.0%
+565,Concordia: Gallia / Corsica,0,-1,8.2,-1.0,785,0.0%
+566,Concordia: Britannia / Germania,0,-1,8.1,-1.0,1416,0.0%
+567,Concordia: Aegyptus / Creta,0,-1,8.3,-1.0,722,0.0%
+568,Concordia: 8 Forum Cards mini-expansion,0,-1,7.9,-1.0,347,0.0%
+569,Concordia Venus: Balearica / Italia,0,-1,8.2,-1.0,79,0.0%
+570,Color Huey & The Four Seasons,0,-1,6.8,-1.0,6,0.0%
+571,Coloma: Buster Promo Card,0,-1,7.3,-1.0,12,0.0%
+572,Codenames: Bonus Pack – Board Gaming (English),0,-1,7.0,-1.0,95,0.0%
+573,Codenames: Authors & Games,0,-1,6.3,-1.0,78,0.0%
+574,Clank!: Door to Before,0,-1,8.0,-1.0,9,0.0%
+575,Clank! Legacy: Acquisitions Incorporated – Pledge Support,0,-1,8.0,-1.0,7,0.0%
+576,City of the Big Shoulders: Burden of Destiny,0,-1,8.0,-1.0,127,0.0%
+577,The City of Kings: Promo Pack #2,0,-1,7.4,-1.0,59,0.0%
+578,The City of Kings: Promo Pack #1,0,-1,7.5,-1.0,59,0.0%
+579,The City of Kings: Jamba Costume Promo,0,-1,7.7,-1.0,13,0.0%
+580,The City of Kings: Grimnir Costume Promo,0,-1,7.6,-1.0,14,0.0%
+581,The City of Kings: Dexterity Micro Expansion,0,-1,7.6,-1.0,92,0.0%
+582,The City of Kings: Ancient Allies Side Quest Pack #1,0,-1,8.0,-1.0,88,0.0%
+583,The City of Kings: Ancient Allies Character Pack 2,0,-1,8.3,-1.0,83,0.0%
+584,The City of Kings: Ancient Allies Character Pack #1,0,-1,8.1,-1.0,95,0.0%
+585,The City of Kings,0,739,7.8,-1.0,2032,0.0%
+586,Cindr: Drakkenstrike & Paralyssx Promo Card,0,-1,6.9,-1.0,2,0.0%
+587,Chronicles of Crime: Dice Tower 2020 Promo Cards,0,-1,6.8,-1.0,5,0.0%
+588,Chess,0,439,7.1,7.0,28655,0.0%
+589,Century: A New World – G1/H1 Location Board,0,-1,8.4,-1.0,6,0.0%
+590,The Catholic Card Game,0,-1,7.5,-1.0,18,0.0%
+591,"Catacombs: ""Tylor"" Zombie Promo",0,-1,9.0,-1.0,2,0.0%
+592,Catacombs Cubes: Cosmic Portal,0,-1,7.0,-1.0,2,0.0%
+593,Catacombs Cubes: Bothaar Brickworks & Forge of Gnoth,0,-1,7.3,-1.0,3,0.0%
+594,Catacombs (Third Edition): Goblin Mage Expansion,0,-1,8.0,-1.0,2,0.0%
+595,The Castles of Burgundy: 5th Expansion – Pleasure Garden,0,-1,7.9,-1.0,645,0.0%
+596,The Castles of Burgundy: 4th Expansion – Monastery Boards,0,-1,7.8,-1.0,773,0.0%
+597,The Castles of Burgundy: 2nd Expansion – New Hex Tiles,0,-1,7.6,-1.0,838,0.0%
+598,Cartographers: Skills Mini Expansion,0,-1,7.6,-1.0,335,0.0%
+599,Carson City: Father Christmas Promo,0,-1,6.2,-1.0,22,0.0%
+600,Cards Against Humanity: Ten Days or Whatever of Kwanzaa,0,-1,6.7,-1.0,347,0.0%
+601,Cards Against Humanity: TableTop Pack,0,-1,6.3,-1.0,77,0.0%
+602,Cards Against Humanity: Sixth Expansion,0,-1,6.8,-1.0,489,0.0%
+603,Cards Against Humanity: Science Pack,0,-1,6.8,-1.0,275,0.0%
+604,Cards Against Humanity: 90s Nostalgia Pack,0,-1,6.8,-1.0,552,0.0%
+605,Carcassonne: Das Labyrinth,0,-1,7.2,-1.0,189,0.0%
+606,Captain Sonar: Foxtrot Map,0,-1,7.3,-1.0,61,0.0%
+607,Call to Adventure: Name of the Wind,0,-1,7.4,-1.0,371,0.0%
+608,Call to Adventure: Kickstarter Exclusive Card Pack,0,-1,7.7,-1.0,47,0.0%
+609,Call to Adventure: Hero of Destiny Promo Card,0,-1,8.3,-1.0,13,0.0%
+610,Ca$h 'n Guns (Second Edition): The Blackmailer,0,-1,6.9,-1.0,90,0.0%
+611,Bushido: Focused Chi Promo Card,0,-1,0.0,-1.0,0,0.0%
+612,Brügge: Die Haustiere,0,-1,7.1,-1.0,296,0.0%
+613,Bruges: The City on the Zwin,0,-1,7.8,-1.0,1101,0.0%
+614,Broken Peace (fan expansion for T.I.M.E Stories),0,-1,7.0,-1.0,53,0.0%
+615,Booze Barons: Lookout Tower Promo,0,-1,7.0,-1.0,1,0.0%
+616,Blood Rage: Gods of Ásgard,0,-1,7.7,-1.0,2066,0.0%
+617,Blood Rage: 5th Player Expansion,0,-1,8.1,-1.0,2269,0.0%
+618,Between Two Castles of Mad King Ludwig: Dice Tower Room Promo Tile,0,-1,5.4,-1.0,12,0.0%
+619,Betrayal at House on the Hill: Widow's Walk,0,-1,7.5,-1.0,3450,0.0%
+620,Belfort: The Expansion Expansion,0,-1,7.6,-1.0,392,0.0%
+621,Belfort: Her Majesty's Civil Service,0,-1,7.1,-1.0,26,0.0%
+622,Belfort: Guild Promo Pack #1,0,-1,7.3,-1.0,321,0.0%
+623,Bees: The Secret Kingdom – Instant Win Promo Card,0,-1,0.0,-1.0,0,0.0%
+624,BattleTech: A Game of Armored Combat – New Pilot Cards,0,-1,9.5,-1.0,2,0.0%
+625,Battleground Fantasy Warfare: Monsters & Mercenaries – Ancient Blue Dragon,0,-1,7.0,-1.0,1,0.0%
+626,Battle Royale: Flick to the Death – Lone Wolf Promo Cards,0,-1,0.0,-1.0,0,0.0%
+627,Barrage: The Leeghwater Project,0,-1,8.3,-1.0,704,0.0%
+628,Barrage: Kickstarter exclusive box,0,-1,6.8,-1.0,136,0.0%
+629,Barrage: Executive Officers Pack B,0,-1,8.0,-1.0,30,0.0%
+630,Barrage: 5-Player Expansion,0,-1,7.8,-1.0,36,0.0%
+631,Atlantis Rising: Orator,0,-1,0.0,-1.0,0,0.0%
+632,Asking for Trobils: Dice Tower 2020 Promo Cards,0,-1,6.0,-1.0,2,0.0%
+633,Asgard's Chosen: Artifacts,0,-1,7.6,-1.0,5,0.0%
+634,The Artemis Project: Seize D'Ice Tower Promo Card,0,-1,6.0,-1.0,1,0.0%
+635,Architects of the West Kingdom: Garphill Games 5-Year Anniversary Promo Cards,0,-1,8.0,-1.0,81,0.0%
+636,Architects of the West Kingdom: Extra Player Boards,0,-1,7.9,-1.0,310,0.0%
+637,Architects of the West Kingdom: Extra Buildings,0,-1,7.8,-1.0,268,0.0%
+638,Architects of the West Kingdom: Extra Apprentices,0,-1,7.8,-1.0,277,0.0%
+639,Architects of the West Kingdom: Dice Tower Pack,0,-1,8.2,-1.0,17,0.0%
+640,Archipelago: War & Peace,0,-1,7.8,-1.0,535,0.0%
+641,Apocrypha Adventure Card Game: Viral Content Promo Card,0,-1,6.5,-1.0,7,0.0%
+642,Apocrypha Adventure Card Game: Universal Product Promo Card,0,-1,6.7,-1.0,8,0.0%
+643,Apocrypha Adventure Card Game: The Book of the Hybrids,0,-1,7.2,-1.0,11,0.0%
+644,Apocrypha Adventure Card Game: The Saint One Promo Card,0,-1,6.8,-1.0,8,0.0%
+645,Apocrypha Adventure Card Game: Something Familiar Promo Card,0,-1,3.0,-1.0,1,0.0%
+646,Apocrypha Adventure Card Game: Skullflake Promo Card,0,-1,5.5,-1.0,2,0.0%
+647,Apocrypha Adventure Card Game: Godmother Promo Card,0,-1,0.0,-1.0,0,0.0%
+648,Apocrypha Adventure Card Game: Monster Truck Promo Card,0,-1,6.9,-1.0,9,0.0%
+649,Apocrypha Adventure Card Game: Box Two – The Flesh,0,-1,7.1,-1.0,36,0.0%
+650,Apocrypha Adventure Card Game: Box Three – The Devil,0,-1,7.0,-1.0,34,0.0%
+651,Apocrypha Adventure Card Game: Box One – The World,0,4683,6.7,-1.0,416,0.0%
+652,Apocrypha Adventure Card Game: Allusion Promo Card,0,-1,6.7,-1.0,3,0.0%
+653,Android: Netrunner – Upstalk,0,-1,8.2,-1.0,259,0.0%
+654,Android: Netrunner – Trace Amount,0,-1,8.1,-1.0,887,0.0%
+655,Android: Netrunner – The Valley,0,-1,8.3,-1.0,174,0.0%
+656,Android: Netrunner – The Universe of Tomorrow,0,-1,8.3,-1.0,134,0.0%
+657,Android: Netrunner – The Underway,0,-1,8.3,-1.0,149,0.0%
+658,Android: Netrunner – The Spaces Between,0,-1,8.2,-1.0,246,0.0%
+659,Android: Netrunner – The Devil and the Dragon,0,-1,8.6,-1.0,46,0.0%
+660,Android: Netrunner – Reign and Reverie,0,-1,8.7,-1.0,76,0.0%
+661,Android: Netrunner – Order and Chaos,0,-1,8.4,-1.0,390,0.0%
+662,Android: Netrunner – Old Hollywood,0,-1,8.2,-1.0,150,0.0%
+663,Android: Netrunner – Honor and Profit,0,-1,8.3,-1.0,556,0.0%
+664,Android: Netrunner – Future Proof,0,-1,8.2,-1.0,692,0.0%
+665,Android: Netrunner – First Contact,0,-1,8.2,-1.0,231,0.0%
+666,Android: Netrunner – Down the White Nile,0,-1,8.5,-1.0,47,0.0%
+667,Android: Netrunner – Democracy and Dogma,0,-1,8.2,-1.0,105,0.0%
+668,Android: Netrunner – Data and Destiny,0,-1,8.4,-1.0,278,0.0%
+669,Android: Netrunner – Creation and Control,0,-1,8.2,-1.0,1018,0.0%
+670,Android: Netrunner – Chrome City,0,-1,8.2,-1.0,159,0.0%
+671,Android: Netrunner – Breaker Bay,0,-1,8.3,-1.0,184,0.0%
+672,Android: Netrunner – All That Remains,0,-1,8.2,-1.0,224,0.0%
+673,Android: Netrunner – 23 Seconds,0,-1,8.2,-1.0,94,0.0%
+674,"Air, Land & Sea: Ultimatum Promo Card",0,-1,8.0,-1.0,3,0.0%
+675,Agra: Ambabari Elephant Promo Card,0,-1,7.6,-1.0,21,0.0%
+676,Agents of Mayhem: Gremlin Tech Deck 1,0,-1,5.8,-1.0,4,0.0%
+677,Age of Dirt: Firepit Promo Card,0,-1,9.3,-1.0,3,0.0%
+678,Adventure Games: Monochrome Inc.,0,2547,6.8,-1.0,940,0.0%
+679,Above and Below: Watch It Played Building promo card,0,-1,7.5,-1.0,31,0.0%
+680,Above and Below: Groves,0,-1,7.1,-1.0,209,0.0%
+681,Above and Below: Expanded Edition Exclusives,0,-1,7.8,-1.0,289,0.0%
+682,The 7th Continent: The Icy Maze,0,-1,8.1,-1.0,526,0.0%
+683,The 7th Continent: The Forbidden Sanctuary,0,-1,8.4,-1.0,476,0.0%
+684,The 7th Continent: Swamp of Madness,0,-1,8.4,-1.0,420,0.0%
+685,The 7th Continent: Path of Repentance,0,-1,8.3,-1.0,414,0.0%
+686,The 7th Continent: Fear the Devourers,0,-1,8.1,-1.0,418,0.0%
+687,The 7th Continent: Facing the Elements,0,-1,8.1,-1.0,463,0.0%
+688,The 7th Continent: BGG Promo Cards,0,-1,8.1,-1.0,287,0.0%
+689,7 Wonders: Leaders – Nimrod,0,-1,7.1,-1.0,237,0.0%
+690,7 Wonders: Leaders – Esteban,0,-1,7.2,-1.0,471,0.0%
+691,7 Wonders: Leaders Anniversary Pack,0,-1,7.9,-1.0,776,0.0%
+692,7 Wonders: Cities Anniversary Pack,0,-1,7.9,-1.0,727,0.0%
+693,7 Wonders Duel: The Messe Essen Promo Card,0,-1,7.3,-1.0,1314,0.0%
+694,7 Wonders Duel: Statue of Liberty,0,-1,7.4,-1.0,595,0.0%
+695,7 Wonders Duel: Pantheon,0,-1,8.0,-1.0,8984,0.0%
+696,Zombies!!!: Social Distancing Promo Card,0,-1,5.0,-1.0,1,0.0%

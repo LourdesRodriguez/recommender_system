@@ -1,0 +1,790 @@
+,Game,Plays,BGG Rank,BGG Rating,Your Rating,Users Rating,Utilisation
+0,Star Realms,80,115,7.6,10.0,35855,99.9%
+1,Chess,79,439,7.1,6.0,28655,99.9%
+2,Codenames,62,93,7.6,10.0,67424,99.9%
+3,Splendor,48,167,7.5,9.0,58499,99.9%
+4,Machi Koro,44,987,6.6,10.0,26165,99.9%
+5,Phase 10 Masters Edition,40,11319,5.7,7.0,421,99.9%
+6,One Night Ultimate Werewolf,40,413,7.1,9.0,21419,99.9%
+7,Dominoes,30,19721,5.5,5.0,5874,99.9%
+8,Dead Man's Draw,29,1092,6.9,8.0,4451,99.8%
+9,One Night Ultimate Werewolf Daybreak,27,505,7.4,8.0,4864,99.8%
+10,Monopoly Deal Card Game,27,2088,6.3,7.0,8703,99.8%
+11,Hearts,27,1845,6.4,6.0,3815,99.8%
+12,Carcassonne,27,181,7.4,9.0,101546,99.8%
+13,Cards Against Humanity,23,4284,5.9,8.0,23175,99.4%
+14,Red7,22,657,6.9,8.0,12645,99.3%
+15,Ingenious,22,426,7.1,7.0,15617,99.3%
+16,7 Wonders,22,60,7.8,10.0,84104,99.3%
+17,UNO: Harry Potter,20,18367,5.5,6.0,292,99.0%
+18,UNO,20,20170,5.4,6.0,21129,99.0%
+19,Spades,20,1704,6.8,6.0,2091,99.0%
+20,Pathfinder Adventure Card Game: Rise of the Runelords – Base Set,20,440,7.2,9.0,12015,99.0%
+21,Monopoly: Deluxe Edition,20,20116,5.3,6.0,1176,99.0%
+22,Magic: The Gathering,20,158,7.5,8.0,32365,99.0%
+23,Scrabble,20,1807,6.3,7.0,26658,99.0%
+24,King of Tokyo,19,313,7.2,8.0,57483,98.7%
+25,7 Wonders Duel,18,17,8.1,10.0,59932,98.4%
+26,The Resistance: Avalon,17,131,7.6,8.0,27053,98.0%
+27,Euchre,17,1596,6.8,6.0,2235,98.0%
+28,Guillotine,15,1182,6.5,8.0,19362,96.8%
+29,Trumpet,14,5280,6.2,5.0,560,96.0%
+30,Sequence,14,3221,6.0,6.0,7464,96.0%
+31,The Red Dragon Inn,13,1460,6.6,9.0,7090,94.9%
+32,Race for the Galaxy,13,59,7.8,9.0,46293,94.9%
+33,Loot,13,1982,6.3,6.0,5922,94.9%
+34,Balderdash,13,1749,6.5,6.0,5396,94.9%
+35,Seven Dragons,12,3109,6.3,7.0,1711,93.6%
+36,Kemet,12,102,7.7,10.0,16243,93.6%
+37,Codenames: Deep Undercover,12,1730,6.6,9.0,2719,93.6%
+38,BattleLore (Second Edition),12,240,7.7,10.0,5628,93.6%
+39,The Crew: The Quest for Planet Nine,11,41,8.0,10.0,14567,92.0%
+40,Citadels,11,403,7.1,8.0,48290,92.0%
+41,Monopoly Stock Exchange Add-on,10,-1,5.6,6.0,47,90.0%
+42,Small World,10,255,7.3,8.0,61593,90.0%
+43,Say Anything,10,1098,6.7,7.0,5588,90.0%
+44,Forbidden Island,10,721,6.8,7.0,41883,90.0%
+45,Colt Express,10,392,7.1,9.0,24660,90.0%
+46,Shadows over Camelot,9,406,7.1,9.0,25418,87.4%
+47,Lost Cities,9,322,7.2,7.0,37164,87.4%
+48,Kingdomino,9,217,7.4,9.0,32067,87.4%
+49,Blood Rage,9,34,8.0,10.0,33822,87.4%
+50,Snake Oil,8,1614,6.7,8.0,2703,84.1%
+51,Mysterium,8,256,7.3,8.0,31970,84.1%
+52,Lord of the Rings: The Confrontation,8,533,7.2,8.0,6534,84.1%
+53,Cosmic Encounter,8,144,7.5,9.0,27327,84.1%
+54,Champions of Midgard,8,101,7.8,9.0,13298,84.1%
+55,Blood Bowl: Team Manager – The Card Game,8,302,7.4,8.0,10320,84.1%
+56,Sheriff of Nottingham,7,368,7.1,8.0,29544,80.0%
+57,Pathfinder Adventure Card Game: Skull & Shackles – Base Set,7,935,7.3,9.0,2413,80.0%
+58,Guildhall,7,1006,6.9,8.0,3911,80.0%
+59,Gloom,7,1776,6.3,8.0,13569,80.0%
+60,Dominion,7,98,7.6,8.0,77920,80.0%
+61,Council of Verona: Poison Expansion,7,-1,6.8,8.0,302,80.0%
+62,Council of Verona,7,2756,6.3,8.0,1826,80.0%
+63,Wits & Wagers,6,622,6.9,8.0,13343,74.8%
+64,Trivial Pursuit: Totally 80s Edition,6,19901,5.1,5.0,289,74.8%
+65,Catan,6,395,7.2,7.0,101212,74.8%
+66,The Red Dragon Inn 4,6,2306,7.3,8.0,744,74.8%
+67,Pandemic,6,99,7.6,7.0,101865,74.8%
+68,No Thanks!,6,449,7.1,7.0,20289,74.8%
+69,Martian Dice,6,2528,6.2,6.0,3169,74.8%
+70,Mage Wars Arena,6,245,7.6,10.0,7372,74.8%
+71,Legacy of Dragonholt,6,973,7.3,10.0,2258,74.8%
+72,Gloomhaven: Jaws of the Lion,6,7,8.9,10.0,7952,74.8%
+73,Dominion: Walled Village Promo Card,6,-1,7.5,7.0,1418,74.8%
+74,Clue: Harry Potter Edition,6,4325,6.3,6.0,1021,74.8%
+75,Carcassonne: Expansion 3 – The Princess & The Dragon,6,-1,6.8,7.0,8808,74.8%
+76,Star Wars: Empire vs. Rebellion,5,2889,6.3,7.0,1689,68.3%
+77,Risk: The Lord of the Rings Trilogy Edition,5,2031,6.5,7.0,3423,68.3%
+78,Munchkin,5,4419,5.9,4.0,41521,68.3%
+79,Memoir '44,5,138,7.6,8.0,25667,68.3%
+80,Legacy: Gears of Time,5,2160,7.0,8.0,937,68.3%
+81,Jarl: The Vikings Tile-Laying Game,5,3914,6.9,8.0,376,68.3%
+82,Descent: Journeys in the Dark (Second Edition),5,116,7.7,10.0,22661,68.3%
+83,Dead of Winter: A Crossroads Game,5,121,7.6,9.0,39207,68.3%
+84,Black Stories: Dark Tales Edition,5,13142,6.1,6.0,74,68.3%
+85,Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases,4,96,7.7,10.0,17180,60.1%
+86,Pandemic Legacy: Season 0,4,375,8.8,10.0,1425,60.1%
+87,Libertalia,4,418,7.2,8.0,12390,60.1%
+88,Last Will,4,443,7.2,8.0,9026,60.1%
+89,Holmes: Sherlock & Mycroft,4,1504,6.9,7.0,2150,60.1%
+90,The Great Dalmuti,4,1381,6.6,7.0,6862,60.1%
+91,Cyclades,4,183,7.5,9.0,17824,60.1%
+92,Cursed Court,4,3086,7.2,8.0,450,60.1%
+93,Battlestar Galactica: The Board Game,4,81,7.7,10.0,32861,60.1%
+94,Alien Frontiers: Big Box,4,-1,7.8,9.0,328,60.1%
+95,7 Ate 9,4,6837,6.0,5.0,447,60.1%
+96,Zombie Fluxx,3,3519,6.0,6.0,6110,49.8%
+97,Through the Ages: A New Story of Civilization,3,6,8.4,9.0,22963,49.8%
+98,Star Wars: Imperial Assault,3,43,8.0,10.0,20456,49.8%
+99,Star Wars: Epic Duels,3,1144,7.0,9.0,3097,49.8%
+100,Spartacus: A Game of Blood and Treachery,3,364,7.5,9.0,7162,49.8%
+101,Sid Meier's Civilization: The Board Game,3,259,7.4,10.0,14412,49.8%
+102,Risk: Star Wars Edition,3,918,7.0,8.0,3691,49.8%
+103,Power Grid,3,39,7.9,8.0,56129,49.8%
+104,Nuns on the Run,3,1692,6.5,8.0,3793,49.8%
+105,Nothing Personal,3,1130,7.1,8.0,2240,49.8%
+106,Ghost Stories,3,275,7.3,8.0,19378,49.8%
+107,Fury of Dracula (Third/Fourth Edition),3,220,7.5,9.0,11454,49.8%
+108,Exodus: Proxima Centauri,3,1363,7.2,9.0,1601,49.8%
+109,Dominion: Envoy Promo Card,3,-1,7.2,7.0,3237,49.8%
+110,Dominion: Black Market Promo Card,3,-1,7.1,7.0,3490,49.8%
+111,Diamonds: Second Edition,3,892,6.9,9.0,4887,49.8%
+112,Codenames: Duet,3,160,7.6,8.0,13865,49.8%
+113,Chaosmos,3,2688,6.9,8.0,789,49.8%
+114,Century: Golem Edition,3,199,7.7,8.0,6925,49.8%
+115,BANG! The Dice Game: Old Saloon,3,-1,7.6,7.0,1563,49.8%
+116,BANG! The Dice Game,3,567,7.0,8.0,19765,49.8%
+117,Azul,3,50,7.8,8.0,53207,49.8%
+118,Above and Below,3,251,7.4,10.0,12830,49.8%
+119,7 Wonders: Cities,3,-1,7.8,8.0,9838,49.8%
+120,12 Days of Christmas,3,8943,6.0,5.0,267,49.8%
+121,10 Days in Europe,3,2082,6.6,6.0,1878,49.8%
+122,World Conquerors,2,14262,5.7,7.0,152,36.9%
+123,Wiz-War (Eighth Edition),2,805,7.1,8.0,4642,36.9%
+124,Wavelength,2,496,7.5,6.0,3645,36.9%
+125,Ticket to Ride,2,174,7.4,8.0,71408,36.9%
+126,Thunderstone Advance: Towers of Ruin,2,511,7.4,9.0,4589,36.9%
+127,Star Wars: Armada,2,273,7.9,9.0,4586,36.9%
+128,Star Fluxx,2,2155,6.4,7.0,4929,36.9%
+129,Rex: Final Days of an Empire,2,799,7.1,8.0,4223,36.9%
+130,The Others,2,738,7.4,8.0,3315,36.9%
+131,New York 1901,2,989,6.8,8.0,5438,36.9%
+132,Mythic Battles,2,4737,6.8,7.0,315,36.9%
+133,Mr. Jack Pocket,2,797,6.9,8.0,7558,36.9%
+134,Mascarade,2,1151,6.6,7.0,9204,36.9%
+135,Lifeboat,2,2420,6.3,7.0,2792,36.9%
+136,L.L.A.M.A.,2,1725,6.5,7.0,3764,36.9%
+137,Dune: Imperium,2,216,8.5,9.0,2498,36.9%
+138,Deception: Murder in Hong Kong,2,191,7.5,8.0,15932,36.9%
+139,Carcassonne: Expansion 2 – Traders & Builders,2,-1,7.6,8.0,15539,36.9%
+140,Carcassonne: The Phantom,2,-1,7.5,8.0,1282,36.9%
+141,Blue Moon Legends,2,-1,7.3,7.0,1835,36.9%
+142,Battle For Souls,2,3254,6.9,7.0,635,36.9%
+143,Yedo,1,631,7.4,9.0,3468,20.5%
+144,Wingspan,1,20,8.1,9.0,42672,20.5%
+145,Twilight Struggle,1,10,8.3,9.0,40694,20.5%
+146,Twilight Imperium: Third Edition,1,80,7.8,10.0,18296,20.5%
+147,Treasure Hunter,1,1465,6.8,8.0,2660,20.5%
+148,Thunderstone: Avatars,1,-1,6.9,7.0,341,20.5%
+149,Thunderstone Advance: Caverns of Bane,1,-1,7.8,8.0,1027,20.5%
+150,Tales of the Arabian Nights,1,435,7.2,9.0,11564,20.5%
+151,Star Wars: Rebellion,1,9,8.4,9.0,22983,20.5%
+152,Small World: Leaders of Small World,1,-1,6.6,8.0,1391,20.5%
+153,Small World: Grand Dames of Small World,1,-1,7.4,8.0,5551,20.5%
+154,Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures,1,305,7.8,10.0,4111,20.5%
+155,Shadows over Camelot: Merlin's Company,1,-1,7.4,8.0,2819,20.5%
+156,Scattergories,1,2336,6.2,6.0,8503,20.5%
+157,Roll Player,1,194,7.5,8.0,13177,20.5%
+158,Puerto Rico,1,28,8.0,7.0,63032,20.5%
+159,Monty Python Fluxx: Castle Expansion,1,-1,6.7,6.0,305,20.5%
+160,Monty Python Fluxx,1,3239,6.1,6.0,4831,20.5%
+161,Love Letter,1,282,7.2,7.0,55827,20.5%
+162,London Dread,1,2817,6.7,8.0,897,20.5%
+163,Jump Drive,1,1001,7.0,8.0,3209,20.5%
+164,In the Name of Odin,1,3512,6.7,8.0,631,20.5%
+165,Huggermugger,1,19871,5.2,6.0,424,20.5%
+166,Fearsome Floors,1,1115,6.7,8.0,7539,20.5%
+167,Ex Libris,1,610,7.2,8.0,4993,20.5%
+168,Elysium,1,423,7.2,9.0,8489,20.5%
+169,Dungeons & Dragons: The Legend of Drizzt Board Game,1,627,7.3,8.0,5548,20.5%
+170,Diplomacy,1,605,7.0,7.0,12083,20.5%
+171,Dead of Winter: The Long Night,1,222,7.7,9.0,7848,20.5%
+172,Dark Minions,1,6667,6.1,6.0,393,20.5%
+173,Cranium,1,8066,5.7,6.0,8575,20.5%
+174,Coup: Rebellion G54,1,1196,7.0,8.0,2454,20.5%
+175,Conan,1,459,7.7,10.0,3953,20.5%
+176,Chrononauts,1,2483,6.2,7.0,5287,20.5%
+177,Chronicles of Crime: 1400,1,1840,8.1,8.0,597,20.5%
+178,Chicanery,1,-1,5.5,5.0,3,20.5%
+179,Camel Up,1,477,7.0,8.0,22756,20.5%
+180,Black Orchestra,1,451,7.5,8.0,4224,20.5%
+181,7 Wonders: Babel,1,-1,7.0,6.0,3636,20.5%
+182,Zombicide: Black Plague Special Guest Box – Adrian Smith,0,-1,7.9,7.0,121,0.0%
+183,Zombicide: Black Plague,0,180,7.7,9.0,12615,0.0%
+184,Yardmaster Express: Caboose Expansion,0,-1,6.3,6.0,229,0.0%
+185,Yardmaster Express,0,5928,5.8,6.0,1185,0.0%
+186,World Conquerors: Revolutionaries,0,-1,6.2,6.0,17,0.0%
+187,Wingspan: European Expansion,0,-1,8.4,10.0,5981,0.0%
+188,Where Art Thou Romeo?,0,19935,5.0,6.0,290,0.0%
+189,Western Legends: Wild Bunch of Extras,0,-1,8.1,9.0,227,0.0%
+190,"Western Legends: The Good, the Bad, and the Handsome",0,-1,7.8,8.0,540,0.0%
+191,Western Legends: Fistful of Extras,0,-1,7.9,8.0,590,0.0%
+192,Western Legends: Blood Money,0,-1,8.5,-1.0,21,0.0%
+193,Western Legends: Ante Up,0,-1,8.2,9.0,478,0.0%
+194,Western Legends,0,243,7.7,9.0,6540,0.0%
+195,Watson & Holmes,0,899,7.4,8.0,2237,0.0%
+196,Vault Wars,0,2377,6.9,7.0,1014,0.0%
+197,Ultimate Werewolf: Inquisition,0,3150,6.5,7.0,878,0.0%
+198,Ultimate Werewolf: Deluxe Edition,0,1620,7.1,8.0,1615,0.0%
+199,Ultimate Warriorz: Dice Tower Promo 2016,0,-1,7.4,-1.0,16,0.0%
+200,Uchronia Promo Cards,0,-1,6.3,7.0,34,0.0%
+201,Uchronia,0,2802,6.5,7.0,1171,0.0%
+202,Tyrants of the Underdark: Expansion Decks – Aberrations & Undead,0,-1,7.9,6.0,669,0.0%
+203,Tyrants of the Underdark,0,193,7.9,8.0,5060,0.0%
+204,Twilight Imperium: Fourth Edition,0,5,8.7,10.0,13361,0.0%
+205,Tsuro: Phoenix Rising,0,5730,6.6,8.0,263,0.0%
+206,Treasure Hunter: Queenie 1 – Band of Goblins,0,-1,7.0,7.0,93,0.0%
+207,Treasure Hunter: Expansion 1 – Goblin's Loot,0,-1,7.0,7.0,126,0.0%
+208,Tiny Epic Kingdoms: Deluxe Promo Pack,0,-1,6.8,6.0,340,0.0%
+209,Tiny Epic Galaxies,0,271,7.4,7.0,15645,0.0%
+210,Timeline: Music & Cinema,0,1395,6.8,6.0,3081,0.0%
+211,Timeline: Inventions,0,1059,6.7,6.0,7245,0.0%
+212,Timeline: Diversity,0,1216,6.8,6.0,3782,0.0%
+213,Tides of Time,0,1135,6.7,8.0,6670,0.0%
+214,Tides of Madness,0,1216,6.8,8.0,3321,0.0%
+215,Ticket to Ride: USA 1910,0,-1,8.0,8.0,10064,0.0%
+216,Ticked Off,0,14377,5.8,6.0,94,0.0%
+217,Tichu,0,170,7.6,8.0,13267,0.0%
+218,Thunder & Lightning,0,1735,7.2,8.0,1057,0.0%
+219,This Town Ain't Big Enough for the 2-4 of Us,0,4657,6.0,6.0,984,0.0%
+220,Thieves!,0,9005,6.0,7.0,255,0.0%
+221,Terraforming Mars: Snow Algae Promo Card,0,-1,7.8,-1.0,886,0.0%
+222,Templar Intrigue,0,19674,5.1,6.0,223,0.0%
+223,Tapestry,0,233,7.5,8.0,11480,0.0%
+224,T.I.M.E Stories: The Marcy Case,0,-1,7.6,8.0,6072,0.0%
+225,Surviving Design Projects,0,-1,7.0,7.0,1,0.0%
+226,Survive: Escape from Atlantis! The Giant Squid Mini Expansion,0,-1,7.1,7.0,1500,0.0%
+227,Survive: Escape from Atlantis! 5-6 Player Mini Expansion,0,-1,7.4,7.0,1615,0.0%
+228,Survive: Escape from Atlantis!,0,285,7.3,8.0,20407,0.0%
+229,Summoner Wars: Sairook,0,-1,7.7,7.0,262,0.0%
+230,Summoner Wars: Khexhu,0,-1,7.6,7.0,243,0.0%
+231,Summoner Wars: Khan Queso,0,-1,7.7,7.0,276,0.0%
+232,Star Wars: Unlock!,0,2299,7.2,8.0,704,0.0%
+233,Star Wars: The Card Game – The Search for Skywalker,0,-1,7.6,7.0,295,0.0%
+234,Star Wars: The Card Game – The Desolation of Hoth,0,-1,7.5,7.0,326,0.0%
+235,Star Wars: The Card Game – The Battle of Hoth,0,-1,7.8,7.0,222,0.0%
+236,Star Wars: The Card Game – Escape from Hoth,0,-1,7.6,7.0,205,0.0%
+237,Star Wars: The Card Game – Between The Shadows,0,-1,7.8,7.0,140,0.0%
+238,Star Wars: The Card Game – Balance of the Force,0,-1,7.3,7.0,291,0.0%
+239,Star Wars: The Card Game – Assault on Echo Base,0,-1,7.6,7.0,245,0.0%
+240,Star Wars: The Card Game – A Dark Time,0,-1,7.6,7.0,266,0.0%
+241,Star Wars: The Card Game,0,660,7.2,8.0,5326,0.0%
+242,Star Wars: Rebellion – Rise of the Empire,0,-1,8.9,8.0,2632,0.0%
+243,Star Wars: Outer Rim,0,262,7.7,9.0,5620,0.0%
+244,Star Wars: Imperial Assault – Wookiee Warriors Ally Pack,0,-1,7.9,8.0,382,0.0%
+245,Star Wars: Imperial Assault – Tyrants of Lothal,0,-1,8.5,8.0,241,0.0%
+246,Star Wars: Imperial Assault – Twin Shadows,0,-1,8.2,9.0,1323,0.0%
+247,Star Wars: Imperial Assault – Thrawn Villain Pack,0,-1,8.3,8.0,154,0.0%
+248,Star Wars: Imperial Assault – The Grand Inquisitor Villain Pack,0,-1,8.2,8.0,293,0.0%
+249,Star Wars: Imperial Assault – The Bespin Gambit,0,-1,8.3,8.0,694,0.0%
+250,Star Wars: Imperial Assault – Stormtroopers Villain Pack,0,-1,7.6,8.0,366,0.0%
+251,Star Wars: Imperial Assault – Sabine Wren and Zeb Orrelios Ally Pack,0,-1,8.4,8.0,134,0.0%
+252,Star Wars: Imperial Assault – Royal Guard Champion Villain Pack,0,-1,7.9,8.0,651,0.0%
+253,Star Wars: Imperial Assault – Return to Hoth,0,-1,8.4,9.0,1174,0.0%
+254,Star Wars: Imperial Assault – Rebel Troopers Ally Pack,0,-1,7.8,8.0,611,0.0%
+255,Star Wars: Imperial Assault – Rebel Saboteurs Ally Pack,0,-1,7.9,8.0,594,0.0%
+256,Star Wars: Imperial Assault – R2-D2 and C-3PO Ally Pack,0,-1,8.0,8.0,620,0.0%
+257,Star Wars: Imperial Assault – Obi-Wan Kenobi Ally Pack,0,-1,8.2,8.0,344,0.0%
+258,Star Wars: Imperial Assault – Maul Villain Pack,0,-1,8.1,8.0,204,0.0%
+259,Star Wars: Imperial Assault – Luke Skywalker Jedi Knight Ally Pack,0,-1,8.1,8.0,315,0.0%
+260,Star Wars: Imperial Assault – Leia Organa Ally Pack,0,-1,8.0,8.0,437,0.0%
+261,Star Wars: Imperial Assault – Legends of the Alliance,0,-1,8.4,8.0,590,0.0%
+262,Star Wars: Imperial Assault – Lando Calrissian Ally Pack,0,-1,8.1,8.0,309,0.0%
+263,Star Wars: Imperial Assault – Kayn Somos Villain Pack,0,-1,7.8,8.0,446,0.0%
+264,Star Wars: Imperial Assault – Jawa Scavenger Villain Pack,0,-1,8.0,8.0,227,0.0%
+265,Star Wars: Imperial Assault – Jabba's Realm,0,-1,8.6,9.0,742,0.0%
+266,Star Wars: Imperial Assault – Jabba the Hutt Villain Pack,0,-1,8.1,8.0,296,0.0%
+267,Star Wars: Imperial Assault – ISB Infiltrators Villain Pack,0,-1,8.0,8.0,286,0.0%
+268,Star Wars: Imperial Assault – IG-88 Villain Pack,0,-1,7.9,8.0,707,0.0%
+269,Star Wars: Imperial Assault – Hondo Ohnaka Villain Pack,0,-1,8.2,8.0,135,0.0%
+270,Star Wars: Imperial Assault – Hired Guns Villain Pack,0,-1,7.8,8.0,388,0.0%
+271,Star Wars: Imperial Assault – Hera Syndulla and C1-10P Ally Pack,0,-1,8.1,8.0,217,0.0%
+272,Star Wars: Imperial Assault – Heart of the Empire,0,-1,8.5,9.0,404,0.0%
+273,Star Wars: Imperial Assault – Han Solo Ally Pack,0,-1,8.0,8.0,831,0.0%
+274,Star Wars: Imperial Assault – Greedo Villain Pack,0,-1,8.1,8.0,293,0.0%
+275,Star Wars: Imperial Assault – General Weiss Villain Pack,0,-1,7.9,8.0,596,0.0%
+276,Star Wars: Imperial Assault – General Sorin Villain Pack,0,-1,7.7,8.0,335,0.0%
+277,Star Wars: Imperial Assault – Ezra Bridger and Kanan Jarrus Ally Pack,0,-1,8.3,8.0,139,0.0%
+278,Star Wars: Imperial Assault – Emperor Palpatine Villain Pack,0,-1,8.2,8.0,223,0.0%
+279,Star Wars: Imperial Assault – Echo Base Troopers Ally Pack,0,-1,7.9,8.0,343,0.0%
+280,Star Wars: Imperial Assault – Dengar Villain Pack,0,-1,7.7,8.0,375,0.0%
+281,Star Wars: Imperial Assault – Chewbacca Ally Pack,0,-1,8.0,8.0,815,0.0%
+282,Star Wars: Imperial Assault – Captain Terro Villain Pack,0,-1,8.1,8.0,272,0.0%
+283,Star Wars: Imperial Assault – BT-1 and 0-0-0 Villain Pack,0,-1,8.0,8.0,210,0.0%
+284,Star Wars: Imperial Assault – Bossk Villain Pack,0,-1,8.1,8.0,321,0.0%
+285,Star Wars: Imperial Assault – Boba Fett Villain Pack,0,-1,8.2,8.0,641,0.0%
+286,Star Wars: Imperial Assault – Bantha Rider Villain Pack,0,-1,8.1,8.0,360,0.0%
+287,Star Wars: Imperial Assault – Alliance Smuggler Ally Pack,0,-1,7.7,8.0,312,0.0%
+288,Star Wars: Imperial Assault – Alliance Rangers Ally Pack,0,-1,8.0,8.0,244,0.0%
+289,Star Wars: Imperial Assault – Ahsoka Tano Ally Pack,0,-1,8.2,8.0,198,0.0%
+290,Star Wars: Imperial Assault – Agent Blaise Villain Pack,0,-1,7.9,8.0,282,0.0%
+291,Star Wars: Destiny – Two-Player Game,0,2368,7.2,9.0,737,0.0%
+292,Star Wars: Destiny – Spirit of Rebellion Booster Pack,0,-1,7.9,7.0,151,0.0%
+293,Star Wars: Destiny – Empire at War Booster Pack,0,-1,8.0,7.0,102,0.0%
+294,Star Wars: Destiny – Awakenings Booster Pack,0,-1,7.8,7.0,186,0.0%
+295,Star Wars: Armada – Victory-class Star Destroyer Expansion Pack,0,-1,7.8,8.0,211,0.0%
+296,Star Wars: Armada – Rogues and Villains Expansion Pack,0,-1,8.0,8.0,263,0.0%
+297,Star Wars: Armada – Rebel Fighter Squadrons Expansion Pack,0,-1,8.0,8.0,267,0.0%
+298,Star Wars: Armada – Nebulon-B Frigate Expansion Pack,0,-1,7.6,8.0,203,0.0%
+299,Star Wars: Armada – Interdictor Expansion Pack,0,-1,8.2,8.0,119,0.0%
+300,Star Wars: Armada – Imperial Raider Expansion Pack,0,-1,7.7,8.0,187,0.0%
+301,Star Wars: Armada – Imperial Fighter Squadrons Expansion Pack,0,-1,8.0,8.0,260,0.0%
+302,Star Wars: Armada – Imperial Class Star Destroyer Expansion Pack,0,-1,8.3,8.0,233,0.0%
+303,Star Wars: Armada – Home One Expansion Pack,0,-1,8.1,8.0,209,0.0%
+304,Star Wars: Armada – Hammerhead Corvettes Expansion Pack,0,-1,8.2,8.0,62,0.0%
+305,Star Wars: Armada – Gladiator-class Star Destroyer Expansion Pack,0,-1,8.0,8.0,263,0.0%
+306,Star Wars: Armada – CR90 Corellian Corvette Expansion Pack,0,-1,7.8,8.0,212,0.0%
+307,Star Wars: Armada – Assault Frigate Mark II Expansion Pack,0,-1,7.8,8.0,233,0.0%
+308,Star Wars: Armada – Rebel Transports Expansion Pack,0,-1,8.1,8.0,105,0.0%
+309,Star Wars Customizable Card Game,0,1834,6.7,6.0,2277,0.0%
+310,Star Trek: Ascendancy – Vulcan High Command,0,-1,8.1,9.0,110,0.0%
+311,Star Trek: Ascendancy – Ferengi Alliance,0,-1,8.1,-1.0,411,0.0%
+312,Star Trek: Ascendancy – Cardassian Union,0,-1,8.1,-1.0,409,0.0%
+313,Star Trek: Ascendancy,0,538,7.8,9.0,2612,0.0%
+314,Star Realms: Security Craft Promo Card,0,-1,7.3,8.0,54,0.0%
+315,Star Realms: Mercenary Garrison Promo Card,0,-1,7.5,8.0,318,0.0%
+316,Star Realms: Merc Destroyer Promo Card,0,-1,7.2,7.0,36,0.0%
+317,Star Realms: Gambit Set,0,-1,7.2,8.0,1863,0.0%
+318,Star Realms: Crisis – Heroes,0,-1,7.0,8.0,1894,0.0%
+319,Star Realms: Crisis – Fleets & Fortresses,0,-1,7.7,8.0,1845,0.0%
+320,Star Realms: Crisis – Events,0,-1,7.1,8.0,1933,0.0%
+321,Star Realms: Crisis – Bases & Battleships,0,-1,7.7,8.0,2005,0.0%
+322,Star Realms: Cosmic Gambit Set,0,-1,7.3,8.0,739,0.0%
+323,Star Realms: Colony Wars,0,164,7.9,8.0,6040,0.0%
+324,Spyfall: Gaming Convention promo cards,0,-1,7.2,7.0,102,0.0%
+325,Spyfall,0,639,6.9,8.0,18191,0.0%
+326,Split,0,11402,5.9,5.0,183,0.0%
+327,Splendor: Nobles Promo Tiles,0,-1,7.3,7.0,482,0.0%
+328,Splendor: Cities of Splendor,0,-1,7.4,8.0,3010,0.0%
+329,Specters of Nevermore,0,-1,7.4,7.0,93,0.0%
+330,Spartacus: The Shadow of Death,0,-1,7.9,8.0,603,0.0%
+331,Spartacus: The Serpents and the Wolf Expansion Set,0,-1,7.9,8.0,1366,0.0%
+332,Sons of Anarchy: Men of Mayhem,0,903,7.3,7.0,2555,0.0%
+333,Snake Oil: Party Potion,0,-1,7.3,8.0,154,0.0%
+334,Small World: Royal Bonus,0,-1,7.5,8.0,1254,0.0%
+335,Small World: Necromancer Island,0,-1,6.7,8.0,1521,0.0%
+336,Small World: Cursed!,0,-1,7.5,8.0,5720,0.0%
+337,Small World: Be Not Afraid...,0,-1,7.6,8.0,5286,0.0%
+338,Small World: A Spider's Web,0,-1,7.6,8.0,1095,0.0%
+339,Slap .45 Mini,0,16124,5.7,5.0,38,0.0%
+340,Skip-Bo,0,19922,5.5,5.0,6071,0.0%
+341,Sid Meier's Civilization: The Board Game – Wisdom and Warfare,0,-1,8.3,8.0,1411,0.0%
+342,Sid Meier's Civilization: The Board Game – Fame and Fortune,0,-1,8.0,8.0,2260,0.0%
+343,Shinobi WAT-AAH!: Saitenza Promo Card,0,-1,6.8,-1.0,15,0.0%
+344,SHH,0,4339,6.4,-1.0,518,0.0%
+345,Sherlock Holmes Consulting Detective: Carlton House & Queen's Park,0,1565,7.9,8.0,730,0.0%
+346,Sheriff of Nottingham: Royal Summons Promo Card,0,-1,7.1,7.0,206,0.0%
+347,Sheriff of Nottingham: Gambler's Risk,0,-1,7.2,7.0,57,0.0%
+348,Sheriff of Nottingham: 2016 Dice Tower Kickstarter Promo Pack,0,-1,7.3,7.0,61,0.0%
+349,Fangs,0,924,6.8,8.0,7995,0.0%
+350,Sentinels of the Multiverse: Void Guard,0,-1,8.2,-1.0,134,0.0%
+351,Sentinels of the Multiverse: Unity Hero Character,0,-1,8.0,-1.0,970,0.0%
+352,Sentinels of the Multiverse: The Scholar Hero Character,0,-1,7.9,-1.0,862,0.0%
+353,Sentinels of the Multiverse: Stuntman Hero Character,0,-1,8.0,7.0,138,0.0%
+354,Sentinels of the Multiverse: Miss Information Villain Character,0,-1,7.8,-1.0,792,0.0%
+355,Sentinels of the Multiverse: Guise Hero Character,0,-1,7.9,-1.0,512,0.0%
+356,Sentinels of the Multiverse: Chokepoint Villain Character,0,-1,7.8,-1.0,280,0.0%
+357,Sentinels of the Multiverse,0,398,7.2,8.0,14738,0.0%
+358,SeaFall,0,2541,6.3,8.0,3121,0.0%
+359,Scythe: Promo Pack #14 – Encounter Card 42,0,-1,8.2,-1.0,273,0.0%
+360,Sanctum,0,1765,7.2,8.0,1182,0.0%
+361,Rum & Bones: Second Tide – Tusketeers Hero Pack,0,-1,7.5,7.0,30,0.0%
+362,Rum & Bones: Second Tide – Sea Monsters,0,-1,7.9,7.0,96,0.0%
+363,Rum & Bones: Second Tide – Marea de la Muerte Heroes Set #1,0,-1,7.7,7.0,49,0.0%
+364,Rum & Bones: Second Tide – League of Extraordinary Pirates Hero Pack,0,-1,7.4,7.0,32,0.0%
+365,Rum & Bones: Second Tide – KS exclusives,0,-1,8.0,7.0,46,0.0%
+366,Rum & Bones: Second Tide – Iron Inquisition Heroes Set #1,0,-1,7.9,7.0,32,0.0%
+367,Rum & Bones: Second Tide – Iron Inquisition,0,-1,7.9,7.0,87,0.0%
+368,Rum & Bones: Second Tide – Deep Lords Heroes Set #1,0,-1,7.8,7.0,51,0.0%
+369,Rum & Bones: Second Tide – Cutthroats Hero Pack,0,-1,7.4,7.0,30,0.0%
+370,Rum & Bones: Second Tide,0,1131,7.7,9.0,1253,0.0%
+371,Rum & Bones: Saint Seraphina,0,-1,7.7,7.0,24,0.0%
+372,Rum & Bones: Captain Ridgeback,0,-1,7.7,7.0,19,0.0%
+373,Rum & Bones: Blutrausch Legion Heroes Set #1,0,-1,7.8,7.0,24,0.0%
+374,Rum & Bones: Blutrausch Legion,0,-1,8.0,7.0,72,0.0%
+375,Room 25: Dice Tower Promo 2016,0,-1,7.0,6.0,38,0.0%
+376,Rook,0,2331,6.4,5.0,2537,0.0%
+377,Roll Player: Monsters & Minions,0,-1,8.1,8.0,2869,0.0%
+378,Roll Player: Fiends & Familiars,0,-1,8.1,7.0,502,0.0%
+379,The Road to Canterbury,0,2423,6.9,7.0,905,0.0%
+380,Rising Sun: Monster Pack,0,-1,8.2,-1.0,1182,0.0%
+381,Rising Sun: Kami Unbound,0,-1,8.1,-1.0,1154,0.0%
+382,Rising Sun: Dynasty Invasion,0,-1,8.3,-1.0,986,0.0%
+383,Rising Sun: Daimyo Box,0,-1,8.5,-1.0,1293,0.0%
+384,Rising Sun,0,85,7.9,8.0,15717,0.0%
+385,Rhino Hero: Super Battle,0,704,7.3,8.0,3451,0.0%
+386,The Resistance: Avalon Promo Cards,0,-1,7.3,7.0,429,0.0%
+387,The Red Dragon Inn: Seriously Strong Spirits,0,-1,7.3,7.0,33,0.0%
+388,The Red Dragon Inn: Eve's Mystery Mead,0,-1,7.1,7.0,38,0.0%
+389,The Red Dragon Inn: Blud Light,0,-1,6.9,6.0,19,0.0%
+390,The Red Dragon Inn: Allies – Zariah the Summoner,0,-1,7.7,7.0,169,0.0%
+391,The Red Dragon Inn: Allies – Wrench,0,-1,7.6,7.0,198,0.0%
+392,The Red Dragon Inn: Allies – Witchdoctor Natyli,0,-1,7.7,-1.0,290,0.0%
+393,The Red Dragon Inn: Allies – Pooky,0,-1,7.6,8.0,570,0.0%
+394,The Red Dragon Inn: Allies – Ozrik the Adept,0,-1,7.7,7.0,174,0.0%
+395,The Red Dragon Inn: Allies – Keet and Nitrel,0,-1,7.9,7.0,119,0.0%
+396,The Red Dragon Inn: Allies – Halden the Unhinged,0,-1,7.8,7.0,149,0.0%
+397,The Red Dragon Inn: Allies – Erin the Ever-Changing,0,-1,7.5,7.0,396,0.0%
+398,The Red Dragon Inn: Allies – Cormac the Mighty,0,-1,7.6,7.0,256,0.0%
+399,The Red Dragon Inn: Allies – Brother Bastian,0,-1,7.8,7.0,184,0.0%
+400,The Red Dragon Inn 6: Villains,0,4020,8.1,7.0,263,0.0%
+401,The Red Dragon Inn 5: The Character Trove,0,2299,7.6,8.0,638,0.0%
+402,The Red Dragon Inn 3,0,1549,7.2,8.0,1538,0.0%
+403,The Red Dragon Inn 2,0,1327,6.9,8.0,2814,0.0%
+404,Race for the Galaxy: The Gathering Storm,0,-1,8.1,7.0,9575,0.0%
+405,Race for the Galaxy: Rebel vs Imperium,0,-1,7.9,7.0,5715,0.0%
+406,Quiddler,0,3396,6.1,5.0,3109,0.0%
+407,Quadropolis: The Cruise Ship,0,-1,7.5,-1.0,48,0.0%
+408,Psychological Warfare,0,13543,6.2,7.0,57,0.0%
+409,Province,0,3303,6.3,5.0,1243,0.0%
+410,Power Grid: BGG Promo Card Set,0,-1,7.5,7.0,602,0.0%
+411,Possession: A Daemonic Card Game,0,14754,6.1,7.0,44,0.0%
+412,Police Precinct: Dirty Bomb Promo,0,-1,7.1,-1.0,37,0.0%
+413,Poker,0,1030,6.7,6.0,9254,0.0%
+414,"Pathfinder Adventure Card Game: Wrath of the Righteous – ""Temptation of Big Die"" Promo Card",0,-1,8.4,7.0,32,0.0%
+415,Pathfinder Adventure Card Game: Skull & Shackles – Character Add-On Deck,0,-1,7.7,7.0,337,0.0%
+416,"Pathfinder Adventure Card Game: Skull & Shackles – ""Vomit Twin"" Promo Card",0,-1,7.5,7.0,34,0.0%
+417,"Pathfinder Adventure Card Game: Skull & Shackles – ""The Land of the Blind"" Promo Card",0,-1,7.7,7.0,34,0.0%
+418,"Pathfinder Adventure Card Game: Skull & Shackles – ""Ranzak"" Promo Character Card Set",0,-1,7.8,7.0,88,0.0%
+419,"Pathfinder Adventure Card Game: Skull & Shackles – ""Owlbeartross"" Promo Card",0,-1,7.4,7.0,50,0.0%
+420,"Pathfinder Adventure Card Game: Skull & Shackles – ""Mogmurch"" Promo Card",0,-1,7.6,7.0,46,0.0%
+421,"Pathfinder Adventure Card Game: Skull & Shackles – ""Mistmourn"" Promo Card",0,-1,7.4,7.0,40,0.0%
+422,"Pathfinder Adventure Card Game: Skull & Shackles – ""Magpie Princess"" Promo Card",0,-1,7.2,7.0,36,0.0%
+423,"Pathfinder Adventure Card Game: Skull & Shackles – ""Goblin Weidling"" Promo Card",0,-1,7.5,7.0,50,0.0%
+424,"Pathfinder Adventure Card Game: Skull & Shackles – ""Goblin Pegleg"" Promo Card",0,-1,7.2,7.0,38,0.0%
+425,"Pathfinder Adventure Card Game: Skull & Shackles – ""Goblin Lockpick"" Promo Card",0,-1,7.4,7.0,31,0.0%
+426,"Pathfinder Adventure Card Game: Skull & Shackles – ""Goblin Keelhaulin' "" Promo Card",0,-1,7.6,7.0,41,0.0%
+427,"Pathfinder Adventure Card Game: Skull & Shackles – ""Goblin Buckler Gun"" Promo Card",0,-1,7.4,7.0,39,0.0%
+428,"Pathfinder Adventure Card Game: Skull & Shackles – ""Blessing of Zogmugot"" Promo Card",0,-1,7.5,7.0,46,0.0%
+429,Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 6 – From Hell's Heart,0,-1,7.8,7.0,172,0.0%
+430,Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 5 – The Price of Infamy,0,-1,7.7,7.0,180,0.0%
+431,Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 4 – Island of Empty Eyes,0,-1,7.8,7.0,201,0.0%
+432,Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 3 – Tempest Rising,0,-1,7.8,7.0,219,0.0%
+433,Pathfinder Adventure Card Game: Skull & Shackles Adventure Deck 2 – Raiders of the Fever Sea,0,-1,7.8,7.0,257,0.0%
+434,Pathfinder Adventure Card Game: Rise of the Runelords – Character Add-On Deck,0,-1,7.6,7.0,1694,0.0%
+435,Pathfinder Adventure Card Game: Rise of the Runelords – Adventure Deck 6: Spires of Xin-Shalast,0,-1,7.7,7.0,669,0.0%
+436,Pathfinder Adventure Card Game: Rise of the Runelords – Adventure Deck 5: Sins of the Saviors,0,-1,7.6,7.0,729,0.0%
+437,Pathfinder Adventure Card Game: Rise of the Runelords – Adventure Deck 4: Fortress of the Stone Giants,0,-1,7.6,7.0,842,0.0%
+438,Pathfinder Adventure Card Game: Rise of the Runelords – Adventure Deck 3: The Hook Mountain Massacre,0,-1,7.6,7.0,1095,0.0%
+439,Pathfinder Adventure Card Game: Rise of the Runelords – Adventure Deck 2: The Skinsaw Murders,0,-1,7.6,7.0,1364,0.0%
+440,Pathfinder Adventure Card Game: Class Deck – Rogue,0,-1,7.6,7.0,109,0.0%
+441,Pathfinder Adventure Card Game: Class Deck – Ranger,0,-1,7.5,7.0,110,0.0%
+442,Pathfinder Adventure Card Game: Class Deck – Fighter,0,-1,7.5,7.0,110,0.0%
+443,Pathfinder Adventure Card Game: Class Deck – Cleric,0,-1,7.6,7.0,101,0.0%
+444,Pathfinder Adventure Card Game: Class Deck – Bard,0,-1,7.4,7.0,107,0.0%
+445,Patchistory,0,1163,7.1,8.0,2022,0.0%
+446,Pandemic: On the Brink,0,-1,8.1,7.0,16131,0.0%
+447,Pandemic Legacy: Season 2,0,35,8.2,10.0,12031,0.0%
+448,Paladins of the West Kingdom,0,73,8.1,9.0,8082,0.0%
+449,Pairs,0,2578,6.4,6.0,2064,0.0%
+450,The Others: 7 Sins – Wrath Expansion,0,-1,7.8,7.0,302,0.0%
+451,The Others: 7 Sins – Omega Team Expansion,0,-1,7.6,7.0,227,0.0%
+452,The Others: 7 Sins – Men of FAITH,0,-1,7.6,7.0,140,0.0%
+453,The Others: 7 Sins – Lust Expansion,0,-1,7.7,7.0,294,0.0%
+454,The Others: 7 Sins – Greed Expansion,0,-1,7.7,7.0,272,0.0%
+455,The Others: 7 Sins – Gluttony Expansion,0,-1,7.7,7.0,288,0.0%
+456,The Others: 7 Sins – Gamma Team Expansion,0,-1,7.8,7.0,186,0.0%
+457,The Others: 7 Sins – Envy Expansion,0,-1,7.7,7.0,297,0.0%
+458,The Others: 7 Sins – Delta Team Expansion,0,-1,7.7,7.0,176,0.0%
+459,The Others: 7 Sins – Beta Team Expansion,0,-1,7.7,7.0,305,0.0%
+460,Onitama: Phoenix and Turtle Promo Cards,0,-1,7.6,-1.0,127,0.0%
+461,The Offensive Band Name Generator,0,14957,6.4,-1.0,32,0.0%
+462,Nothing Personal: Young Turks Expansion,0,-1,7.5,7.0,183,0.0%
+463,Nothing Personal: Power & Influence,0,-1,7.8,7.0,75,0.0%
+464,Nothing Personal: Associates,0,-1,7.6,7.0,67,0.0%
+465,Nothing Personal Expansion Pack #3: Movies and TV,0,-1,7.8,7.0,51,0.0%
+466,Nothing Personal Expansion Pack #2: The Dice Tower Crew,0,-1,7.5,7.0,35,0.0%
+467,Nothing Personal Expansion Pack #1: Game Designers,0,-1,7.6,7.0,52,0.0%
+468,NOIR: Deductive Mystery Game,0,2666,6.5,6.0,1336,0.0%
+469,Ninja Camp: Kitten,0,-1,7.0,-1.0,55,0.0%
+470,Night Eternal: The Game,0,12783,6.1,6.0,76,0.0%
+471,New Salem: Tom Commands Promo Card,0,-1,6.6,-1.0,8,0.0%
+472,Nevermore,0,2616,6.7,8.0,1072,0.0%
+473,Neuroshima Hex! Assassin,0,-1,7.1,-1.0,29,0.0%
+474,Near and Far: Secret Cabal Character Tiles,0,-1,7.6,8.0,18,0.0%
+475,Near And Far: Rodney & Pep Watch It Played Character Tiles,0,-1,7.4,8.0,27,0.0%
+476,Near and Far: Dice Tower Character Tiles,0,-1,7.2,9.0,26,0.0%
+477,Near and Far: Amber Mines,0,-1,8.2,8.0,720,0.0%
+478,Near and Far,0,150,7.8,9.0,7190,0.0%
+479,Mythic Battles: Expansion II – Tribute of Blood,0,-1,7.6,7.0,38,0.0%
+480,Mystic Market,0,4182,7.3,6.0,284,0.0%
+481,Mystery of the Abbey,0,1339,6.5,7.0,7675,0.0%
+482,Mysterium: Secrets & Lies – First Printing Promo,0,-1,7.8,7.0,112,0.0%
+483,Mysterium: Secrets & Lies,0,-1,8.0,7.0,1290,0.0%
+484,Mysterium: Promo Cards,0,-1,7.6,7.0,446,0.0%
+485,Mysterium: Hidden Signs,0,-1,7.8,7.0,2423,0.0%
+486,Munchkin Gloom,0,7096,6.4,7.0,217,0.0%
+487,Mr. Jack Pocket: Goodies,0,-1,6.9,7.0,158,0.0%
+488,Money!,0,1868,6.5,7.0,2716,0.0%
+489,Merlin,0,975,7.1,9.0,2817,0.0%
+490,Merchants & Marauders: Seas of Glory,0,-1,8.3,7.0,1354,0.0%
+491,Merchants & Marauders,0,268,7.4,9.0,12712,0.0%
+492,Marvel Dice Masters: Uncanny X-Men,0,761,7.2,8.0,3692,0.0%
+493,Marvel Dice Masters: Doctor Strange Team Pack,0,-1,7.2,8.0,104,0.0%
+494,Mariposas,0,1354,7.2,9.0,1582,0.0%
+495,Mansions of Madness: Second Edition – Suppressed Memories: Figure and Tile Collection,0,-1,8.2,8.0,1226,0.0%
+496,Mansions of Madness: Second Edition – Recurring Nightmares: Figure and Tile Collection,0,-1,8.2,8.0,1218,0.0%
+497,Mansions of Madness: Second Edition,0,33,8.1,9.0,24995,0.0%
+498,Magic: The Gathering – Arena of the Planeswalkers,0,2715,6.3,7.0,2883,0.0%
+499,Mage Wars: Sunfire Burst Promo Card,0,-1,7.0,8.0,5,0.0%
+500,Mage Wars: Spiked Armor Promo Card,0,-1,6.8,8.0,9,0.0%
+501,"Mage Wars: Sersiryx, Imp Familiar Promo Card",0,-1,6.5,8.0,12,0.0%
+502,Mage Wars: Leviathan Scale Armor Promo Card,0,-1,7.3,8.0,7,0.0%
+503,"Mage Wars: Galador, Protector of Straywood Promo Card",0,-1,6.3,7.0,11,0.0%
+504,Mage Wars: Forged in Fire – Spell Tome Expansion,0,-1,8.1,8.0,403,0.0%
+505,Mage Wars Arena: Forcemaster vs Warlord Expansion Set,0,-1,8.2,8.0,962,0.0%
+506,Mage Wars: Fire Elemental Promo Card,0,-1,6.9,8.0,10,0.0%
+507,Mage Wars: Druid vs. Necromancer,0,-1,8.3,8.0,759,0.0%
+508,Mage Wars: Dice Tower 2015 Funding Campaign Promo Card Set,0,-1,6.6,8.0,11,0.0%
+509,Mage Wars: Dice Tower 2014 Non-Kickstarter promo card set,0,-1,7.6,8.0,13,0.0%
+510,Mage Wars: Dice Tower 2014 funding campaign promo card set,0,-1,7.8,8.0,19,0.0%
+511,Mage Wars: Dice Tower 2013 funding campaign promo card set,0,-1,7.6,8.0,34,0.0%
+512,Mage Wars: Conquest of Kumanjaro – Spell Tome Expansion,0,-1,8.0,8.0,584,0.0%
+513,Mage Wars: Bloodwave Greatbow Promo Card,0,-1,6.8,8.0,8,0.0%
+514,Mage Wars: Asyran Defender Promo Card,0,-1,5.8,8.0,9,0.0%
+515,Mage Wars Academy/Mage Wars: Arena Dice Tower Promo 2016,0,-1,7.4,8.0,14,0.0%
+516,Machi Koro: Millionaire's Row,0,-1,6.7,8.0,2163,0.0%
+517,Machi Koro: Harbor,0,-1,7.1,8.0,5560,0.0%
+518,Machi Koro: Gaming Mega Store,0,-1,6.0,8.0,400,0.0%
+519,Machi Koro: Dice Tower Promo Cards,0,-1,6.9,8.0,47,0.0%
+520,Lost Cities: Expedition 6 – The Lost Expedition,0,-1,7.2,7.0,247,0.0%
+521,Looting London,0,7047,5.9,6.0,588,0.0%
+522,Looney Labs Mammoth Fun Pack,0,-1,6.3,-1.0,15,0.0%
+523,Loaded Questions,0,6538,5.9,6.0,958,0.0%
+524,Lifeboat Expansion #3: Weather Deck,0,-1,6.3,7.0,193,0.0%
+525,Lifeboat Expansion #2: Liquid Courage,0,-1,6.6,7.0,327,0.0%
+526,Lifeboat Expansion #1: Cannibalism,0,-1,6.6,7.0,432,0.0%
+527,Letter Jam,0,881,7.3,7.0,2368,0.0%
+528,Legacy: Forbidden Machines,0,-1,7.5,7.0,83,0.0%
+529,Last Will: Plan Order Board,0,-1,6.8,6.0,211,0.0%
+530,Last Will: Getting Sacked,0,-1,7.5,8.0,874,0.0%
+531,Lanterns: The Harvest Festival – Dice Tower Promo Tile,0,-1,7.0,-1.0,52,0.0%
+532,Lagoon: Land of Druids – Mytreia's Glory / Cosmic Vault,0,-1,7.1,-1.0,16,0.0%
+533,Lagoon: Land of Druids,0,3308,6.3,7.0,1302,0.0%
+534,King of Tokyo: Promo Cards,0,-1,7.5,8.0,1072,0.0%
+535,King of Tokyo: Power Up!,0,-1,7.6,8.0,10407,0.0%
+536,King of Tokyo: Halloween,0,-1,7.2,8.0,4476,0.0%
+537,King of Tokyo/New York: Monster Pack – King Kong,0,-1,7.4,7.0,517,0.0%
+538,King of Tokyo/New York: Monster Pack – Cthulhu,0,-1,7.5,7.0,936,0.0%
+539,King of Tokyo/New York: Monster Pack – Anubis,0,-1,7.6,8.0,412,0.0%
+540,King of New York: Monster Idol,0,-1,7.0,-1.0,104,0.0%
+541,KeyForge: Call of the Archons,0,423,7.3,8.0,9308,0.0%
+542,Kemet: Ta-Seti,0,-1,8.0,8.0,1191,0.0%
+543,Kemet: Skills and Black Power Tile For Ta-Seti,0,-1,7.6,8.0,129,0.0%
+544,Kemet: Seth,0,-1,7.7,9.0,201,0.0%
+545,Kemet: New Power Tiles,0,-1,7.6,8.0,147,0.0%
+546,Kemet: Dice Tower Promo 2016,0,-1,7.5,8.0,75,0.0%
+547,Kemet: Blood and Sand,0,7478,8.5,-1.0,68,0.0%
+548,Island Fortress,0,7285,6.3,6.0,239,0.0%
+549,House of Borgia,0,5730,6.6,6.0,244,0.0%
+550,Hoax (Second Edition),0,6258,6.0,7.0,689,0.0%
+551,High Society,0,566,7.1,6.0,8875,0.0%
+552,Heroes Wanted: Dice Promo Card,0,-1,6.7,-1.0,34,0.0%
+553,Hero Realms: The Ruin of Thandar Campaign Deck,0,-1,7.5,-1.0,1569,0.0%
+554,Hero Realms: Character Pack – Wizard,0,-1,7.7,8.0,1244,0.0%
+555,Hero Realms: Character Pack – Thief,0,-1,7.8,8.0,1208,0.0%
+556,Hero Realms: Character Pack – Ranger,0,-1,7.7,8.0,1242,0.0%
+557,Hero Realms: Character Pack – Fighter,0,-1,7.7,8.0,1212,0.0%
+558,Hero Realms: Character Pack – Cleric,0,-1,7.7,8.0,1247,0.0%
+559,Hero Realms,0,201,7.6,10.0,12130,0.0%
+560,Hemloch: Midnight Edition,0,7894,7.0,7.0,88,0.0%
+561,Hemloch,0,4395,6.8,7.0,334,0.0%
+562,Harry Potter: Hogwarts Battle – The Monster Box of Monsters Expansion,0,-1,7.6,8.0,1759,0.0%
+563,"Harry Potter: Hogwarts Battle – Spell: Sunshine Daisy, Butter Mellow, Turn This Stupid Fat Rat Yellow!",0,-1,7.4,6.0,87,0.0%
+564,Harry Potter: Hogwarts Battle,0,288,7.5,8.0,11884,0.0%
+565,Guildhall: Job Faire,0,1831,7.1,8.0,1034,0.0%
+566,Good Cop Bad Cop: Undercover – Smuggler Promo Card,0,-1,6.4,-1.0,8,0.0%
+567,Good Cop Bad Cop: Equipment Pack #3 – Tower,0,-1,7.2,-1.0,31,0.0%
+568,Gloomhaven: Secrets of the Lost Cabal (Promo Scenario),0,-1,6.5,7.0,4,0.0%
+569,Gloomhaven: Return of the Lost Cabal (Promo Scenario),0,-1,6.3,7.0,3,0.0%
+570,Gloomhaven: Forgotten Circles,0,-1,8.0,8.0,1172,0.0%
+571,Gloomhaven: Curse of the Lost Cabal (Promo Scenario),0,-1,7.5,-1.0,2,0.0%
+572,Gloomhaven,0,1,8.8,10.0,41815,0.0%
+573,Gloom: Unwelcome Guests,0,-1,6.7,7.0,1086,0.0%
+574,Gloom: Unquiet Dead,0,-1,7.0,7.0,281,0.0%
+575,Gloom: Unhappy Homes,0,-1,6.6,7.0,1489,0.0%
+576,Gloom: Unfortunate Expeditions,0,-1,6.7,7.0,737,0.0%
+577,Ghost Stories: White Moon,0,-1,7.9,8.0,1864,0.0%
+578,Ghost Stories: The Infernal Die,0,-1,7.6,7.0,94,0.0%
+579,Ghost Stories: The Guardhouse Expansion,0,-1,7.4,7.0,562,0.0%
+580,Ghost Stories: Steven Qi-Gal,0,-1,7.0,7.0,164,0.0%
+581,Ghost Stories: Jean-Claude Van Rice,0,-1,7.1,7.0,168,0.0%
+582,Ghost Stories: Guard Tower,0,-1,7.6,7.0,104,0.0%
+583,Ghost Stories: Crazy Shaman,0,-1,7.3,7.0,131,0.0%
+584,Ghost Stories: Chuck No-Rice,0,-1,7.0,7.0,298,0.0%
+585,Ghost Stories: Band of Brothers,0,-1,7.5,7.0,82,0.0%
+586,Ghost Stories: B-Rice Lee,0,-1,7.0,7.0,217,0.0%
+587,Fugitive,0,686,7.2,7.0,3897,0.0%
+588,Frosthaven,0,4523,7.3,-1.0,363,0.0%
+589,The Fox in the Forest,0,417,7.2,8.0,8798,0.0%
+590,Founding Fathers,0,1436,7.0,8.0,1818,0.0%
+591,Foundations of Rome,0,8203,7.7,-1.0,71,0.0%
+592,Fluxx Promo Cards,0,-1,6.6,-1.0,282,0.0%
+593,Fire in the Library,0,4497,6.8,5.0,388,0.0%
+594,Exploding Kittens,0,3303,6.0,-1.0,21428,0.0%
+595,Exodus: Edge of Extinction,0,-1,8.0,8.0,266,0.0%
+596,Exit: The Game – The Pharaoh's Tomb,0,539,7.2,-1.0,5310,0.0%
+597,Exit: The Game – The Forbidden Castle,0,1298,6.9,8.0,2457,0.0%
+598,Exit: The Game – The Abandoned Cabin,0,225,7.5,8.0,8760,0.0%
+599,Escape Room in a Box: The Werewolf Experiment,0,2866,7.2,7.0,519,0.0%
+600,Eminent Domain: Bonus Planets,0,-1,7.3,-1.0,601,0.0%
+601,Dungeons & Dragons: Attack Wing – Sun Elf Troop Expansion Pack,0,-1,6.9,6.0,39,0.0%
+602,Dungeons & Dragons Dice Masters: Battle for Faerûn,0,1336,7.3,7.0,1449,0.0%
+603,Dungeon Roll: Winter Heroes Pack,0,-1,6.1,7.0,338,0.0%
+604,Dungeon Roll: Hero Booster Pack #1,0,-1,6.4,7.0,930,0.0%
+605,Dungeon Roll Hero: Guild Leader,0,-1,6.4,6.0,392,0.0%
+606,Dungeon Roll,0,2578,6.1,7.0,7587,0.0%
+607,Dune: Imperium – Jessica of Arrakis Promo Card,0,-1,7.8,9.0,29,0.0%
+608,Dune,0,284,8.2,7.0,3133,0.0%
+609,Dragon Slayer,0,10961,5.6,6.0,1648,0.0%
+610,Dragon Rampage,0,4476,6.4,7.0,507,0.0%
+611,Dominion: Stash Promo Card,0,-1,7.3,7.0,2176,0.0%
+612,Dogs of War,0,681,7.5,8.0,2518,0.0%
+613,Diamonds: The Thief,0,-1,7.4,-1.0,53,0.0%
+614,Descent: Journeys in the Dark (Second Edition) – Zarihell Lieutenant Pack,0,-1,7.8,8.0,149,0.0%
+615,Descent: Journeys in the Dark (Second Edition) – Zachareth Lieutenant Pack,0,-1,7.7,8.0,365,0.0%
+616,Descent: Journeys in the Dark (Second Edition) – Visions of Dawn,0,-1,8.2,-1.0,266,0.0%
+617,Descent: Journeys in the Dark (Second Edition) – Verminous Lieutenant Pack,0,-1,7.8,8.0,256,0.0%
+618,Descent: Journeys in the Dark (Second Edition) – Valyndra Lieutenant Pack,0,-1,8.0,8.0,347,0.0%
+619,Descent: Journeys in the Dark (Second Edition) – Tristayne Olliven Lieutenant Pack,0,-1,7.7,8.0,232,0.0%
+620,Descent: Journeys in the Dark (Second Edition) – Treaty of Champions,0,-1,8.2,-1.0,222,0.0%
+621,Descent: Journeys in the Dark (Second Edition) – The Trollfens,0,-1,8.0,9.0,1187,0.0%
+622,Descent: Journeys in the Dark (Second Edition) – The Chains That Rust,0,-1,8.3,9.0,376,0.0%
+623,Descent: Journeys in the Dark (Second Edition) – Stewards of the Secret,0,-1,8.2,8.0,200,0.0%
+624,Descent: Journeys in the Dark (Second Edition) – Splig Lieutenant Pack,0,-1,7.7,8.0,396,0.0%
+625,Descent: Journeys in the Dark (Second Edition) – Skarn Lieutenant Pack,0,-1,7.8,8.0,238,0.0%
+626,Descent: Journeys in the Dark (Second Edition) – Shards of Everdark,0,-1,8.3,-1.0,211,0.0%
+627,Descent: Journeys in the Dark (Second Edition) – Shadow of Nerekhall,0,-1,8.4,9.0,1304,0.0%
+628,Descent: Journeys in the Dark (Second Edition) – Serena Lieutenant Pack,0,-1,7.7,8.0,244,0.0%
+629,Descent: Journeys in the Dark (Second Edition) – Rylan Olliven Lieutenant Pack,0,-1,7.6,8.0,222,0.0%
+630,Descent: Journeys in the Dark (Second Edition) – Road to Legend,0,-1,8.6,9.0,1055,0.0%
+631,Descent: Journeys in the Dark (Second Edition) – Raythen Lieutenant Pack,0,-1,7.8,8.0,238,0.0%
+632,Descent: Journeys in the Dark (Second Edition) – Queen Ariad Lieutenant Pack,0,-1,7.8,8.0,237,0.0%
+633,Descent: Journeys in the Dark (Second Edition) – Oath of the Outcast,0,-1,8.0,8.0,369,0.0%
+634,Descent: Journeys in the Dark (Second Edition) – Mists of Bilehall,0,-1,8.2,9.0,449,0.0%
+635,Descent: Journeys in the Dark (Second Edition) – Merick Farrow Lieutenant Pack,0,-1,7.5,8.0,370,0.0%
+636,Descent: Journeys in the Dark (Second Edition) – Manor of Ravens,0,-1,8.2,9.0,744,0.0%
+637,Descent: Journeys in the Dark (Second Edition) – Lair of the Wyrm,0,-1,7.9,9.0,1894,0.0%
+638,Descent: Journeys in the Dark (Second Edition) – Labyrinth of Ruin,0,-1,8.2,9.0,1466,0.0%
+639,Descent: Journeys in the Dark (Second Edition) – Kyndrithul Lieutenant Pack,0,-1,7.8,8.0,153,0.0%
+640,Descent: Journeys in the Dark (Second Edition) – Guardians of Deephall,0,-1,8.1,8.0,306,0.0%
+641,Descent: Journeys in the Dark (Second Edition) – Gargan Mirklace Lieutenant Pack,0,-1,7.8,8.0,248,0.0%
+642,Descent: Journeys in the Dark (Second Edition) – Eliza Farrow Lieutenant Pack,0,-1,7.6,8.0,370,0.0%
+643,Descent: Journeys in the Dark (Second Edition) – Crusade of the Forgotten,0,-1,8.1,8.0,331,0.0%
+644,Descent: Journeys in the Dark (Second Edition) – Crown of Destiny,0,-1,8.0,8.0,321,0.0%
+645,Descent: Journeys in the Dark (Second Edition) – Bonds of the Wild,0,-1,8.2,-1.0,291,0.0%
+646,Descent: Journeys in the Dark (Second Edition) – Bol'Goreth Lieutenant Pack,0,-1,7.7,8.0,275,0.0%
+647,Descent: Journeys in the Dark (Second Edition) – Belthir Lieutenant Pack,0,-1,7.6,8.0,373,0.0%
+648,Descent: Journeys in the Dark (Second Edition) – Ariad Lieutenant Pack,0,-1,7.7,8.0,232,0.0%
+649,Descent: Journeys in the Dark (Second Edition) – Ardus Ix'Erebus Lieutenant Pack,0,-1,7.9,8.0,160,0.0%
+650,Descent: Journeys in the Dark (Second Edition) – Alric Farrow Lieutenant Pack,0,-1,7.7,8.0,364,0.0%
+651,Deception: Undercover Allies,0,-1,8.0,8.0,912,0.0%
+652,Deception: Murder in Hong Kong – Dice Tower 2016 Kickstarter Promo Pack,0,-1,7.6,7.0,84,0.0%
+653,Deception/CS-Files Theme Pack: Western Europe,0,-1,7.4,7.0,65,0.0%
+654,Deception/CS-Files Theme Pack: Southern Europe,0,-1,7.4,7.0,66,0.0%
+655,Deception/CS-Files Theme Pack: North America,0,-1,7.4,7.0,66,0.0%
+656,Dead of Winter: Kodiak Colby,0,-1,7.7,7.0,558,0.0%
+657,Dead of Winter: Felicia Day,0,-1,7.5,7.0,266,0.0%
+658,Dead of Winter: BGG Crossroads Promo,0,-1,7.6,7.0,110,0.0%
+659,Dead Drop,0,4256,6.4,7.0,591,0.0%
+660,Dark Tales: The Solstice Faire,0,-1,7.2,7.0,12,0.0%
+661,Dark Tales: Little Red Riding Hood,0,-1,7.0,-1.0,285,0.0%
+662,Dark Tales,0,2716,6.6,7.0,1191,0.0%
+663,Dark Souls: The Board Game – Phantoms Expansion,0,-1,7.6,5.0,105,0.0%
+664,Dark Souls: The Board Game – Iron Keep Expansion,0,-1,7.6,5.0,102,0.0%
+665,Dark Souls: The Board Game – Explorers Expansion,0,-1,7.6,5.0,117,0.0%
+666,Dark Souls: The Board Game – Darkroot Expansion,0,-1,7.6,7.0,193,0.0%
+667,Dark Souls: The Board Game – Characters Expansion,0,-1,7.9,5.0,135,0.0%
+668,Dark Souls: The Board Game – Black Dragon Kalameet Boss Expansion,0,-1,7.7,7.0,80,0.0%
+669,Dark Souls: The Board Game,0,2290,6.6,7.0,3320,0.0%
+670,Cyclades: Titans,0,-1,8.1,-1.0,1766,0.0%
+671,Crypt,0,1762,6.8,7.0,2143,0.0%
+672,Coup,0,501,7.0,8.0,35884,0.0%
+673,Coup: Reformation,0,-1,7.3,8.0,4570,0.0%
+674,Cosmic Encounter: Cosmic Storm,0,-1,8.0,8.0,997,0.0%
+675,Cosmic Encounter: Cosmic Incursion,0,-1,8.2,8.0,3253,0.0%
+676,Cosmic Encounter: Cosmic Conflict,0,-1,8.1,8.0,2035,0.0%
+677,Cosmic Encounter: Cosmic Alliance,0,-1,8.1,8.0,1513,0.0%
+678,Commands & Colors: Ancients,0,142,7.8,8.0,7975,0.0%
+679,Colt Express: Marshal & Prisoners,0,-1,7.6,-1.0,932,0.0%
+680,Colt Express: Horses & Stagecoach,0,-1,7.5,7.0,2148,0.0%
+681,Colosseum,0,451,7.2,10.0,8436,0.0%
+682,Coin Age,0,3815,6.1,6.0,1809,0.0%
+683,Codenames: Bonus Pack – CGE Games,0,-1,6.8,7.0,61,0.0%
+684,Codenames: Bonus Pack – Board Gaming (English),0,-1,7.0,8.0,95,0.0%
+685,Chronicles of Crime: 2400,0,8130,8.3,8.0,51,0.0%
+686,Chronicles of Crime: 1900,0,7810,8.3,8.0,53,0.0%
+687,Chronicles of Crime,0,141,7.8,8.0,14109,0.0%
+688,Chronicle,0,1752,6.8,7.0,1748,0.0%
+689,Choose Your Own Adventure: House of Danger,0,2360,6.4,7.0,2129,0.0%
+690,Cheaty Mages!,0,2843,6.3,7.0,1909,0.0%
+691,Champions of Midgard: Virtue Promo Card,0,-1,7.6,7.0,169,0.0%
+692,Champions of Midgard: Valhalla – Sikling Promo Pack,0,-1,7.8,7.0,37,0.0%
+693,Champions of Midgard: Valhalla,0,-1,8.4,8.0,2718,0.0%
+694,Champions of Midgard: The Dark Mountains,0,-1,7.9,8.0,2244,0.0%
+695,Champions of Midgard: SeeZam Promo Card,0,-1,7.7,7.0,206,0.0%
+696,Century: Spice Road – Bonus Cards 2,0,-1,7.9,8.0,62,0.0%
+697,Century: Spice Road – Bonus Cards,0,-1,7.7,8.0,177,0.0%
+698,Cards Against Librarianship,0,-1,5.9,8.0,7,0.0%
+699,Cards Against Humanity: World Wide Web Pack,0,-1,7.0,7.0,146,0.0%
+700,Cards Against Humanity: Vote for Trump Pack,0,-1,6.2,7.0,68,0.0%
+701,Cards Against Humanity: Vote for Hillary Pack,0,-1,6.6,7.0,73,0.0%
+702,Cards Against Humanity: Third Expansion,0,-1,6.7,7.0,1631,0.0%
+703,Cards Against Humanity: Theatre Pack,0,-1,6.9,6.0,32,0.0%
+704,"Cards Against Humanity: The Bigger, Blacker Box",0,-1,6.6,7.0,1100,0.0%
+705,Cards Against Humanity: Ten Days or Whatever of Kwanzaa,0,-1,6.7,7.0,347,0.0%
+706,Cards Against Humanity: Sixth Expansion,0,-1,6.8,7.0,489,0.0%
+707,Cards Against Humanity: Second Expansion,0,-1,6.7,7.0,2173,0.0%
+708,Cards Against Humanity: Science Pack,0,-1,6.8,7.0,275,0.0%
+709,Cards Against Humanity: PAX Prime 2013 Promo Pack,0,-1,5.9,7.0,58,0.0%
+710,Cards Against Humanity: PAX East 2014 Promo Pack,0,-1,5.9,7.0,43,0.0%
+711,Cards Against Humanity: PAX East 2014 Panel Pack,0,-1,5.5,7.0,24,0.0%
+712,Cards Against Humanity: PAX East 2013 Promo Packs,0,-1,6.1,7.0,125,0.0%
+713,Cards Against Humanity: Fourth Expansion,0,-1,6.7,7.0,1173,0.0%
+714,Cards Against Humanity: Food Pack,0,-1,6.8,7.0,128,0.0%
+715,Cards Against Humanity: First Expansion,0,-1,6.6,7.0,2693,0.0%
+716,Cards Against Humanity: Fifth Expansion,0,-1,6.8,7.0,759,0.0%
+717,Cards Against Humanity: Fantasy Pack,0,-1,6.8,7.0,222,0.0%
+718,Cards Against Humanity: Jew Pack,0,-1,6.7,7.0,191,0.0%
+719,Cards Against Humanity: Design Pack,0,-1,5.7,7.0,121,0.0%
+720,Cards Against Humanity: Ass Pack,0,-1,6.9,7.0,20,0.0%
+721,Cards Against Humanity: 90s Nostalgia Pack,0,-1,6.8,7.0,552,0.0%
+722,Cards Against Humanity: 12 Days of Holiday Bullshit,0,-1,6.7,7.0,453,0.0%
+723,Cards Against Humanity: 2012 Holiday Pack,0,-1,6.6,7.0,714,0.0%
+724,Cards Against Humanity: 2000s Nostalgia Pack,0,-1,7.2,7.0,18,0.0%
+725,Carcassonne: The Robbers,0,-1,6.2,7.0,809,0.0%
+726,Carcassonne: The River II,0,-1,7.2,8.0,4234,0.0%
+727,Carcassonne: The Messengers,0,-1,6.4,7.0,951,0.0%
+728,Carcassonne: The Gold Mines,0,-1,6.9,7.0,1114,0.0%
+729,Carcassonne: The Flying Machines,0,-1,6.7,7.0,1168,0.0%
+730,Carcassonne: The Ferries,0,-1,6.8,7.0,1099,0.0%
+731,Carcassonne: Mage & Witch,0,-1,6.7,7.0,946,0.0%
+732,Carcassonne: Expansion 1 – Inns & Cathedrals,0,-1,7.6,8.0,19773,0.0%
+733,"Carcassonne: Cult, Siege & Creativity",0,-1,6.8,7.0,930,0.0%
+734,Camel Up: Supercup,0,-1,7.3,7.0,2188,0.0%
+735,C3K: Creatures Crossover Cyclades/Kemet,0,-1,7.6,8.0,571,0.0%
+736,BUS,0,4813,6.3,6.0,541,0.0%
+737,Burgoo,0,10216,5.7,6.0,595,0.0%
+738,Booze Barons: Lookout Tower Promo,0,-1,7.0,-1.0,1,0.0%
+739,Bloodborne: The Card Game – The Hunter's Nightmare,0,-1,7.9,8.0,398,0.0%
+740,Bloodborne: The Card Game,0,1331,6.9,8.0,2887,0.0%
+741,Blood Rage: Mystics of Midgard,0,-1,7.9,8.0,2195,0.0%
+742,Blood Rage: Gods of Ásgard,0,-1,7.7,8.0,2066,0.0%
+743,Blood Rage: 5th Player Extras – Kickstarter Exclusives,0,-1,8.1,8.0,360,0.0%
+744,Blood Rage: 5th Player Expansion,0,-1,8.1,8.0,2269,0.0%
+745,Blood Bowl: Team Manager – The Card Game: Sudden Death,0,-1,7.8,8.0,1882,0.0%
+746,Black Orchestra: Resistance Broadcast Promo,0,-1,7.6,7.0,83,0.0%
+747,BioShock Infinite: The Siege of Columbia – Enraged Songbird,0,-1,6.6,-1.0,44,0.0%
+748,Battlestar Galactica: The Board Game – Pegasus Expansion,0,-1,7.8,8.0,5552,0.0%
+749,Battlestar Galactica: The Board Game – Exodus Expansion,0,-1,8.1,8.0,3510,0.0%
+750,Battlestar Galactica: The Board Game – Daybreak Expansion,0,-1,8.3,8.0,1837,0.0%
+751,BattleLore (Second Edition): Warband of Scorn Army Pack,0,-1,8.2,7.0,389,0.0%
+752,BattleLore (Second Edition): Razorwings Reinforcement Pack,0,-1,7.9,7.0,217,0.0%
+753,BattleLore (Second Edition): Mountain Giant Reinforcement Pack,0,-1,7.9,7.0,222,0.0%
+754,BattleLore (Second Edition): Hernfar Guardians Army Pack,0,-1,8.2,7.0,393,0.0%
+755,BattleLore (Second Edition): Heralds of Dreadfall Army Pack,0,-1,8.3,7.0,354,0.0%
+756,BattleLore (Second Edition): Great Dragon Reinforcement Pack,0,-1,7.9,7.0,231,0.0%
+757,BattleLore (Second Edition): Terrors of the Mists Army Pack,0,-1,8.2,7.0,333,0.0%
+758,Battle Line,0,224,7.4,8.0,15624,0.0%
+759,Battle For Souls: Promo Card Pack,0,-1,6.8,6.0,46,0.0%
+760,Balloon Cup,0,1143,6.7,7.0,5751,0.0%
+761,"Aye, Dark Overlord! The Red Box",0,4841,5.9,7.0,2705,0.0%
+762,The Game of Authors,0,20077,4.5,5.0,216,0.0%
+763,Alien Frontiers: Promo Pack 2017,0,-1,7.5,7.0,63,0.0%
+764,Abyss: Anglerfish,0,-1,6.7,-1.0,53,0.0%
+765,Above and Below: Groves,0,-1,7.1,7.0,209,0.0%
+766,"The 7th Continent: What Goes Up, Must Come Down",0,-1,8.6,7.0,1242,0.0%
+767,The 7th Continent: The Icy Maze,0,-1,8.1,-1.0,526,0.0%
+768,The 7th Continent: The Forbidden Sanctuary,0,-1,8.4,-1.0,476,0.0%
+769,The 7th Continent: The Flying Roots,0,-1,8.0,8.0,400,0.0%
+770,The 7th Continent: Swamp of Madness,0,-1,8.4,-1.0,420,0.0%
+771,The 7th Continent: Path of Repentance,0,-1,8.3,-1.0,414,0.0%
+772,The 7th Continent: Fear the Devourers,0,-1,8.1,-1.0,418,0.0%
+773,The 7th Continent: Facing the Elements,0,-1,8.1,-1.0,463,0.0%
+774,The 7th Continent: Comfort Creatures,0,-1,8.3,8.0,444,0.0%
+775,The 7th Continent: BGG Promo Cards,0,-1,8.1,7.0,287,0.0%
+776,The 7th Continent,0,32,8.2,9.0,16777,0.0%
+777,7 Wonders: Wonder Pack,0,-1,7.6,8.0,5176,0.0%
+778,7 Wonders: Manneken Pis,0,-1,6.8,7.0,2051,0.0%
+779,7 Wonders: Leaders – Wil,0,-1,7.0,7.0,484,0.0%
+780,7 Wonders: Leaders – Stevie,0,-1,6.9,7.0,1044,0.0%
+781,7 Wonders: Leaders – Louis,0,-1,7.0,7.0,921,0.0%
+782,7 Wonders: Leaders Anniversary Pack,0,-1,7.9,9.0,776,0.0%
+783,7 Wonders: Leaders,0,-1,7.8,8.0,13462,0.0%
+784,7 Wonders: Cities Anniversary Pack,0,-1,7.9,9.0,727,0.0%
+785,7 Wonders: Catan,0,-1,7.1,7.0,1862,0.0%
+786,7 Wonders: Armada,0,-1,8.1,8.0,1654,0.0%
+787,7 Wonders Duel: Pantheon,0,-1,8.0,8.0,8984,0.0%
+788,10 Days in Africa,0,2178,6.6,6.0,1912,0.0%

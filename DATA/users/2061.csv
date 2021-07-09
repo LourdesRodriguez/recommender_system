@@ -1,0 +1,654 @@
+,Game,Plays,BGG Rank,BGG Rating,Your Rating,Users Rating,Utilisation
+0,Race for the Galaxy,138,59,7.8,10.0,46293,99.9%
+1,Dominion,68,98,7.6,10.0,77920,99.9%
+2,Perudo,62,684,6.9,8.0,12572,99.9%
+3,Through the Ages: A Story of Civilization,41,49,7.9,10.0,17986,99.9%
+4,Innovation,39,334,7.2,8.0,14811,99.9%
+5,Love Letter,27,282,7.2,9.0,55827,99.8%
+6,Galaxy Trucker,25,191,7.4,9.0,29437,99.6%
+7,Ra,24,177,7.5,10.0,19077,99.6%
+8,Notre Dame,23,289,7.3,9.0,12221,99.4%
+9,Goa,23,180,7.6,10.0,10921,99.4%
+10,Legendary: A Marvel Deck Building Game,21,175,7.6,9.0,19734,99.2%
+11,Last Will,21,443,7.2,8.0,9026,99.2%
+12,7 Wonders,21,60,7.8,8.0,84104,99.2%
+13,Race for the Galaxy: The Brink of War,20,-1,7.8,9.0,3439,99.0%
+14,Magic: The Gathering,19,158,7.5,9.0,32365,98.7%
+15,Hawaii,16,716,7.2,9.0,4184,97.4%
+16,Arkham Horror,16,333,7.3,8.0,36754,97.4%
+17,Core Worlds,15,713,7.2,8.0,3962,96.8%
+18,Chess,15,439,7.1,8.0,28655,96.8%
+19,Checkers,15,20255,4.9,5.0,7160,96.8%
+20,Battle Line,15,224,7.4,8.0,15624,96.8%
+21,Tumblin-Dice,14,716,7.2,8.0,3886,96.0%
+22,Loopin' Louie,14,922,6.8,8.0,8390,96.0%
+23,For Sale,14,301,7.2,9.0,23815,96.0%
+24,Tsuro,13,933,6.7,8.0,23277,94.9%
+25,Race for the Galaxy: The Gathering Storm,13,-1,8.1,9.0,9575,94.9%
+26,Quarriors!,13,886,6.8,8.0,13141,94.9%
+27,Puerto Rico,12,28,8.0,8.0,63032,93.6%
+28,Fairy Tale,12,970,6.7,8.0,8457,93.6%
+29,Arkham Horror: Dunwich Horror Expansion,12,-1,7.8,9.0,6201,93.6%
+30,Five Cucumbers,11,5239,5.9,9.0,1155,92.0%
+31,Battlestar Galactica: The Board Game,11,81,7.7,8.0,32861,92.0%
+32,Power Grid,10,39,7.9,9.0,56129,90.0%
+33,Amun-Re,10,365,7.3,10.0,8554,90.0%
+34,Saint Petersburg,9,303,7.3,9.0,14518,87.4%
+35,Pit,9,1665,6.4,7.0,8269,87.4%
+36,Hive,9,246,7.3,8.0,29494,87.4%
+37,Thunder Alley,8,719,7.3,9.0,3132,84.1%
+38,Taluva,8,507,7.2,8.0,7779,84.1%
+39,Roll for the Galaxy,8,94,7.7,8.0,26342,84.1%
+40,Race for the Galaxy: Rebel vs Imperium,8,-1,7.9,9.0,5715,84.1%
+41,Kingsburg,8,354,7.2,8.0,18324,84.1%
+42,Hamsterrolle,8,1564,6.8,8.0,2047,84.1%
+43,The Great Dalmuti,8,1381,6.6,7.0,6862,84.1%
+44,Fluxx,8,8877,5.7,7.5,15803,84.1%
+45,Eminent Domain,8,556,7.0,8.0,9502,84.1%
+46,Dominion: Intrigue,7,84,7.7,8.0,30066,80.0%
+47,Coloretto,7,542,7.0,8.0,17960,80.0%
+48,Bohnanza,7,450,7.0,8.0,38186,80.0%
+49,Quantum,6,487,7.3,8.0,6523,74.8%
+50,Peloponnes,6,959,7.1,8.0,2739,74.8%
+51,Ingenious,6,426,7.1,8.0,15617,74.8%
+52,Chinatown,6,363,7.3,9.0,8442,74.8%
+53,Agricola,6,31,7.9,9.0,63367,74.8%
+54,Nightfall,5,1738,6.5,8.0,3806,68.3%
+55,Mow,5,3494,6.2,8.0,1372,68.3%
+56,Money!,5,1868,6.5,8.0,2716,68.3%
+57,Lancaster,5,345,7.4,9.0,6661,68.3%
+58,Kanban: Driver's Edition,5,176,7.8,9.0,5711,68.3%
+59,In the Shadow of the Emperor,5,1196,6.9,9.0,2864,68.3%
+60,Ginkgopolis,5,412,7.4,8.0,4963,68.3%
+61,Dune,5,307,7.6,10.0,5488,68.3%
+62,Deus,5,388,7.3,9.0,7272,68.3%
+63,Chopstick Dexterity MegaChallenge 3000,5,5235,6.2,7.0,486,68.3%
+64,Catan,5,395,7.2,7.0,101212,68.3%
+65,Bora Bora,5,205,7.6,8.0,9086,68.3%
+66,Alien Frontiers,5,232,7.4,8.0,14122,68.3%
+67,Yspahan,4,576,7.1,8.0,7744,60.1%
+68,Tchin Tchin,4,10837,6.0,7.0,173,60.1%
+69,Stone Age,4,111,7.6,7.0,44874,60.1%
+70,Shogun,4,192,7.5,8.0,12819,60.1%
+71,Santiago,4,700,7.1,8.0,4817,60.1%
+72,Blokus 3D,4,1183,6.8,7.0,3819,60.1%
+73,The Princes of Florence,4,182,7.5,7.0,14549,60.1%
+74,Panamax,4,622,7.3,9.0,3571,60.1%
+75,Nefertiti,4,1377,7.0,8.0,1895,60.1%
+76,Lord of the Rings: The Confrontation,4,362,7.5,8.0,5651,60.1%
+77,The Lord of the Rings,4,876,6.8,9.0,14258,60.1%
+78,Keltis,4,1690,6.4,8.0,5646,60.1%
+79,Glory to Rome,4,200,7.5,8.0,12957,60.1%
+80,Fauna,4,871,7.0,8.0,4009,60.1%
+81,Cloud 9,4,2160,6.5,8.0,2210,60.1%
+82,The Castles of Burgundy,4,15,8.1,9.0,46330,60.1%
+83,Bruges,4,260,7.4,8.0,10254,60.1%
+84,Brass: Lancashire,4,19,8.2,8.0,19333,60.1%
+85,Atlantic Star,4,1681,6.9,8.0,1743,60.1%
+86,12 Thieves,4,2694,6.4,7.0,1536,60.1%
+87,Yedo,3,631,7.4,8.0,3468,49.8%
+88,Vikings,3,432,7.3,9.0,7930,49.8%
+89,Twilight Imperium: Third Edition,3,80,7.8,8.0,18296,49.8%
+90,Take 5!,3,2317,6.5,8.0,1890,49.8%
+91,Star Realms,3,115,7.6,8.0,35855,49.8%
+92,Sleuth,3,1205,6.9,9.0,2734,49.8%
+93,Power Grid: The New Power Plant Cards,3,-1,7.8,9.5,3448,49.8%
+94,Power Grid: China/Korea,3,-1,8.0,9.5,2757,49.8%
+95,Patchistory,3,1163,7.1,7.0,2022,49.8%
+96,Myrmes,3,528,7.3,8.0,5054,49.8%
+97,Medici,3,537,7.1,9.0,7133,49.8%
+98,Manhattan,3,1152,6.7,8.0,4929,49.8%
+99,Mall of Horror,3,1653,6.6,8.0,2917,49.8%
+100,The Lord of the Rings: The Card Game,3,129,7.6,9.0,20755,49.8%
+101,Klondike,3,5546,6.3,7.0,379,49.8%
+102,K2,3,568,7.1,7.0,9050,49.8%
+103,Industrial Waste,3,2083,6.7,8.0,1493,49.8%
+104,Billy Biber,3,18397,5.3,8.0,131,49.8%
+105,Hab & Gut,3,1272,7.1,8.0,1873,49.8%
+106,Giants,3,1218,7.0,8.0,2422,49.8%
+107,Felicity: The Cat in the Sack,3,1428,6.6,8.0,4723,49.8%
+108,Dominion: Seaside,3,-1,8.0,9.0,14447,49.8%
+109,Dixit: Odyssey,3,212,7.5,8.0,16662,49.8%
+110,Dixit,3,278,7.3,8.0,50499,49.8%
+111,Discworld: Ankh-Morpork,3,466,7.2,8.0,9231,49.8%
+112,Confusion: Espionage and Deception in the Cold War,3,1586,7.1,8.0,1333,49.8%
+113,Concordia,3,18,8.1,9.0,27940,49.8%
+114,Cardline: Animals,3,2150,6.6,8.0,1818,49.8%
+115,Ca$h 'n Gun$,3,1154,6.6,8.0,9760,49.8%
+116,You're Bluffing!,3,1618,6.6,7.0,3677,49.8%
+117,The Bottle Imp,3,1350,6.7,8.0,3265,49.8%
+118,Acquire,3,276,7.3,8.0,18189,49.8%
+119,Zoowaboo,2,5046,6.4,7.0,414,36.9%
+120,War of the Ring,2,124,7.8,9.0,9923,36.9%
+121,Twilight Imperium: Third Edition – Shattered Empire,2,-1,8.6,9.0,4588,36.9%
+122,Torres,2,528,7.1,9.0,8723,36.9%
+123,Tikal,2,263,7.3,9.0,17891,36.9%
+124,Steam,2,186,7.6,8.0,9546,36.9%
+125,Space Dealer,2,2306,6.5,8.0,1637,36.9%
+126,Space Alert,2,219,7.4,8.0,14751,36.9%
+127,Senji,2,2510,6.5,8.0,1461,36.9%
+128,Samurai,2,209,7.5,7.0,14736,36.9%
+129,RoboRally,2,441,7.1,7.0,22444,36.9%
+130,Race the Wind,2,7647,6.3,8.0,190,36.9%
+131,Nexus Ops,2,454,7.2,8.0,8480,36.9%
+132,Neuroshima Hex! 3.0,2,281,7.4,8.0,13269,36.9%
+133,Munchkin,2,4419,5.9,6.0,41521,36.9%
+134,Mord im Arosa,2,2278,6.6,9.0,1619,36.9%
+135,Modern Art,2,221,7.4,8.0,16670,36.9%
+136,Master Thieves,2,3397,6.5,7.0,737,36.9%
+137,Magnum Sal,2,1704,7.0,8.0,1441,36.9%
+138,Mage Knight Board Game,2,26,8.1,8.0,27775,36.9%
+139,Luna,2,523,7.3,9.0,4475,36.9%
+140,In the Year of the Dragon,2,297,7.4,8.0,10759,36.9%
+141,Impulse,2,1543,6.9,8.0,1946,36.9%
+142,High Bohn Plus,2,-1,6.8,7.0,551,36.9%
+143,El Grande,2,78,7.8,7.0,23511,36.9%
+144,E.T.I.: Estimated Time to Invasion,2,13644,5.8,7.0,181,36.9%
+145,Container,2,702,7.2,8.0,4377,36.9%
+146,Chez Geek,2,7401,5.7,7.0,4377,36.9%
+147,Carson City,2,473,7.2,9.0,6733,36.9%
+148,Call of Cthulhu: The Card Game,2,1258,6.9,9.0,2932,36.9%
+149,Bruxelles 1893,2,299,7.7,8.0,4705,36.9%
+150,Airships,2,2230,6.4,8.0,2636,36.9%
+151,7 Wonders: Leaders,2,-1,7.8,8.0,13462,36.9%
+152,Witch of Salem,1,2050,6.6,8.0,1818,20.5%
+153,Wars of the Roses: Lancaster vs. York,1,1221,7.4,9.0,1447,20.5%
+154,Tower of Babel,1,1814,6.6,8.0,2268,20.5%
+155,Tichu,1,170,7.6,8.0,13267,20.5%
+156,Tammany Hall,1,743,7.3,7.0,3378,20.5%
+157,Taj Mahal,1,436,7.3,8.0,7085,20.5%
+158,What the Heck?,1,2260,6.5,7.0,1932,20.5%
+159,A Study in Emerald,1,827,7.2,9.0,3120,20.5%
+160,Space Hulk (Third Edition),1,315,7.5,8.0,6698,20.5%
+161,Skybridge,1,9044,5.9,8.0,286,20.5%
+162,Serengeti,1,3856,6.2,7.0,1123,20.5%
+163,The Scepter of Zavandor,1,1213,7.0,7.0,2482,20.5%
+164,Risk 2210 A.D.,1,1290,6.7,7.0,6692,20.5%
+165,Rialto,1,1037,6.9,8.0,3746,20.5%
+166,[redacted],1,4844,6.2,8.0,681,20.5%
+167,Railways of the World: The Card Game,1,2733,6.7,8.0,895,20.5%
+168,Quo Vadis?,1,2215,6.5,7.0,2141,20.5%
+169,Quarriors! Rise of the Demons,1,-1,6.8,6.0,1728,20.5%
+170,Princes of the Renaissance,1,874,7.4,7.0,2165,20.5%
+171,Power Struggle,1,1256,7.0,9.0,2213,20.5%
+172,Power Grid: Benelux/Central Europe,1,-1,8.0,8.5,3082,20.5%
+173,Portobello Market,1,2283,6.4,6.0,2443,20.5%
+174,Planet Steam,1,971,7.1,9.0,2740,20.5%
+175,Petits Meurtres & Faits Divers,1,3468,7.0,8.0,444,20.5%
+176,Nightfall: Martial Law,1,2238,7.0,8.0,873,20.5%
+177,Mykerinos,1,1073,6.9,8.0,3854,20.5%
+178,Maharaja: The Game of Palace Building in India,1,698,7.1,8.0,4871,20.5%
+179,Die Macher,1,286,7.6,9.0,5222,20.5%
+180,Lords of Waterdeep,1,71,7.8,8.0,45819,20.5%
+181,Ladybohn: Manche mögen's heiss!,1,4717,7.0,7.0,253,20.5%
+182,Kingsburg: To Forge a Realm,1,-1,7.9,9.0,4148,20.5%
+183,Innovation: Echoes of the Past,1,-1,7.6,8.0,1627,20.5%
+184,Inca Empire,1,1592,7.0,8.0,1416,20.5%
+185,Historia,1,1383,6.9,8.0,2244,20.5%
+186,High Society,1,566,7.1,8.0,8875,20.5%
+187,Hermagor,1,1585,6.9,7.0,1774,20.5%
+188,Le Havre,1,47,7.9,8.0,26395,20.5%
+189,Funny Friends,1,1976,6.5,8.0,2466,20.5%
+190,Full Metal Planète,1,2048,7.5,8.0,719,20.5%
+191,Florenza,1,1581,7.4,8.0,974,20.5%
+192,Egizia,1,404,7.4,8.0,5126,20.5%
+193,Edo,1,1416,7.1,8.0,1606,20.5%
+194,Dixit: Quest,1,-1,7.7,8.0,6616,20.5%
+195,Diamonds Club,1,1394,7.0,8.0,1720,20.5%
+196,Darjeeling,1,2553,6.6,8.0,1309,20.5%
+197,Comuni,1,2561,6.7,8.0,1036,20.5%
+198,Cockroach Poker,1,1027,6.7,7.0,8610,20.5%
+199,Century: Spice Road,1,250,7.4,7.0,18492,20.5%
+200,The Castle of the Devil,1,2346,6.4,7.0,2148,20.5%
+201,Captains of Industry,1,3034,7.1,8.0,514,20.5%
+202,Battlestar Galactica: The Board Game – Pegasus Expansion,1,-1,7.8,9.0,5552,20.5%
+203,Arkham Horror: The King in Yellow Expansion,1,-1,7.6,8.0,4105,20.5%
+204,Arkham Horror: Curse of the Dark Pharaoh Expansion,1,-1,7.3,8.0,3521,20.5%
+205,Android,1,1302,6.7,7.0,3723,20.5%
+206,Ad Astra,1,1238,6.9,8.0,2861,20.5%
+207,7 Ages,1,2075,7.1,8.0,1016,20.5%
+208,Zombie 15',0,1600,6.9,9.0,1989,0.0%
+209,Yokohama,0,104,7.9,9.0,8829,0.0%
+210,Yellow & Yangtze,0,947,7.9,-1.0,1251,0.0%
+211,Yangtze,0,6883,6.5,-1.0,182,0.0%
+212,Xia: Missions and Powers,0,-1,8.5,-1.0,626,0.0%
+213,Xia: Legends of a Drift System – Sellsword,0,-1,7.8,-1.0,473,0.0%
+214,Xia: Legends of a Drift System,0,145,7.9,8.0,7323,0.0%
+215,Xia: Embers of a Forsaken Star,0,-1,8.7,-1.0,1871,0.0%
+216,Wits & Wagers,0,622,6.9,-1.0,13343,0.0%
+217,The Witches: A Discworld Game,0,3667,6.1,-1.0,1739,0.0%
+218,Wingspan,0,20,8.1,8.0,42672,0.0%
+219,The Werewolves of Miller's Hollow,0,1010,6.7,-1.0,9865,0.0%
+220,Wasabi!,0,1532,6.5,7.0,4734,0.0%
+221,War of the Ring: Battles of the Third Age,0,-1,8.1,9.0,1434,0.0%
+222,War of Honor,0,6479,6.7,-1.0,191,0.0%
+223,The Voyages of Marco Polo,0,55,7.9,8.0,20157,0.0%
+224,Voodoo Prince,0,2865,7.0,8.0,571,0.0%
+225,Viticulture: Complete Collector's Edition,0,-1,8.4,-1.0,762,0.0%
+226,Vinhos Deluxe Edition,0,109,8.2,9.0,4225,0.0%
+227,Villa Paletti,0,1789,6.4,7.0,4030,0.0%
+228,Victorian Masterminds,0,2286,6.9,-1.0,996,0.0%
+229,Via Nebula,0,840,7.1,7.0,3829,0.0%
+230,Venture,0,3612,6.5,-1.0,704,0.0%
+231,Vasco da Gama,0,620,7.2,6.0,4282,0.0%
+232,Vanuatu,0,914,7.2,8.0,2545,0.0%
+233,Valley of the Kings,0,799,7.1,7.0,4235,0.0%
+234,Urbanization,0,5525,6.2,8.0,457,0.0%
+235,Unlock!: Secret Adventures,0,-1,7.7,-1.0,1664,0.0%
+236,Unlock!: Heroic Adventures,0,675,7.8,-1.0,1802,0.0%
+237,Unlock!: Exotic Adventures,0,-1,7.5,-1.0,1172,0.0%
+238,Unfair: Time Traveller,0,-1,8.0,-1.0,17,0.0%
+239,Unfair: Gen Con Promo Card,0,-1,7.2,-1.0,55,0.0%
+240,Unfair Expansion: Alien B-movie Dinosaur Western,0,-1,8.2,-1.0,271,0.0%
+241,Unfair,0,732,7.3,8.0,3600,0.0%
+242,Underwater Cities,0,45,8.1,8.0,9835,0.0%
+243,Twilight Struggle,0,10,8.3,7.0,40694,0.0%
+244,Twilight Imperium: Third Edition – Shards of the Throne,0,-1,8.7,-1.0,2365,0.0%
+245,Twilight Imperium: Fourth Edition,0,5,8.7,9.0,13361,0.0%
+246,Trickerion: Dawn of Technology,0,-1,8.5,-1.0,169,0.0%
+247,Trickerion: Collector's Edition,0,-1,8.9,-1.0,956,0.0%
+248,Trajan,0,95,7.8,8.0,14678,0.0%
+249,Tragedy Looper,0,707,7.2,-1.0,3965,0.0%
+250,Tortuga 1667,0,1361,7.0,-1.0,2416,0.0%
+251,Tomorrow,0,5248,6.4,8.0,456,0.0%
+252,TOKYO METRO,0,2703,7.4,-1.0,484,0.0%
+253,TOKYO JUTAKU,0,8538,6.2,-1.0,168,0.0%
+254,TOKYO JIDOHANBAIKI,0,11573,5.9,-1.0,150,0.0%
+255,Timeline: Star Wars,0,4909,6.2,8.0,619,0.0%
+256,Timeline: Inventions,0,1059,6.7,8.0,7245,0.0%
+257,Timeline: Events,0,1147,6.8,8.0,4202,0.0%
+258,Timeline: Discoveries,0,1341,6.7,8.0,3501,0.0%
+259,Ticket to Ride: Rails & Sails,0,750,7.4,7.0,2947,0.0%
+260,Thunder Alley: Expansion Tracks,0,-1,8.0,-1.0,160,0.0%
+261,Thunder Alley: Crew Chief Expansion,0,-1,8.0,-1.0,74,0.0%
+262,Three Kingdoms Redux,0,966,7.9,9.0,1186,0.0%
+263,Terror in Meeple City,0,857,6.9,9.0,7117,0.0%
+264,Terraforming Mars: Venus Next,0,-1,7.6,-1.0,5505,0.0%
+265,Terraforming Mars: Hellas & Elysium,0,-1,8.4,-1.0,7069,0.0%
+266,Terraforming Mars,0,4,8.4,9.0,64485,0.0%
+267,Teotihuacan: City of Gods,0,62,8.0,9.0,12877,0.0%
+268,Telestrations: 12 Player Party Pack,0,595,7.8,-1.0,2156,0.0%
+269,Techno Bowl: Arcade Football Unplugged,0,3086,8.6,-1.0,266,0.0%
+270,Tapestry,0,233,7.5,10.0,11480,0.0%
+271,Taluva Deluxe,0,2870,7.8,-1.0,338,0.0%
+272,Tales of the Northlands: The Sagas of Noggin the Nog,0,4145,7.6,-1.0,230,0.0%
+273,Super Motherload,0,607,7.4,7.0,3346,0.0%
+274,Suburbia: Collector's Edition,0,-1,8.2,9.0,1940,0.0%
+275,Strasbourg,0,962,7.2,8.0,2495,0.0%
+276,Star Wars: X-Wing Miniatures Game – Z-95 Headhunter Expansion Pack,0,-1,7.7,-1.0,638,0.0%
+277,Star Wars: X-Wing Miniatures Game – Y-Wing Expansion Pack,0,-1,7.8,9.0,1816,0.0%
+278,Star Wars: X-Wing Miniatures Game – X-Wing Expansion Pack,0,-1,7.9,9.0,1605,0.0%
+279,Star Wars: X-Wing Miniatures Game – VT-49 Decimator Expansion Pack,0,-1,8.0,-1.0,514,0.0%
+280,Star Wars: X-Wing Miniatures Game – Upsilon-class Shuttle Expansion Pack,0,-1,7.9,-1.0,147,0.0%
+281,Star Wars: X-Wing Miniatures Game – TIE/fo Fighter Expansion Pack,0,-1,7.7,-1.0,262,0.0%
+282,Star Wars: X-Wing Miniatures Game – TIE Striker Expansion Pack,0,-1,7.7,-1.0,191,0.0%
+283,Star Wars: X-Wing Miniatures Game – TIE Punisher Expansion Pack,0,-1,7.6,-1.0,359,0.0%
+284,Star Wars: X-Wing Miniatures Game – TIE Phantom Expansion Pack,0,-1,8.1,9.0,782,0.0%
+285,Star Wars: X-Wing Miniatures Game – TIE Interceptor Expansion Pack,0,-1,8.0,9.0,1483,0.0%
+286,Star Wars: X-Wing Miniatures Game – TIE Fighter Expansion Pack,0,-1,7.8,9.0,1468,0.0%
+287,Star Wars: X-Wing Miniatures Game – TIE Defender Expansion Pack,0,-1,7.8,-1.0,709,0.0%
+288,Star Wars: X-Wing Miniatures Game – TIE Bomber Expansion Pack,0,-1,7.7,9.0,1058,0.0%
+289,Star Wars: X-Wing Miniatures Game – TIE Advanced Expansion Pack,0,-1,7.8,9.0,1965,0.0%
+290,Star Wars: X-Wing Miniatures Game – Tantive IV Expansion Pack,0,-1,7.9,-1.0,455,0.0%
+291,Star Wars: X-Wing Miniatures Game – T-70 X-Wing Expansion Pack,0,-1,7.8,-1.0,262,0.0%
+292,Star Wars: X-Wing Miniatures Game – Special Forces TIE Expansion Pack,0,-1,7.8,-1.0,187,0.0%
+293,Star Wars: X-Wing Miniatures Game – Slave I Expansion Pack,0,-1,8.0,9.0,1661,0.0%
+294,Star Wars: X-Wing Miniatures Game – Rebel Transport Expansion Pack,0,-1,7.6,8.0,482,0.0%
+295,Star Wars: X-Wing Miniatures Game – Rebel Aces Expansion Pack,0,-1,8.0,-1.0,772,0.0%
+296,Star Wars: X-Wing Miniatures Game – Phantom II Expansion Pack,0,-1,7.6,-1.0,102,0.0%
+297,Star Wars: X-Wing Miniatures Game – Millennium Falcon Expansion Pack,0,-1,8.1,9.0,2060,0.0%
+298,Star Wars: X-Wing Miniatures Game – Lambda-class Shuttle Expansion Pack,0,-1,7.7,9.0,950,0.0%
+299,Star Wars: X-Wing Miniatures Game – K-wing Expansion Pack,0,-1,7.9,-1.0,388,0.0%
+300,Star Wars: X-Wing Miniatures Game – Inquisitor's TIE Expansion Pack,0,-1,7.8,-1.0,253,0.0%
+301,Star Wars: X-Wing Miniatures Game – Imperial Veterans Expansion Pack,0,-1,8.0,-1.0,268,0.0%
+302,Star Wars: X-Wing Miniatures Game – Imperial Raider Expansion Pack,0,-1,7.9,-1.0,268,0.0%
+303,Star Wars: X-Wing Miniatures Game – Imperial Aces Expansion Pack,0,-1,8.0,-1.0,1002,0.0%
+304,Star Wars: X-Wing Miniatures Game – HWK-290 Expansion Pack,0,-1,7.5,9.0,939,0.0%
+305,Star Wars: X-Wing Miniatures Game – Heroes of the Resistance Expansion Pack,0,-1,8.1,-1.0,244,0.0%
+306,Star Wars: X-Wing Miniatures Game – E-Wing Expansion Pack,0,-1,7.8,9.0,718,0.0%
+307,Star Wars: X-Wing Miniatures Game – C-ROC Cruiser Expansion Pack,0,-1,7.9,-1.0,87,0.0%
+308,Star Wars: X-Wing Miniatures Game – B-Wing Expansion Pack,0,-1,7.9,9.0,1245,0.0%
+309,Star Wars: X-Wing Miniatures Game – A-Wing Expansion Pack,0,-1,7.8,9.0,1510,0.0%
+310,Star Wars: X-Wing Miniatures Game,0,108,7.7,9.0,23036,0.0%
+311,Star Wars: Rebellion,0,9,8.4,10.0,22983,0.0%
+312,Star Wars: Outer Rim,0,262,7.7,6.0,5620,0.0%
+313,Star Wars: Imperial Assault,0,43,8.0,9.0,20456,0.0%
+314,Splendor,0,167,7.5,8.0,58499,0.0%
+315,Spirit Island: Jagged Earth,0,-1,9.4,-1.0,983,0.0%
+316,Spirit Island: Branch & Claw,0,-1,8.8,-1.0,2714,0.0%
+317,Spirit Island,0,13,8.3,9.0,25448,0.0%
+318,Spheres of Influence: Struggle for Global Supremacy,0,3146,7.9,-1.0,373,0.0%
+319,The Speicherstadt,0,788,7.0,8.0,4750,0.0%
+320,SpaceCorp,0,828,7.7,9.0,1692,0.0%
+321,Space Hulk,0,569,7.5,8.0,3636,0.0%
+322,Space Cadets: Dice Duel,0,1326,6.8,7.0,2910,0.0%
+323,Signorie,0,708,7.4,8.0,2625,0.0%
+324,Sidereal Confluence: Remastered Edition,0,508,7.8,8.0,2328,0.0%
+325,Show Manager,0,1475,7.0,-1.0,1693,0.0%
+326,Shogun: Tenno's Court,0,-1,7.2,8.0,364,0.0%
+327,Sherlock Holmes: West End Adventures,0,7171,7.6,-1.0,78,0.0%
+328,Sherlock Holmes Détective Conseil: Les Masques Africains,0,-1,8.4,-1.0,29,0.0%
+329,Sherlock Holmes Détective Conseil: La rançon du diable,0,-1,8.1,-1.0,45,0.0%
+330,Sherlock Holmes Détective Conseil: La Piste Tordue,0,-1,7.9,-1.0,38,0.0%
+331,Sherlock Holmes Détective Conseil: L'Homme Sans Visage,0,-1,8.3,-1.0,20,0.0%
+332,Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases,0,96,7.7,9.0,17180,0.0%
+333,Sherlock Holmes Consulting Detective: The Queen's Park Affair,0,-1,7.5,-1.0,202,0.0%
+334,Sherlock Holmes Consulting Detective: The Mansion Murders,0,-1,7.7,-1.0,299,0.0%
+335,Sherlock Holmes Consulting Detective: Sherlock Holmes & The Baby,0,-1,6.5,-1.0,15,0.0%
+336,Sherlock Holmes Consulting Detective: Adventures by Gaslight,0,-1,7.2,-1.0,91,0.0%
+337,Sheriff of Nottingham,0,368,7.1,6.0,29544,0.0%
+338,Shark,0,2460,6.6,7.0,1258,0.0%
+339,Shadowrun: Sprawl Ops,0,7337,6.6,7.0,208,0.0%
+340,Shadowrun: Crossfire – High Caliber Ops,0,-1,8.2,-1.0,523,0.0%
+341,Shadowrun: Crossfire,0,867,7.2,8.0,3372,0.0%
+342,Serenissima (Second Edition),0,2327,7.0,-1.0,899,0.0%
+343,Sentient,0,1063,7.2,7.0,2011,0.0%
+344,Secret Hitler,0,185,7.6,7.0,18104,0.0%
+345,Seasons,0,210,7.4,8.0,20745,0.0%
+346,Scythe: The Wind Gambit,0,-1,7.9,-1.0,4919,0.0%
+347,Scythe: The Rise of Fenris,0,-1,8.8,-1.0,4705,0.0%
+348,Scythe: Promo Pack #7 – Encounter Card 38,0,-1,8.2,-1.0,326,0.0%
+349,Scythe: Promo Pack #6 – Encounter Card 37,0,-1,8.1,-1.0,320,0.0%
+350,Scythe: Promo Pack #4 – Factory Cards 13-18,0,-1,8.2,-1.0,662,0.0%
+351,Scythe: Promo Pack #3 – Objective Cards 24-27,0,-1,8.2,-1.0,616,0.0%
+352,Scythe: Promo Pack #2 – Encounter Cards 33-36,0,-1,8.2,-1.0,682,0.0%
+353,Scythe: Promo Pack #13 – Encounter Card 41,0,-1,8.1,-1.0,305,0.0%
+354,Scythe: Promo Pack #11 – Encounter Card 39,0,-1,8.2,-1.0,287,0.0%
+355,Scythe: Promo Pack #1 – Encounter Cards 29-32,0,-1,8.2,-1.0,648,0.0%
+356,Scythe: Invaders from Afar,0,-1,8.4,-1.0,8024,0.0%
+357,Scythe: Encounters,0,-1,8.1,-1.0,1595,0.0%
+358,Scythe,0,14,8.2,9.0,57625,0.0%
+359,Scripts and Scribes: The Dice Game,0,4953,6.6,8.0,331,0.0%
+360,Scattergories,0,2336,6.2,8.0,8503,0.0%
+361,Salem 1692,0,1780,7.1,-1.0,1460,0.0%
+362,Russian Railroads: German Railroads,0,-1,8.3,-1.0,1701,0.0%
+363,Russian Railroads,0,90,7.8,9.0,14806,0.0%
+364,Royal Palace,0,1440,6.9,-1.0,2095,0.0%
+365,Round House: Expert Promo Cards,0,-1,6.6,-1.0,25,0.0%
+366,Round House: 1st Expansion – Additional Tiles,0,-1,6.3,-1.0,32,0.0%
+367,Round House,0,2325,7.2,9.0,734,0.0%
+368,Root: The Underworld Expansion,0,-1,8.8,-1.0,1289,0.0%
+369,Root: The Riverfolk Expansion,0,-1,8.5,-1.0,3620,0.0%
+370,Root: The Exiles and Partisans Deck,0,-1,8.7,-1.0,528,0.0%
+371,Root,0,28,8.1,8.0,24064,0.0%
+372,RONE (Second Edition),0,-1,7.5,-1.0,34,0.0%
+373,Romolo o Remo?,0,4935,6.7,-1.0,344,0.0%
+374,Roll for the Galaxy: Ambition,0,-1,8.1,-1.0,3144,0.0%
+375,Rockwell,0,2783,7.1,9.0,574,0.0%
+376,Robinson Crusoe: Adventures on the Cursed Island,0,54,7.8,8.0,34031,0.0%
+377,River Dragons,0,1872,6.5,7.0,3241,0.0%
+378,Res Arcana,0,121,7.8,8.0,9408,0.0%
+379,Reef,0,611,7.1,8.0,6776,0.0%
+380,Rebel Nox,0,8491,6.4,-1.0,134,0.0%
+381,Railroad Revolution,0,807,7.4,8.0,2406,0.0%
+382,Qwirkle Cubes,0,2646,6.6,8.0,1220,0.0%
+383,The Quest for El Dorado: Heroes & Hexes,0,-1,7.7,-1.0,704,0.0%
+384,The Quest for El Dorado,0,165,7.6,8.0,11988,0.0%
+385,Quarriors! Quest of the Qladiator,0,-1,7.3,-1.0,969,0.0%
+386,Quarriors! Quartifacts,0,-1,7.5,-1.0,924,0.0%
+387,Quarriors! Quarmageddon,0,-1,7.4,-1.0,2282,0.0%
+388,Quarriors! Light vs. Dark,0,3545,6.9,-1.0,474,0.0%
+389,Pyramid of Pengqueen,0,1593,6.9,8.0,1749,0.0%
+390,Pulsar 2849,0,213,7.7,9.0,6039,0.0%
+391,Puerto Rico (with two expansions),0,-1,8.5,8.0,4448,0.0%
+392,Prosperity,0,1962,6.7,-1.0,1677,0.0%
+393,Progress: Evolution of Technology,0,2246,6.5,-1.0,1791,0.0%
+394,Prêt-à-Porter,0,612,7.4,8.0,3334,0.0%
+395,Power Grid: The Stock Companies,0,-1,6.7,-1.0,347,0.0%
+396,Power Grid: The Card Game,0,1892,6.8,-1.0,1617,0.0%
+397,Power Grid: France/Italy,0,-1,7.9,9.0,3081,0.0%
+398,Ponzi Scheme,0,1019,7.2,8.0,2308,0.0%
+399,Pipeline,0,428,7.8,9.0,2967,0.0%
+400,Piece o' Cake,0,1855,6.6,7.0,2205,0.0%
+401,Pax Transhumanity,0,1926,7.7,-1.0,642,0.0%
+402,Paris Connection,0,1518,6.7,-1.0,2448,0.0%
+403,Pandemic: Reign of Cthulhu,0,374,7.4,7.0,7857,0.0%
+404,Orongo,0,4393,6.6,-1.0,375,0.0%
+405,Orléans: Deluxe Edition,0,-1,8.4,-1.0,1480,0.0%
+406,Orléans,0,25,8.1,8.0,22110,0.0%
+407,The Oracle of Delphi,0,570,7.3,-1.0,4195,0.0%
+408,Onward to Venus,0,1912,6.9,-1.0,1326,0.0%
+409,On Mars,0,69,8.3,9.0,5685,0.0%
+410,Nyet!,0,1494,6.8,-1.0,2248,0.0%
+411,Nottingham,0,3143,6.3,7.0,1472,0.0%
+412,Nippon,0,313,7.7,-1.0,4192,0.0%
+413,Ninjato,0,936,7.2,-1.0,2604,0.0%
+414,Nightfall: The Coldest War,0,3104,7.3,8.0,410,0.0%
+415,Nightfall: Blood Country,0,-1,7.4,8.0,405,0.0%
+416,Newton,0,349,7.6,6.0,4299,0.0%
+417,New Frontiers,0,683,7.6,8.0,2177,0.0%
+418,The New Era,0,1224,7.5,7.0,1261,0.0%
+419,New Angeles,0,1084,7.1,7.0,2504,0.0%
+420,Nefertiti Expansion,0,-1,7.0,7.0,149,0.0%
+421,Nefarious,0,2645,6.3,7.0,2426,0.0%
+422,Munchkin Dungeon,0,4758,7.0,-1.0,281,0.0%
+423,Monad,0,5401,6.3,-1.0,425,0.0%
+424,Mombasa,0,86,7.9,9.0,10927,0.0%
+425,Mississippi Queen,0,-1,6.8,7.0,229,0.0%
+426,Miskatonic University: The Restricted Collection,0,8805,6.1,-1.0,209,0.0%
+427,Mini Kubb,0,3733,7.3,8.0,291,0.0%
+428,Millennium Blades,0,352,7.7,8.0,3881,0.0%
+429,Mice and Mystics,0,325,7.3,8.0,16705,0.0%
+430,Mexica,0,584,7.2,8.0,5053,0.0%
+431,Merchant of Venus (Second Edition),0,776,7.2,-1.0,3588,0.0%
+432,Mega Civilization,0,1051,8.2,10.0,945,0.0%
+433,Medieval Academy,0,1018,7.0,7.0,3540,0.0%
+434,Mecanisburgo,0,5696,6.5,8.0,289,0.0%
+435,Mare Nostrum: Empires – Atlas Expansion,0,-1,7.7,-1.0,514,0.0%
+436,Mare Nostrum: Empires,0,491,7.6,7.0,3447,0.0%
+437,Manila,0,803,7.0,9.0,5483,0.0%
+438,The Manhattan Project,0,323,7.4,8.0,9100,0.0%
+439,Magnum Sal: Muria,0,-1,7.5,-1.0,206,0.0%
+440,The Magnates: A Game of Power,0,3490,6.8,-1.0,587,0.0%
+441,"Machi Koro: Bright Lights, Big City",0,1873,6.7,-1.0,2224,0.0%
+442,Lovecraft Letter,0,838,7.2,7.0,2958,0.0%
+443,Lotus,0,1560,6.7,-1.0,2560,0.0%
+444,Lost Cities: Rivals,0,2465,6.8,-1.0,995,0.0%
+445,Lorenzo il Magnifico: Houses of Renaissance,0,-1,8.3,-1.0,1038,0.0%
+446,Lorenzo il Magnifico,0,97,7.9,9.0,9055,0.0%
+447,Lords of Xidit,0,643,7.1,7.0,5245,0.0%
+448,Lisboa,0,68,8.2,9.0,6659,0.0%
+449,Legends of the Three Kingdoms,0,11120,5.9,-1.0,765,0.0%
+450,Legendary: A Marvel Deck Building Game – X-Men,0,-1,8.5,-1.0,1144,0.0%
+451,Legendary: A Marvel Deck Building Game – World War Hulk,0,-1,8.5,-1.0,514,0.0%
+452,"Legendary: A Marvel Deck Building Game – Secret Wars, Volume 2",0,-1,8.1,-1.0,1152,0.0%
+453,"Legendary: A Marvel Deck Building Game – Secret Wars, Volume 1",0,-1,8.1,9.0,1830,0.0%
+454,Legendary: A Marvel Deck Building Game – Paint the Town Red,0,-1,7.9,9.0,2947,0.0%
+455,Legendary: A Marvel Deck Building Game – Marvel Noir,0,-1,8.0,-1.0,762,0.0%
+456,Legendary: A Marvel Deck Building Game – Guardians of the Galaxy,0,-1,8.0,9.0,2903,0.0%
+457,Legendary: A Marvel Deck Building Game – Fantastic Four,0,-1,8.0,9.0,2792,0.0%
+458,Legendary: A Marvel Deck Building Game – Deadpool,0,-1,7.7,-1.0,925,0.0%
+459,Legendary: A Marvel Deck Building Game – Dark City,0,-1,8.3,9.0,4913,0.0%
+460,Legendary: A Marvel Deck Building Game – Civil War,0,-1,8.2,-1.0,1144,0.0%
+461,Legendary: A Marvel Deck Building Game – Champions,0,-1,8.0,-1.0,449,0.0%
+462,Legendary: A Marvel Deck Building Game – Captain America 75th Anniversary,0,-1,7.9,-1.0,1221,0.0%
+463,Legendary Encounters: A Firefly Deck Building Game,0,1314,7.2,9.0,1713,0.0%
+464,Leaving Earth: Stations,0,-1,8.5,-1.0,172,0.0%
+465,Leaving Earth: Outer Planets,0,-1,8.4,-1.0,329,0.0%
+466,Leaving Earth,0,543,7.8,9.0,2345,0.0%
+467,Kreta,0,1904,6.9,8.0,1323,0.0%
+468,Kremlin,0,1176,7.0,9.0,2790,0.0%
+469,Kohle & Kolonie,0,2385,7.5,9.0,530,0.0%
+470,Kingsport Festival,0,1773,6.7,-1.0,2106,0.0%
+471,Kill Shakespeare,0,14810,5.7,-1.0,112,0.0%
+472,Kemet: Ta-Seti,0,-1,8.0,-1.0,1191,0.0%
+473,Kemet,0,102,7.7,7.0,16243,0.0%
+474,"Keltis: Neue Wege, Neue Ziele",0,-1,7.1,8.0,787,0.0%
+475,Kamisado,0,1409,6.9,8.0,2115,0.0%
+476,K2: Broad Peak,0,-1,7.6,8.0,807,0.0%
+477,Junk Art,0,412,7.4,8.0,5426,0.0%
+478,Jungle Speed,0,1382,6.5,6.0,11283,0.0%
+479,Jump Drive,0,1001,7.0,7.0,3209,0.0%
+480,Istanbul: Big Box,0,-1,8.1,8.0,1400,0.0%
+481,Intrigue,0,2278,6.4,7.0,2570,0.0%
+482,Innovation: Figures in the Sand,0,-1,7.6,8.0,546,0.0%
+483,Innovation: Cities of Destiny,0,-1,7.7,-1.0,107,0.0%
+484,Innovation: Artifacts of History,0,-1,7.6,-1.0,76,0.0%
+485,Infamy,0,3886,6.8,-1.0,431,0.0%
+486,Impact City Roller Derby,0,13182,6.2,-1.0,58,0.0%
+487,Imaginarium,0,1606,7.2,-1.0,1310,0.0%
+488,IKI,0,1468,7.6,-1.0,967,0.0%
+489,Hunt for the Ring,0,1794,7.2,-1.0,1155,0.0%
+490,Hit Z Road,0,1348,6.8,-1.0,3407,0.0%
+491,Heroes Wanted,0,2140,6.8,-1.0,1505,0.0%
+492,Hellas,0,4653,6.7,-1.0,317,0.0%
+493,Heaven & Ale,0,264,7.6,8.0,6394,0.0%
+494,Havana,0,1234,6.9,8.0,2969,0.0%
+495,Harbour,0,1533,6.5,-1.0,4562,0.0%
+496,Happy Salmon,0,1227,6.8,-1.0,4035,0.0%
+497,Greed,0,1787,6.7,-1.0,2121,0.0%
+498,Great Western Trail,0,11,8.3,9.0,29290,0.0%
+499,Grave Robbers From Outer Space,0,7692,5.8,-1.0,966,0.0%
+500,La Granja,0,168,7.7,9.0,8724,0.0%
+501,The Grand Trunk Journey,0,4308,7.8,-1.0,184,0.0%
+502,Grand Prix,0,3537,7.2,-1.0,362,0.0%
+503,The Golden Ages,0,988,7.3,9.0,2127,0.0%
+504,The Godfather: Corleone's Empire,0,331,7.6,9.0,5698,0.0%
+505,Gloomhaven: Forgotten Circles,0,-1,8.0,-1.0,1172,0.0%
+506,Gloomhaven,0,1,8.8,8.0,41815,0.0%
+507,Gentes: Deluxified Edition,0,-1,7.8,-1.0,1288,0.0%
+508,Garçon,0,19317,4.9,7.0,88,0.0%
+509,Game of Thrones: Westeros Intrigue,0,20024,5.3,-1.0,1132,0.0%
+510,A Game of Thrones: The Board Game (Second Edition) – Mother of Dragons,0,-1,8.5,-1.0,1083,0.0%
+511,A Game of Thrones: The Board Game (Second Edition) – A Feast for Crows,0,-1,7.9,9.0,1414,0.0%
+512,A Game of Thrones: The Board Game (Second Edition) – A Dance with Dragons,0,-1,7.9,8.0,1075,0.0%
+513,A Game of Thrones: The Board Game (Second Edition),0,132,7.6,9.0,28575,0.0%
+514,A Game of Thrones: Hand of the King,0,1458,6.7,-1.0,3371,0.0%
+515,The Gallerist,0,57,8.0,9.0,9649,0.0%
+516,Galaxy Trucker: The Big Expansion,0,-1,8.0,9.0,3114,0.0%
+517,Fuji Flush,0,1887,6.6,-1.0,2348,0.0%
+518,Forged in Steel,0,3688,7.3,-1.0,295,0.0%
+519,Flip City: Wilderness,0,7742,6.3,-1.0,226,0.0%
+520,Flash Point: Fire Rescue,0,344,7.2,9.0,20894,0.0%
+521,Five Tribes: The Artisans of Naqala,0,-1,8.1,-1.0,3181,0.0%
+522,Five Tribes,0,65,7.8,8.0,32178,0.0%
+523,FITS,0,1646,6.6,8.0,3085,0.0%
+524,Firenze,0,833,7.2,9.0,2740,0.0%
+525,Fief: France 1429,0,974,7.4,8.0,1983,0.0%
+526,Feudum: Windmills & Catapults,0,-1,7.5,-1.0,138,0.0%
+527,Feudum: The Queen's Army,0,-1,7.8,-1.0,159,0.0%
+528,Feudum: Squirrels & Conifers,0,-1,7.4,-1.0,134,0.0%
+529,Feudum: Seals & Sirens,0,-1,7.4,-1.0,118,0.0%
+530,Feudum: Rudders & Ramparts,0,-1,8.7,-1.0,64,0.0%
+531,Feudum: Kickstarter Promotional Cards,0,-1,7.8,-1.0,97,0.0%
+532,Feudum: Big Box,0,-1,8.3,-1.0,69,0.0%
+533,Feudum: Alter Ego,0,-1,7.6,-1.0,110,0.0%
+534,Feudum,0,602,7.7,9.0,2701,0.0%
+535,Fabled Fruit: The Lime Expansion,0,-1,7.5,-1.0,150,0.0%
+536,Fabled Fruit,0,770,7.0,7.0,5045,0.0%
+537,Extra! Extra!,0,5554,6.7,-1.0,240,0.0%
+538,Exit: The Game – The Secret Lab,0,628,7.1,-1.0,5553,0.0%
+539,Exit: The Game – The Polar Station,0,1125,7.0,-1.0,2830,0.0%
+540,Exit: The Game – The Abandoned Cabin,0,225,7.5,-1.0,8760,0.0%
+541,Euphoria: Build a Better Dystopia,0,405,7.3,7.0,9334,0.0%
+542,Ethnos,0,248,7.5,8.0,9707,0.0%
+543,Escape Plan,0,445,7.6,10.0,3492,0.0%
+544,Epic Card Game,0,1909,6.5,-1.0,4292,0.0%
+545,Endeavor: Age of Sail,0,113,8.0,8.0,6220,0.0%
+546,The Dwarf King,0,2276,6.6,8.0,1712,0.0%
+547,Dungeon Petz,0,208,7.5,7.0,12668,0.0%
+548,Dungeon Lords,0,257,7.4,8.0,12855,0.0%
+549,Dune: The Dice Game,0,4879,6.8,-1.0,276,0.0%
+550,Dune,0,284,8.2,10.0,3133,0.0%
+551,Duelosaur Island,0,939,7.2,7.0,2569,0.0%
+552,Drop It,0,1428,6.9,-1.0,1989,0.0%
+553,Dream Factory,0,745,7.1,7.0,5070,0.0%
+554,Dominion: Prosperity,0,-1,8.3,9.0,13433,0.0%
+555,"Dixit: Odyssey – ""Bunny"" Promo Card",0,-1,7.3,8.0,367,0.0%
+556,Discoveries: The Journals of Lewis and Clark,0,762,7.1,6.0,4421,0.0%
+557,Dinosaur Island: Totally Liquid,0,-1,8.1,-1.0,1594,0.0%
+558,Dinosaur Island,0,134,7.7,8.0,11483,0.0%
+559,Deus: Egypt,0,-1,7.6,-1.0,440,0.0%
+560,Deep Sea Adventure,0,619,7.0,9.0,10690,0.0%
+561,Deadwood 1876,0,2843,6.7,-1.0,1024,0.0%
+562,D-Day Dice: Atlantikwall,0,-1,7.1,-1.0,239,0.0%
+563,D-Day Dice,0,1184,6.8,-1.0,3425,0.0%
+564,Cyclades: Monuments,0,-1,7.6,-1.0,464,0.0%
+565,Cyclades: Hades,0,-1,8.0,8.0,2240,0.0%
+566,Cyclades,0,183,7.5,8.0,17824,0.0%
+567,Cuzco,0,2471,7.6,-1.0,545,0.0%
+568,Crystal Palace,0,757,7.7,9.0,1907,0.0%
+569,Cry Havoc,0,564,7.2,8.0,5885,0.0%
+570,Crokinole,0,66,7.9,7.0,12136,0.0%
+571,Crisis,0,1011,7.6,-1.0,1517,0.0%
+572,Core Worlds: Revolution,0,-1,7.6,-1.0,343,0.0%
+573,Core Worlds: Galactic Orders,0,-1,7.9,9.0,1056,0.0%
+574,Container: The Second Shipment,0,-1,7.3,8.0,298,0.0%
+575,Concordia: Venus (Expansion),0,-1,8.4,-1.0,383,0.0%
+576,Concordia: Salsa,0,-1,8.3,-1.0,2986,0.0%
+577,Concordia: Britannia / Germania,0,-1,8.1,9.0,1416,0.0%
+578,Concordia: Aegyptus / Creta,0,-1,8.3,-1.0,722,0.0%
+579,Compounded,0,1520,6.8,-1.0,2553,0.0%
+580,Colosseum,0,451,7.2,8.0,8436,0.0%
+581,Colony,0,2100,6.6,-1.0,1743,0.0%
+582,The Colonists,0,425,7.7,9.0,3396,0.0%
+583,Colonial: Europe's Empires Overseas,0,2173,7.1,-1.0,903,0.0%
+584,Coimbra,0,169,7.7,9.0,8444,0.0%
+585,Codenames: Pictures,0,319,7.3,9.0,16964,0.0%
+586,Codenames,0,93,7.6,8.0,67424,0.0%
+587,Code 777,0,1758,6.7,7.0,1943,0.0%
+588,Clue,0,8703,5.7,5.0,17489,0.0%
+589,Clans of Caledonia,0,44,8.0,8.0,14756,0.0%
+590,Chicago Express,0,453,7.2,8.0,7392,0.0%
+591,Château Roquefort,0,1455,6.9,7.0,2251,0.0%
+592,Charterstone: Recharge Pack,0,-1,7.8,-1.0,322,0.0%
+593,Charterstone,0,306,7.4,-1.0,11703,0.0%
+594,Champions of Midgard: Valhalla,0,-1,8.4,-1.0,2718,0.0%
+595,Champions of Midgard: The Dark Mountains,0,-1,7.9,-1.0,2244,0.0%
+596,Champions of Midgard: SeeZam Promo Card,0,-1,7.7,-1.0,206,0.0%
+597,Champions of Midgard,0,101,7.8,7.0,13298,0.0%
+598,Cathedral,0,1859,6.5,-1.0,3223,0.0%
+599,Catacombs,0,998,7.1,8.0,2889,0.0%
+600,Castles of Mad King Ludwig: Secrets,0,-1,7.3,-1.0,1759,0.0%
+601,Castles of Mad King Ludwig,0,133,7.6,8.0,22082,0.0%
+602,Carson City: Gold & Guns,0,-1,7.7,-1.0,302,0.0%
+603,Carpe Diem,0,357,7.6,7.0,4642,0.0%
+604,Carnival Zombie,0,2318,7.1,8.0,762,0.0%
+605,Cardline: Globetrotter,0,4017,6.4,8.0,669,0.0%
+606,El Capitán,0,1786,6.8,8.0,1748,0.0%
+607,Capital Lux,0,1356,7.1,-1.0,1810,0.0%
+608,Bushido: Tanin the Stranger,0,-1,7.2,-1.0,45,0.0%
+609,Bushido: Der Weg des Kriegers,0,7662,6.2,8.0,262,0.0%
+610,Bunny Kingdom: In the Sky,0,-1,7.7,-1.0,586,0.0%
+611,Bunny Kingdom,0,310,7.5,9.0,7586,0.0%
+612,Brass: Birmingham,0,3,8.7,10.0,18969,0.0%
+613,Blackout: Hong Kong,0,483,7.5,9.0,3697,0.0%
+614,Blackbeard: The Golden Age of Piracy,0,4212,6.1,-1.0,1139,0.0%
+615,Black Fleet,0,814,7.0,8.0,4921,0.0%
+616,Bios:Origins (Second Edition),0,1864,8.1,-1.0,547,0.0%
+617,Biblios,0,366,7.2,7.0,14969,0.0%
+618,Between Two Castles of Mad King Ludwig,0,581,7.3,7.0,3918,0.0%
+619,BattleTech,0,1032,7.1,7.0,3368,0.0%
+620,Barony,0,1155,7.1,8.0,2336,0.0%
+621,Bärenpark,0,291,7.4,6.0,11956,0.0%
+622,Babel,0,1385,6.7,9.0,3814,0.0%
+623,Azul,0,50,7.8,7.0,53207,0.0%
+624,Arkwright,0,551,7.9,8.0,1991,0.0%
+625,Arkham Horror: The Card Game – The Path to Carcosa: Expansion,0,-1,8.7,-1.0,1217,0.0%
+626,Arkham Horror: The Card Game – The Miskatonic Museum: Mythos Pack,0,-1,8.1,-1.0,1373,0.0%
+627,Arkham Horror: The Card Game,0,22,8.2,8.0,28406,0.0%
+628,Argent: The Consortium,0,433,7.7,9.0,3157,0.0%
+629,Argent: Summer Break,0,-1,7.6,-1.0,216,0.0%
+630,Argent: Mancers of the University,0,-1,8.1,-1.0,452,0.0%
+631,Arctic Scavengers,0,1273,6.8,7.0,2947,0.0%
+632,AquaSphere,0,470,7.3,8.0,6463,0.0%
+633,Android: Netrunner – What Lies Ahead,0,-1,8.1,9.0,1051,0.0%
+634,Android: Netrunner – Trace Amount,0,-1,8.1,9.0,887,0.0%
+635,Android: Netrunner – Second Thoughts,0,-1,8.1,9.0,458,0.0%
+636,Android: Netrunner – Opening Moves,0,-1,8.2,9.0,541,0.0%
+637,Android: Netrunner – Mala Tempora,0,-1,8.2,9.0,418,0.0%
+638,Android: Netrunner – Humanity's Shadow,0,-1,8.1,9.0,701,0.0%
+639,Android: Netrunner – Future Proof,0,-1,8.2,9.0,692,0.0%
+640,Android: Netrunner – Cyber Exodus,0,-1,8.2,9.0,853,0.0%
+641,Android: Netrunner – Creation and Control,0,-1,8.2,9.0,1018,0.0%
+642,Android: Netrunner – A Study in Static,0,-1,8.1,9.0,744,0.0%
+643,Android: Netrunner,0,53,7.9,10.0,26700,0.0%
+644,Anachrony: Exosuit Commander Pack,0,-1,8.5,8.0,1302,0.0%
+645,Anachrony,0,46,8.1,8.0,11501,0.0%
+646,Airlines Europe,0,419,7.3,7.0,6809,0.0%
+647,Agra,0,991,7.3,9.0,1969,0.0%
+648,Aeroplanes: Aviation Ascendant,0,3244,6.6,-1.0,743,0.0%
+649,Abyss,0,341,7.3,8.0,10096,0.0%
+650,6 nimmt!,0,597,6.9,6.0,20527,0.0%
+651,5-Minute Marvel,0,1629,6.9,-1.0,1762,0.0%
+652,20th Century,0,1678,6.9,7.0,1699,0.0%

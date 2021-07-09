@@ -34,7 +34,7 @@ folder= './DATA'
 
 @st.cache
 def load_data(nrows):
-    data = pd.read_csv(folder+'/cb_recommendations20000.csv', nrows=nrows)
+    data = pd.read_csv(folder+'/cb_recommendations.csv', nrows=nrows)
     lowercase = lambda x: str(x).lower()
     data.rename(lowercase, axis='columns', inplace=True)
     return data

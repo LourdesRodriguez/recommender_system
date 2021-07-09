@@ -1,0 +1,573 @@
+,Game,Plays,BGG Rank,BGG Rating,Your Rating,Users Rating,Utilisation
+0,Take Stock,67,7734,5.9,-1.0,529,99.9%
+1,Go,49,171,7.6,10.0,14810,99.9%
+2,Fairy Tale,30,970,6.7,8.5,8457,99.9%
+3,Dominion,24,98,7.6,9.0,77920,99.6%
+4,Blokus Duo,24,1008,6.8,9.2,5093,99.6%
+5,No Thanks!,19,449,7.1,9.0,20289,98.7%
+6,Pick & Pack,16,3665,6.5,-1.0,693,97.4%
+7,Gheos,15,2318,6.5,8.5,1707,96.8%
+8,Pente,14,1774,6.6,8.5,2739,96.0%
+9,Mentalis,14,10868,7.7,10.0,32,96.0%
+10,DVONN,14,472,7.4,9.0,4440,96.0%
+11,Coda,13,3609,6.1,7.5,1810,94.9%
+12,Tichu,12,170,7.6,10.0,13267,93.6%
+13,Ingenious,12,426,7.1,9.0,15617,93.6%
+14,Cathedral,12,1859,6.5,8.5,3223,93.6%
+15,Blokus 3D,12,1183,6.8,8.0,3819,93.6%
+16,Bananagrams,12,1762,6.4,9.0,8614,93.6%
+17,Escalation!,10,7940,5.7,7.0,893,90.0%
+18,Pass the Pigs,9,20117,5.4,7.0,5293,87.4%
+19,"Hey, That's My Fish!",9,855,6.7,8.0,19341,87.4%
+20,Ticket to Ride,8,174,7.4,9.0,71408,84.1%
+21,Saboteur,8,1075,6.6,8.5,25602,84.1%
+22,Reiner Knizia's Amazing Flea Circus,8,7802,5.8,7.4,588,84.1%
+23,Racetrack,8,8077,6.4,7.5,159,84.1%
+24,Pickomino,8,1252,6.6,7.5,8983,84.1%
+25,Mr. Jack,8,530,7.0,7.5,15314,84.1%
+26,Harry Potter Trading Card Game,8,4489,6.2,7.0,1017,84.1%
+27,For Sale,8,301,7.2,9.5,23815,84.1%
+28,Cloud 9,8,2160,6.5,8.0,2210,84.1%
+29,Chess,8,439,7.1,6.0,28655,84.1%
+30,Bohnanza,8,450,7.0,8.5,38186,84.1%
+31,Agricola,8,31,7.9,9.0,63367,84.1%
+32,Xe Queo!,7,5222,6.5,9.5,332,80.0%
+33,Wits & Wagers,7,622,6.9,8.5,13343,80.0%
+34,Um Reifenbreite,7,1521,6.8,9.5,2190,80.0%
+35,TransAmerica,7,1104,6.7,7.5,7688,80.0%
+36,Scene It?: The DVD Movie Game,7,18681,5.5,6.5,1441,80.0%
+37,Reef Encounter,7,650,7.1,9.5,4966,80.0%
+38,Mystery of the Abbey,7,1339,6.5,8.2,7675,80.0%
+39,Manila,7,803,7.0,9.0,5483,80.0%
+40,Magic: The Gathering,7,158,7.5,-1.0,32365,80.0%
+41,Cranium Zigity,7,19942,5.3,6.0,909,80.0%
+42,China,7,860,7.0,9.0,4330,80.0%
+43,Blokus,7,646,6.9,9.0,22840,80.0%
+44,Wasabi!,6,1532,6.5,9.0,4734,74.8%
+45,Time's Up! Deluxe,6,1502,7.5,-1.0,960,74.8%
+46,Saint Petersburg,6,303,7.3,9.0,14518,74.8%
+47,Qwirkle,6,796,6.8,9.5,16075,74.8%
+48,Quarriors!,6,886,6.8,-1.0,13141,74.8%
+49,Power Grid,6,39,7.9,9.0,56129,74.8%
+50,Pandemic,6,99,7.6,9.0,101865,74.8%
+51,The Lord of the Rings,6,876,6.8,8.5,14258,74.8%
+52,Caylus,6,75,7.8,10.0,26766,74.8%
+53,BANG!,6,1270,6.5,9.0,26411,74.8%
+54,ZÈRTZ,5,653,7.3,8.0,3909,68.3%
+55,Trias,5,2300,6.4,8.0,1998,68.3%
+56,Smart Mouth,5,14985,5.6,6.5,164,68.3%
+57,Silk Road,5,7365,5.9,8.5,478,68.3%
+58,Sherlock,5,4766,6.3,7.5,577,68.3%
+59,Quietville,5,4171,6.2,9.5,934,68.3%
+60,Magic Realm,5,1247,7.2,9.0,1976,68.3%
+61,Lord of the Rings: The Confrontation,5,533,7.2,7.0,6534,68.3%
+62,Loot,5,1982,6.3,7.5,5922,68.3%
+63,Lifeboats,5,1609,6.6,8.0,3425,68.3%
+64,Jambo,5,642,7.0,8.5,7958,68.3%
+65,Ave Caesar,5,1379,6.6,8.0,4372,68.3%
+66,Alhambra,5,468,7.0,8.0,28607,68.3%
+67,Tutankhamen,4,3982,6.1,6.2,1281,60.1%
+68,Through the Desert,4,499,7.1,8.0,12705,60.1%
+69,Stay Alive,4,20149,5.0,5.5,809,60.1%
+70,Sorry!,4,20272,4.5,5.0,5834,60.1%
+71,Sequence,4,3221,6.0,7.5,7464,60.1%
+72,Scene It? Harry Potter,4,19617,5.3,6.0,273,60.1%
+73,Santiago,4,700,7.1,9.5,4817,60.1%
+74,Railways of the World,4,128,7.7,9.5,11028,60.1%
+75,Race for the Galaxy,4,59,7.8,8.0,46293,60.1%
+76,Netrunner,4,820,7.4,9.0,2324,60.1%
+77,Khronos,4,2711,6.4,8.5,1768,60.1%
+78,Kalah,4,3728,5.9,-1.0,5918,60.1%
+79,Hive,4,246,7.3,-1.0,29494,60.1%
+80,Hit the Deck,4,20130,4.4,5.0,247,60.1%
+81,The End of the Triumvirate,4,1812,6.8,9.0,1590,60.1%
+82,Diamant,4,718,6.8,9.0,17037,60.1%
+83,Cinq-O,4,13220,5.7,7.0,278,60.1%
+84,The Bottle Imp,4,1350,6.7,-1.0,3265,60.1%
+85,Battleship,4,20265,4.6,5.0,8540,60.1%
+86,Zip-It,3,10038,6.2,-1.0,126,49.8%
+87,YINSH,3,189,7.7,8.5,7320,49.8%
+88,VisualEyes,3,14201,5.6,7.0,321,49.8%
+89,Tumblo!,3,-1,6.0,7.5,7,49.8%
+90,Tower of Babel,3,1814,6.6,-1.0,2268,49.8%
+91,Tigris & Euphrates,3,92,7.7,9.0,25297,49.8%
+92,Stratego,3,2593,6.1,6.0,13793,49.8%
+93,Space Hulk: Death Angel – The Card Game,3,614,7.0,8.0,12204,49.8%
+94,Snorta!,3,4047,6.1,5.5,1445,49.8%
+95,Small World,3,255,7.3,8.5,61593,49.8%
+96,Shogun,3,192,7.5,10.0,12819,49.8%
+97,Shazamm!,3,5065,6.2,6.0,595,49.8%
+98,Shark,3,2460,6.6,9.5,1258,49.8%
+99,Shadows over Camelot,3,406,7.1,8.5,25418,49.8%
+100,Seismic,3,10759,5.8,9.0,267,49.8%
+101,San Juan,3,293,7.3,9.0,22214,49.8%
+102,Relikt,3,6845,6.0,7.5,443,49.8%
+103,Ra,3,177,7.5,7.0,19077,49.8%
+104,R-Eco,3,1876,6.6,8.0,2116,49.8%
+105,Queen's Necklace,3,2265,6.4,8.0,2395,49.8%
+106,Puerto Rico,3,28,8.0,9.0,63032,49.8%
+107,Polarity,3,2766,6.4,-1.0,1718,49.8%
+108,Pieces of Eight,3,14004,5.8,6.5,137,49.8%
+109,Pico 2,3,9183,5.9,7.0,268,49.8%
+110,Owner's Choice,3,5162,6.2,8.5,597,49.8%
+111,Nobody but Us Chickens,3,5421,6.1,8.0,564,49.8%
+112,Loopin' Louie,3,922,6.8,7.5,8390,49.8%
+113,Heroscape Master Set: Rise of the Valkyrie,3,351,7.4,7.0,7795,49.8%
+114,Hera and Zeus,3,1840,6.5,8.0,3277,49.8%
+115,Frank's Zoo,3,1561,6.6,8.0,3391,49.8%
+116,Formidable Foes,3,15811,5.6,-1.0,449,49.8%
+117,Experiment,3,8434,6.1,8.5,258,49.8%
+118,Duel in the Dark,3,2363,6.6,9.0,1409,49.8%
+119,Dracula,3,3198,6.2,8.0,1667,49.8%
+120,Cribbage,3,615,7.1,8.0,8282,49.8%
+121,Court of the Medici,3,3016,6.6,-1.0,875,49.8%
+122,Connect Four,3,20254,4.9,-1.0,6894,49.8%
+123,Coloretto,3,542,7.0,9.0,17960,49.8%
+124,Catan,3,395,7.2,8.5,101212,49.8%
+125,Cartagena,3,1078,6.7,6.0,7477,49.8%
+126,El Capitán,3,1786,6.8,8.0,1748,49.8%
+127,Bootleggers,3,1502,6.7,10.0,3148,49.8%
+128,Balloon Cup,3,1143,6.7,8.0,5751,49.8%
+129,6 nimmt!,3,597,6.9,7.0,20527,49.8%
+130,Yahtzee: Texas Hold'em,2,19741,5.1,7.5,266,36.9%
+131,Wildlife Safari,2,1603,6.6,9.0,2802,36.9%
+132,What's in Ned's Head?,2,18219,5.1,5.0,56,36.9%
+133,Voltage,2,6664,6.1,6.5,359,36.9%
+134,Villa Paletti,2,1789,6.4,7.5,4030,36.9%
+135,UNO: Shrek 2,2,-1,5.4,7.0,17,36.9%
+136,Unexploded Cow,2,3938,6.1,7.5,1718,36.9%
+137,Uglydoll Card Game,2,10209,5.9,3.0,251,36.9%
+138,Ubongo,2,1052,6.7,8.0,7781,36.9%
+139,Tulipmania 1637,2,4777,6.2,-1.0,705,36.9%
+140,Trap the Cap,2,20064,4.8,4.5,314,36.9%
+141,Through the Ages: A Story of Civilization,2,49,7.9,9.2,17986,36.9%
+142,Thebes,2,500,7.1,9.0,9162,36.9%
+143,Telestrations,2,258,7.4,-1.0,12793,36.9%
+144,Tales of the Arabian Nights,2,435,7.2,8.5,11564,36.9%
+145,SuDoku: The Card Game,2,18644,5.3,6.0,128,36.9%
+146,Spy,2,16417,5.5,7.0,530,36.9%
+147,Speed,2,16980,5.5,6.0,79,36.9%
+148,Space Dealer,2,2306,6.5,7.0,1637,36.9%
+149,The Sorcerer's Cave,2,5501,6.5,8.0,372,36.9%
+150,SET,2,1438,6.5,-1.0,10813,36.9%
+151,Scrabble,2,1807,6.3,-1.0,26658,36.9%
+152,The Resistance,2,267,7.3,-1.0,35861,36.9%
+153,The Red Dragon Inn,2,1460,6.6,6.8,7090,36.9%
+154,Rat-a-Tat Cat,2,2827,6.2,7.5,2857,36.9%
+155,Primordial Soup,2,913,6.9,9.0,4539,36.9%
+156,Pocket Battles: Celts vs. Romans,2,3082,6.4,-1.0,1237,36.9%
+157,Pit,2,1665,6.4,8.0,8269,36.9%
+158,Pass the Bomb,2,5823,5.8,6.5,1286,36.9%
+159,Palazzo,2,1922,6.5,8.0,2402,36.9%
+160,Othello,2,2754,6.1,5.0,7021,36.9%
+161,Neuroshima Hex! 3.0,2,281,7.4,-1.0,13269,36.9%
+162,Nature Fluxx,2,6677,5.9,5.8,1102,36.9%
+163,Mystery Rummy: Murders in the Rue Morgue,2,2837,6.7,7.5,805,36.9%
+164,Mykerinos,2,1073,6.9,9.0,3854,36.9%
+165,My Word!,2,10556,5.7,6.0,433,36.9%
+166,Mouse Trap,2,20274,4.1,3.5,2684,36.9%
+167,Leonardo da Vinci,2,1330,6.8,8.0,3367,36.9%
+168,Killer Bunnies and the Quest for the Magic Carrot,2,20089,5.5,7.0,5519,36.9%
+169,Ker Plunk,2,20231,4.7,5.0,1354,36.9%
+170,Hermagor,2,1585,6.9,8.0,1774,36.9%
+171,Gumball Rally,2,14772,5.7,6.0,220,36.9%
+172,El Grande,2,78,7.8,9.0,23511,36.9%
+173,Get Bit!,2,2435,6.2,6.0,6007,36.9%
+174,The Game of Life,2,20279,4.3,4.0,10625,36.9%
+175,Forbidden Island,2,721,6.8,-1.0,41883,36.9%
+176,Family Fluxx,2,9887,5.7,-1.0,727,36.9%
+177,Enchanted Forest,2,6761,5.7,7.0,2490,36.9%
+178,Dungeon Lords,2,257,7.4,9.45,12855,36.9%
+179,Cosmic Cows,2,7431,5.9,6.0,622,36.9%
+180,Contraband,2,10969,5.9,8.5,238,36.9%
+181,Chrononauts,2,2483,6.2,7.5,5287,36.9%
+182,Catan Card Game,2,960,6.7,8.5,13003,36.9%
+183,Boomtown,2,1896,6.5,7.0,2587,36.9%
+184,Blink,2,4707,5.9,7.5,1850,36.9%
+185,The Big Idea,2,4032,6.3,9.0,824,36.9%
+186,Attribute,2,3250,6.4,-1.0,1077,36.9%
+187,Arkadia,2,995,6.9,9.0,4089,36.9%
+188,Apples to Apples,2,4760,5.8,8.0,17556,36.9%
+189,Alaska,2,9727,5.8,7.0,374,36.9%
+190,4000 A.D.,2,18741,5.4,6.0,382,36.9%
+191,1960: The Making of the President,2,204,7.6,9.0,8511,36.9%
+192,13 Dead End Drive,2,4661,6.0,4.0,1942,36.9%
+193,Zooloretto,1,755,6.8,8.0,13881,20.5%
+194,Zeus on the Loose,1,5035,6.1,7.0,951,20.5%
+195,Wyatt Earp,1,1116,6.8,8.0,3886,20.5%
+196,Word Pirates!,1,18255,5.1,-1.0,50,20.5%
+197,Waterworks,1,18105,5.5,6.0,1900,20.5%
+198,Upwords,1,6345,5.7,6.0,2856,20.5%
+199,Up To My @*! In Alligators,1,-1,4.6,5.0,5,20.5%
+200,Turn the Tide,1,1189,6.8,6.5,3995,20.5%
+201,Trippples,1,13571,5.8,6.0,156,20.5%
+202,Three Blind Dice,1,-1,5.4,-1.0,15,20.5%
+203,Succession: Intrigue in the Royal Court,1,13154,5.7,6.5,273,20.5%
+204,Stone Age,1,111,7.6,8.5,44874,20.5%
+205,Stadium Checkers,1,15595,5.6,7.0,153,20.5%
+206,Small World Underground,1,401,7.3,7.0,9772,20.5%
+207,Skippity,1,9705,6.4,7.5,106,20.5%
+208,Shipwrecked,1,10772,5.7,8.0,419,20.5%
+209,Shear Panic,1,2056,6.4,9.0,3678,20.5%
+210,Samurai,1,209,7.5,8.5,14736,20.5%
+211,Roll Through the Ages: The Bronze Age,1,712,6.9,-1.0,11484,20.5%
+212,Regatta,1,4718,6.3,8.0,552,20.5%
+213,Red November,1,1860,6.3,-1.0,7710,20.5%
+214,The Really Nasty Horse Racing Game,1,4564,6.3,8.5,801,20.5%
+215,Qwitch,1,12878,5.7,-1.0,257,20.5%
+216,Qwirkle Cubes,1,2646,6.6,9.5,1220,20.5%
+217,PÜNCT,1,1842,6.8,8.5,1659,20.5%
+218,Poker,1,1030,6.7,-1.0,9254,20.5%
+219,Pirate's Cove,1,1291,6.6,8.0,7936,20.5%
+220,Pictionary,1,4640,5.8,-1.0,6898,20.5%
+221,Phase 10 Dice,1,20039,5.3,7.5,982,20.5%
+222,Pentago,1,2166,6.4,-1.0,3095,20.5%
+223,Panic Station,1,3713,6.0,-1.0,2933,20.5%
+224,Odin's Ravens,1,1450,6.6,8.0,3662,20.5%
+225,Mystery Rummy: Jack the Ripper,1,1074,6.9,7.5,3316,20.5%
+226,Mystery Rummy: Al Capone and the Chicago Underworld,1,2695,6.8,8.0,798,20.5%
+227,Monsters Menace America,1,4070,6.0,-1.0,2260,20.5%
+228,Mississippi Queen,1,2070,6.3,7.8,3837,20.5%
+229,minizoomerz Basic Game,1,-1,4.9,-1.0,5,20.5%
+230,Mini Mastermind,1,12781,5.7,7.5,491,20.5%
+231,Midgard,1,2811,6.6,-1.0,1002,20.5%
+232,Mhing,1,3322,6.7,9.0,670,20.5%
+233,Magnet,1,9820,6.2,-1.0,136,20.5%
+234,Die Macher,1,286,7.6,-1.0,5222,20.5%
+235,Long Shot,1,1727,6.7,-1.0,2098,20.5%
+236,League of Six,1,1674,6.8,7.5,1878,20.5%
+237,Kingsburg,1,354,7.2,-1.0,18324,20.5%
+238,Intrigue,1,2278,6.4,8.5,2570,20.5%
+239,Ingenious: Travel Edition,1,1256,7.1,9.0,1912,20.5%
+240,If Wishes Were Fishes!,1,2867,6.5,-1.0,1135,20.5%
+241,Ice Flow,1,2833,6.4,-1.0,1378,20.5%
+242,Himalaya,1,1285,7.0,8.0,2118,20.5%
+243,Heimlich & Co.,1,1911,6.4,8.0,3368,20.5%
+244,Harry Potter and the Sorcerer's Stone Mystery at Hogwarts Game,1,18797,5.5,6.0,496,20.5%
+245,Grave Robbers From Outer Space,1,7692,5.8,6.0,966,20.5%
+246,Genji,1,9086,5.8,7.5,400,20.5%
+247,Gazza! The Game,1,15124,5.6,6.0,197,20.5%
+248,Galaxy Trucker,1,191,7.4,-1.0,29437,20.5%
+249,Friday the 13th,1,1852,6.4,8.0,3784,20.5%
+250,Forward to Richmond!,1,11912,6.4,-1.0,59,20.5%
+251,Enemy Chocolatier,1,4919,6.6,7.6,318,20.5%
+252,Endeavor,1,295,7.4,8.8,9077,20.5%
+253,Electronic Mall Madness,1,15575,5.6,6.0,356,20.5%
+254,Dwarf Stones,1,-1,4.0,-1.0,6,20.5%
+255,Dungeons & Dragons: Castle Ravenloft Board Game,1,766,7.0,-1.0,8427,20.5%
+256,DungeonQuest,1,1657,6.7,-1.0,2655,20.5%
+257,Dragon Parade,1,7748,5.8,-1.0,640,20.5%
+258,Doodle Dice,1,16015,5.6,5.5,450,20.5%
+259,Dixit,1,278,7.3,-1.0,50499,20.5%
+260,DestiNation USA,1,-1,5.6,4.0,9,20.5%
+261,Conspiracy,1,4863,6.2,8.0,590,20.5%
+262,Color Stix,1,13125,6.4,7.5,41,20.5%
+263,Clue Jr.: The Case of the Missing Cake,1,19572,5.3,5.5,484,20.5%
+264,Clocktowers,1,9778,5.7,7.0,561,20.5%
+265,Cleopatra and the Society of Architects,1,986,6.8,8.0,6252,20.5%
+266,Chinese Checkers,1,20225,5.1,6.0,4147,20.5%
+267,Chang Cheng,1,4021,6.2,8.0,1080,20.5%
+268,Cellar des Triplettes 醉佳拍檔,1,4583,6.2,7.5,690,20.5%
+269,Caylus Magna Carta,1,906,6.9,9.0,4825,20.5%
+270,Castle Panic,1,1033,6.7,-1.0,14252,20.5%
+271,Carcassonne: The Castle,1,593,7.1,8.5,7556,20.5%
+272,Carcassonne: Hunters and Gatherers,1,490,7.1,8.0,11093,20.5%
+273,Carcassonne,1,181,7.4,8.5,101546,20.5%
+274,Campaign Manager 2008,1,1635,6.7,-1.0,2593,20.5%
+275,Caesar: Epic Battle of Alesia,1,2819,7.1,7.0,612,20.5%
+276,Caesar & Cleopatra,1,1889,6.4,8.5,4308,20.5%
+277,Buy Low Sell High,1,4513,6.1,6.0,862,20.5%
+278,British Rails,1,2970,6.9,-1.0,659,20.5%
+279,The Bridges of Shangri-La,1,1518,6.8,8.0,2320,20.5%
+280,Boggle,1,2334,6.2,7.5,6984,20.5%
+281,Bermuda Triangle,1,15200,5.6,6.0,801,20.5%
+282,Battlestar Galactica: The Board Game,1,81,7.7,8.5,32861,20.5%
+283,BattleLore,1,358,7.4,9.0,9091,20.5%
+284,Batt'l Kha'os,1,4313,6.3,-1.0,680,20.5%
+285,Asteroyds,1,3177,6.4,8.0,1152,20.5%
+286,Arkham Horror,1,333,7.3,7.0,36754,20.5%
+287,Arimaa,1,2735,7.2,-1.0,639,20.5%
+288,Airlines Europe,1,419,7.3,8.5,6809,20.5%
+289,Acquire,1,276,7.3,7.0,18189,20.5%
+290,Abalone Classic,1,1635,6.5,7.0,6276,20.5%
+291,Zooloretto: Three Extra Enclosures,0,-1,6.8,-1.0,362,0.0%
+292,Zooloretto: Three Additional Buildings,0,-1,6.6,-1.0,327,0.0%
+293,Zooloretto: The Petting Zoo,0,-1,6.9,-1.0,499,0.0%
+294,Zooloretto: Building Sites,0,-1,6.2,-1.0,315,0.0%
+295,Zooloretto XXL,0,-1,6.9,-1.0,379,0.0%
+296,Zingamino,0,-1,5.5,-1.0,4,0.0%
+297,Zero Down,0,3682,6.4,-1.0,726,0.0%
+298,Yspahan,0,576,7.1,-1.0,7744,0.0%
+299,Ys,0,1281,6.9,8.8,2485,0.0%
+300,Xactika,0,9215,5.8,-1.0,475,0.0%
+301,Worm Up!,0,6177,5.9,-1.0,939,0.0%
+302,WordSpot,0,11389,6.1,7.0,182,0.0%
+303,Wizard's Quest,0,3788,6.2,-1.0,1412,0.0%
+304,Werewolf,0,1655,6.5,7.0,4359,0.0%
+305,Warlock,0,11256,5.8,7.0,263,0.0%
+306,Warchon,0,17547,5.1,-1.0,31,0.0%
+307,War of the Ring: Battles of the Third Age,0,-1,8.1,-1.0,1434,0.0%
+308,War of the Ring,0,2961,6.7,-1.0,944,0.0%
+309,Vikings,0,432,7.3,7.0,7930,0.0%
+310,Vegas Showdown,0,549,7.2,-1.0,6077,0.0%
+311,Valley of the Mammoths,0,3194,6.4,-1.0,1129,0.0%
+312,UNO,0,20170,5.4,4.0,21129,0.0%
+313,Ulcers,0,18614,5.4,-1.0,170,0.0%
+314,Ubongo: Duel,0,2235,6.9,-1.0,1035,0.0%
+315,Ubongo Extreme,0,2080,6.8,-1.0,1296,0.0%
+316,Trump: The Game,0,20227,4.4,-1.0,692,0.0%
+317,Triology,0,18804,4.8,-1.0,57,0.0%
+318,Treehouse,0,7235,5.8,-1.0,834,0.0%
+319,Trax,0,4265,6.5,-1.0,531,0.0%
+320,Trains,0,-1,5.6,-1.0,5,0.0%
+321,Traders of Osaka,0,1198,6.8,-1.0,3208,0.0%
+322,Torres,0,528,7.1,-1.0,8723,0.0%
+323,Top Trumps,0,20253,4.2,6.0,955,0.0%
+324,Tongiaki: Journey into the Unknown,0,2866,6.2,-1.0,2284,0.0%
+325,Tomb,0,3148,6.3,-1.0,1361,0.0%
+326,Titan,0,1057,7.0,-1.0,3861,0.0%
+327,Tilt,0,-1,5.9,6.0,24,0.0%
+328,Tikal,0,263,7.3,-1.0,17891,0.0%
+329,Ticket to Ride: USA 1910,0,-1,8.0,-1.0,10064,0.0%
+330,Ticket to Ride: The Card Game,0,2747,6.1,-1.0,3900,0.0%
+331,Ticket to Ride: Europe,0,119,7.5,9.0,58364,0.0%
+332,Ticked Off,0,14377,5.8,-1.0,94,0.0%
+333,Thurn and Taxis,0,428,7.1,8.5,18091,0.0%
+334,Throneworld,0,6760,6.7,-1.0,159,0.0%
+335,Terrace,0,4851,6.4,6.5,516,0.0%
+336,Terra Mystica,0,16,8.1,-1.0,39166,0.0%
+337,Tempus,0,2003,6.5,9.0,2536,0.0%
+338,Techno Witches,0,4927,6.2,7.5,633,0.0%
+339,Target Arnhem: Across 6 Bridges,0,4802,6.5,-1.0,402,0.0%
+340,Talisman,0,2256,6.4,-1.0,5116,0.0%
+341,Swords & Sorcery: Quest and Conquest in the Age of Magic,0,5432,6.9,-1.0,240,0.0%
+342,Stretch Run,0,15679,5.8,7.0,84,0.0%
+343,StreetSoccer,0,2380,6.5,7.0,1593,0.0%
+344,La Strada,0,3532,6.2,-1.0,1336,0.0%
+345,Stonehenge: An Anthology Board Game,0,-1,5.4,-1.0,478,0.0%
+346,Stomp!,0,15953,5.7,-1.0,78,0.0%
+347,Start Player: A Kinda Collectible Card Game,0,7006,6.5,-1.0,178,0.0%
+348,Start Player,0,3587,6.3,-1.0,888,0.0%
+349,Stack Market,0,17399,5.5,-1.0,368,0.0%
+350,Squint,0,5873,6.0,7.0,731,0.0%
+351,Speed Circuit,0,2217,6.9,7.0,1107,0.0%
+352,Space Alert,0,219,7.4,9.0,14751,0.0%
+353,Sorry! Sliders,0,2004,6.4,6.8,3647,0.0%
+354,The Sorcerer's Cave Extension Kit,0,-1,6.8,7.0,74,0.0%
+355,Snow Tails,0,763,7.0,-1.0,6008,0.0%
+356,Snout! The Pass The Pigs Card Game,0,19100,3.9,-1.0,31,0.0%
+357,Small World: Tales and Legends,0,-1,7.2,-1.0,3266,0.0%
+358,Sleeping Queens,0,2115,6.5,-1.0,3160,0.0%
+359,Slamwich,0,20153,5.1,4.0,1118,0.0%
+360,Skyline 3000,0,4620,6.3,-1.0,580,0.0%
+361,Skirrid,0,15863,5.6,-1.0,128,0.0%
+362,The Sinking of the Titanic,0,8961,6.1,-1.0,257,0.0%
+363,Sid Meier's Civilization: The Board Game,0,259,7.4,-1.0,14412,0.0%
+364,Shuttles,0,12174,5.7,7.0,264,0.0%
+365,Sherlock Holmes: The Card Game,0,5291,6.2,8.0,544,0.0%
+366,Shadow Hunters Expansion,0,-1,7.4,-1.0,722,0.0%
+367,Senator,0,17394,5.5,-1.0,496,0.0%
+368,Seasons: The Calendar Rummy Game,0,12545,6.2,-1.0,85,0.0%
+369,Scurvy Musketeers of the Spanish Main,0,11021,6.1,-1.0,117,0.0%
+370,The Scepter of Zavandor,0,1213,7.0,8.5,2482,0.0%
+371,Say Anything,0,1098,6.7,-1.0,5588,0.0%
+372,Rum & Pirates,0,2514,6.4,8.0,1749,0.0%
+373,Round The World,0,-1,5.4,6.0,8,0.0%
+374,RoboRally,0,441,7.1,-1.0,22444,0.0%
+375,Risk,0,19446,5.6,-1.0,30178,0.0%
+376,Ringgz,0,13617,5.7,-1.0,215,0.0%
+377,Ricochet Robots,0,686,7.0,-1.0,7998,0.0%
+378,Res Publica,0,5675,5.9,-1.0,948,0.0%
+379,Reef Encounter of the Second Kind,0,-1,7.1,-1.0,170,0.0%
+380,Recess!,0,18512,5.1,-1.0,98,0.0%
+381,Railways of the World: The Card Game,0,2733,6.7,-1.0,895,0.0%
+382,Quiddler,0,3396,6.1,-1.0,3109,0.0%
+383,Pyramid of Pengqueen,0,1593,6.9,7.0,1749,0.0%
+384,Putwoody's Castle,0,-1,5.1,-1.0,13,0.0%
+385,Prophecy,0,2001,6.7,-1.0,1882,0.0%
+386,Probe,0,8364,5.8,-1.0,756,0.0%
+387,Il Principe,0,2993,6.4,-1.0,1180,0.0%
+388,The Princes of Florence,0,182,7.5,-1.0,14549,0.0%
+389,Primordial Soup: Freshly Spiced,0,-1,7.3,9.0,754,0.0%
+390,Power Grid: France/Italy,0,-1,7.9,-1.0,3081,0.0%
+391,Pig Pile,0,13452,5.6,6.0,391,0.0%
+392,Phoenix,0,4024,6.4,-1.0,672,0.0%
+393,Phase 10,0,20237,5.1,-1.0,7676,0.0%
+394,Period Pieces,0,-1,4.0,-1.0,3,0.0%
+395,Parthenon: Rise of the Aegean,0,3770,6.3,-1.0,863,0.0%
+396,Pandemic: On the Brink,0,-1,8.1,-1.0,16131,0.0%
+397,Paddington,0,-1,0.0,-1.0,0,0.0%
+398,"Oh, Pharaoh!",0,8518,5.9,-1.0,423,0.0%
+399,Oh Snap!,0,19564,5.3,5.5,611,0.0%
+400,Naughty Checkers,0,-1,1.0,-1.0,1,0.0%
+401,The Mystic Wood,0,4569,6.5,-1.0,498,0.0%
+402,Mystery Rummy: Jekyll & Hyde,0,2472,6.6,7.5,1238,0.0%
+403,Mystery of the Abbey: The Pilgrims' Chronicles,0,-1,6.8,-1.0,206,0.0%
+404,Mü & More,0,1212,7.2,-1.0,1834,0.0%
+405,Monopoly: The Card Game,0,17681,5.5,-1.0,610,0.0%
+406,Money!,0,1868,6.5,-1.0,2716,0.0%
+407,Modern Art,0,221,7.4,9.0,16670,0.0%
+408,minizoomerz: Wild Canyons Toolkit,0,-1,7.0,-1.0,1,0.0%
+409,Middle-earth,0,1220,7.3,-1.0,1860,0.0%
+410,Middle Kingdom,0,7476,6.0,-1.0,384,0.0%
+411,Mesopotamia,0,2437,6.5,-1.0,1556,0.0%
+412,MegaCorps,0,15623,5.6,-1.0,264,0.0%
+413,Medieval Merchant,0,2343,6.7,-1.0,1139,0.0%
+414,Master of Rules,0,8412,5.9,-1.0,398,0.0%
+415,Master Labyrinth,0,11140,5.8,7.0,276,0.0%
+416,Master Labyrinth,0,2640,6.3,7.5,2452,0.0%
+417,Masquerade,0,7134,6.1,-1.0,381,0.0%
+418,Mamma,0,-1,4.5,-1.0,20,0.0%
+419,Make 'n' Break,0,4435,6.1,-1.0,1088,0.0%
+420,The major four of Heizei,0,14421,6.3,-1.0,30,0.0%
+421,Love Letter,0,282,7.2,-1.0,55827,0.0%
+422,Lost Cities,0,322,7.2,8.0,37164,0.0%
+423,Lords of Waterdeep,0,71,7.8,-1.0,45819,0.0%
+424,Lord of the Rings: Sauron,0,-1,6.9,-1.0,1621,0.0%
+425,Lord of the Rings: Friends & Foes,0,-1,7.3,-1.0,2697,0.0%
+426,The Lord of the Rings: Battlefields,0,-1,7.1,-1.0,510,0.0%
+427,London,0,389,7.4,-1.0,6275,0.0%
+428,Last Word,0,15302,5.7,-1.0,114,0.0%
+429,Labyrinth: The Card Game,0,13191,5.6,6.5,1372,0.0%
+430,Labyrinth,0,1612,6.4,7.0,10468,0.0%
+431,kuuduk,0,19729,5.0,-1.0,166,0.0%
+432,Kung Fu Samurai on Giant Robot Island,0,11287,5.8,-1.0,272,0.0%
+433,Kingsburg: To Forge a Realm,0,-1,7.9,-1.0,4148,0.0%
+434,Kingmaker,0,2117,6.5,-1.0,2867,0.0%
+435,Killer Bunnies and the Quest for the Magic Carrot: VIOLET Booster,0,-1,6.4,7.0,980,0.0%
+436,Killer Bunnies and the Quest for the Magic Carrot: RED Booster,0,-1,6.4,7.0,1239,0.0%
+437,Killer Bunnies and the Quest for the Magic Carrot: ORANGE Booster,0,-1,6.5,-1.0,822,0.0%
+438,Killer Bunnies and the Quest for the Magic Carrot: GREEN Booster,0,-1,6.4,-1.0,711,0.0%
+439,Kill Doctor Lucky,0,2530,6.2,7.0,6496,0.0%
+440,Kaboodl,0,18770,5.1,-1.0,91,0.0%
+441,Junk,0,-1,6.5,-1.0,12,0.0%
+442,John Carter: Warlord of Mars,0,7810,6.6,-1.0,163,0.0%
+443,Jenga,0,10810,5.6,-1.0,11678,0.0%
+444,Jambo Expansion,0,-1,7.2,-1.0,831,0.0%
+445,Jaipur,0,135,7.5,-1.0,37008,0.0%
+446,Iron Dragon,0,1720,7.0,7.0,1572,0.0%
+447,Innovation,0,334,7.2,-1.0,14811,0.0%
+448,In the Year of the Dragon,0,297,7.4,-1.0,10759,0.0%
+449,In a Pickle,0,20239,4.7,6.0,1370,0.0%
+450,Iliad,0,2258,6.5,-1.0,1832,0.0%
+451,Igloo Pop,0,3387,6.3,6.4,1210,0.0%
+452,Ideology: The War of Ideas,0,4787,6.1,-1.0,883,0.0%
+453,I'm the Boss!,0,1237,6.8,5.5,3526,0.0%
+454,High Bohn Plus,0,-1,6.8,-1.0,551,0.0%
+455,Heroscape Expansion Set: Volcarren Wasteland,0,-1,7.4,-1.0,638,0.0%
+456,Heroscape Expansion Set: Utgar's Rage,0,-1,7.8,-1.0,615,0.0%
+457,Heroscape Expansion Set: Malliddon's Prophecy,0,-1,7.7,-1.0,745,0.0%
+458,Heads of State,0,5558,6.1,-1.0,591,0.0%
+459,Harry Potter and the Sorcerer's Stone Quidditch Card Game,0,20167,4.2,5.0,259,0.0%
+460,Hare & Tortoise,0,1400,6.6,8.0,4325,0.0%
+461,Handy,0,13169,5.8,-1.0,118,0.0%
+462,Hameln,0,9059,5.8,-1.0,311,0.0%
+463,Guillotine,0,1182,6.5,-1.0,19362,0.0%
+464,Grave Robbers II: Skippy's Revenge,0,6909,6.2,-1.0,315,0.0%
+465,Grass,0,5612,6.0,6.0,1124,0.0%
+466,Goldrush,0,-1,5.1,6.0,29,0.0%
+467,Gloom,0,1776,6.3,7.5,13569,0.0%
+468,Ghoulash,0,11149,6.2,7.0,91,0.0%
+469,The Game of Nations,0,19601,5.2,-1.0,263,0.0%
+470,The Game of Crown and Anchor,0,19058,4.3,-1.0,38,0.0%
+471,The Game of Authors,0,20077,4.5,-1.0,216,0.0%
+472,Die Fugger,0,3812,6.4,-1.0,674,0.0%
+473,Fresco,0,331,7.3,-1.0,11812,0.0%
+474,The Fred Perry Wimbledon Game,0,-1,5.9,-1.0,9,0.0%
+475,Fraud Squad,0,18924,4.1,-1.0,36,0.0%
+476,Fowl Play!,0,8516,6.1,-1.0,209,0.0%
+477,Fluxx,0,8877,5.7,6.0,15803,0.0%
+478,Flinch,0,19805,5.2,-1.0,414,0.0%
+479,Fleeced!,0,17408,5.5,5.5,82,0.0%
+480,Fjords,0,1428,6.7,7.8,2972,0.0%
+481,FITS,0,1646,6.6,8.0,3085,0.0%
+482,Fist of Dragonstones,0,3158,6.2,-1.0,2114,0.0%
+483,Feudo,0,7408,6.1,-1.0,315,0.0%
+484,Feudal,0,4485,6.1,-1.0,1399,0.0%
+485,Felicity: The Cat in the Sack,0,1428,6.6,-1.0,4723,0.0%
+486,Fangs,0,924,6.8,-1.0,7995,0.0%
+487,Exploration,0,17007,5.6,6.0,119,0.0%
+488,Employee of the Month,0,19492,5.1,-1.0,188,0.0%
+489,Eminent Domain,0,556,7.0,-1.0,9502,0.0%
+490,Egizia,0,404,7.4,-1.0,5126,0.0%
+491,Eco-Force: Guardians of Earth – Birds of North America,0,-1,4.8,6.5,3,0.0%
+492,Dungeon Twister,0,1016,6.8,-1.0,5751,0.0%
+493,Dungeon Petz,0,208,7.5,-1.0,12668,0.0%
+494,Dune,0,307,7.6,-1.0,5488,0.0%
+495,Duel in the Dark: The Complete Edition – Expansion,0,-1,6.9,-1.0,54,0.0%
+496,"Duck, Duck, Bruce",0,5044,6.2,-1.0,567,0.0%
+497,Dragon's Gold,0,1977,6.4,6.5,3062,0.0%
+498,Dover Patrol,0,14122,6.1,-1.0,62,0.0%
+499,Double or Nothing,0,11062,5.7,-1.0,494,0.0%
+500,Don't You Forget It,0,16889,5.4,5.5,62,0.0%
+501,Dominoes,0,19721,5.5,6.0,5874,0.0%
+502,Doctor Who: The Game of Time & Space,0,18405,5.4,-1.0,231,0.0%
+503,Dilbert: The Board Game,0,16608,5.6,7.0,181,0.0%
+504,Dilbert: Corporate Shuffle,0,6265,6.0,-1.0,619,0.0%
+505,Dice Town,0,868,6.9,-1.0,6778,0.0%
+506,Dealer's Choice,0,11533,5.9,6.0,281,0.0%
+507,Deadlands: Doomtown,0,2505,7.2,-1.0,636,0.0%
+508,Dark Emperor,0,15224,5.7,-1.0,176,0.0%
+509,Creature Castle,0,14647,6.7,6.0,36,0.0%
+510,Cranium Bumparena,0,15207,5.6,6.0,125,0.0%
+511,Cranium,0,8066,5.7,-1.0,8575,0.0%
+512,Country Club Golf Game,0,-1,5.2,6.5,8,0.0%
+513,Commands & Colors: Ancients,0,142,7.8,8.5,7975,0.0%
+514,Colossal Arena,0,980,6.8,-1.0,6969,0.0%
+515,Clue: The Great Museum Caper,0,2091,6.8,7.5,1470,0.0%
+516,Clue: The Card Game,0,7893,5.8,-1.0,636,0.0%
+517,Civilization,0,312,7.5,-1.0,7103,0.0%
+518,Ciúb,0,5664,6.1,-1.0,502,0.0%
+519,Chinatown,0,363,7.3,9.0,8442,0.0%
+520,Chercles,0,-1,6.7,8.0,5,0.0%
+521,Catan Card Game: Expansion Set,0,-1,7.1,-1.0,2025,0.0%
+522,Castle Merchants,0,9742,5.8,-1.0,358,0.0%
+523,Cargo Noir,0,2012,6.5,-1.0,2778,0.0%
+524,Cannibal Pygmies in the Jungle of Doom,0,12782,5.7,-1.0,362,0.0%
+525,Canasta Caliente,0,4108,6.3,-1.0,785,0.0%
+526,Camelot Legends,0,4422,6.1,-1.0,1193,0.0%
+527,Burp,0,16249,5.5,6.0,110,0.0%
+528,Bupkis,0,-1,5.6,7.5,13,0.0%
+529,Buffy the Vampire Slayer: The Game,0,2212,6.6,-1.0,1662,0.0%
+530,The Bucket King,0,2875,6.3,-1.0,1549,0.0%
+531,Britannia,0,730,7.2,-1.0,4038,0.0%
+532,Bridge Troll,0,5460,6.0,-1.0,716,0.0%
+533,Brass: Lancashire,0,19,8.2,-1.0,19333,0.0%
+534,Born Loser,0,-1,7.0,-1.0,2,0.0%
+535,The BoardGameGeek Game,0,5807,6.0,-1.0,598,0.0%
+536,Blue Moon,0,1165,6.7,-1.0,5497,0.0%
+537,Blokus Trigon,0,1207,6.9,-1.0,2912,0.0%
+538,Blockade,0,10468,6.2,7.0,125,0.0%
+539,Blast-Off!,0,19548,4.9,6.0,100,0.0%
+540,Blackbeard,0,3125,6.3,-1.0,1406,0.0%
+541,The Big Idea: More Cards!,0,-1,6.8,-1.0,120,0.0%
+542,Biblios,0,366,7.2,9.0,14969,0.0%
+543,Berserker Halflings from the Dungeon of Dragons,0,12326,5.8,-1.0,180,0.0%
+544,Beowulf: The Legend,0,2429,6.4,-1.0,2262,0.0%
+545,Bendomino,0,17563,5.7,-1.0,100,0.0%
+546,Bell-Bottomed Badassses on the Mean Streets of Funk,0,9299,6.0,-1.0,221,0.0%
+547,Battlestations,0,2155,7.1,-1.0,926,0.0%
+548,Battleships,0,19968,4.6,-1.0,169,0.0%
+549,Batter Up Baseball Card Game,0,-1,5.4,-1.0,4,0.0%
+550,BANG! High Noon,0,-1,6.7,8.5,1667,0.0%
+551,BANG! Dodge City,0,-1,6.9,9.0,4231,0.0%
+552,Backgammon,0,1277,6.5,-1.0,11651,0.0%
+553,Back to the Future: The Card Game,0,6875,5.8,-1.0,1126,0.0%
+554,Axis & Allies: Europe,0,2244,6.5,-1.0,2451,0.0%
+555,The Awful Green Things From Outer Space,0,2055,6.5,7.5,2538,0.0%
+556,Aton,0,1139,6.9,-1.0,3354,0.0%
+557,Astron,0,11896,6.7,-1.0,47,0.0%
+558,Around the World in 80 Days,0,1730,6.6,8.4,3068,0.0%
+559,Arne Junior,0,-1,4.5,-1.0,23,0.0%
+560,Archaeology: The Card Game,0,1522,6.7,-1.0,3083,0.0%
+561,Aquädukt,0,2606,6.4,-1.0,1626,0.0%
+562,Antler Island,0,5416,6.2,-1.0,520,0.0%
+563,Antigua,0,13384,5.8,-1.0,125,0.0%
+564,The Annoying Thing Game,0,-1,4.6,-1.0,4,0.0%
+565,Air Assault on Crete / Invasion of Malta: 1942,0,4879,6.4,-1.0,488,0.0%
+566,The Adventurers: The Temple of Chac,0,1414,6.6,-1.0,4614,0.0%
+567,A la carte,0,1917,6.5,-1.0,3077,0.0%
+568,7 Wonders,0,60,7.8,9.0,84104,0.0%
+569,1861: The Railways of the Russian Empire,0,2284,7.6,-1.0,529,0.0%
+570,1776: The Game of the American Revolutionary War,0,3331,6.5,-1.0,961,0.0%
+571,10 Days in Europe,0,2082,6.6,-1.0,1878,0.0%

@@ -1,0 +1,672 @@
+,Game,Plays,BGG Rank,BGG Rating,Your Rating,Users Rating,Utilisation
+0,Poker,370,1030,6.7,10.0,9254,100.0%
+1,Magic: The Gathering,301,158,7.5,7.0,32365,100.0%
+2,Catan,160,395,7.2,8.0,101212,99.9%
+3,Memoir '44,133,138,7.6,8.5,25667,99.9%
+4,Ticket to Ride,123,174,7.4,6.0,71408,99.9%
+5,Tic-Tac-Toe,117,20285,2.7,4.0,3269,99.9%
+6,"Warhammer 40,000 (Fourth Edition)",112,3274,6.5,9.0,1111,99.9%
+7,Gloomhaven,94,1,8.8,10.0,41815,99.9%
+8,Dominion,61,98,7.6,8.5,77920,99.9%
+9,Heroscape Master Set: Rise of the Valkyrie,58,351,7.4,8.5,7795,99.9%
+10,Carcassonne,51,181,7.4,7.0,101546,99.9%
+11,Hacienda,45,976,6.9,7.0,4031,99.9%
+12,Age of Steam,43,118,7.8,10.0,8840,99.9%
+13,Amun-Re,41,365,7.3,8.5,8554,99.9%
+14,Heroscape Master Set: Swarm of the Marro,39,708,7.6,9.5,2263,99.9%
+15,7 Wonders,36,60,7.8,8.0,84104,99.9%
+16,Thunderstone,35,694,6.9,9.0,10079,99.9%
+17,Puerto Rico,32,28,8.0,6.0,63032,99.9%
+18,"Hey, That's My Fish!",32,855,6.7,7.0,19341,99.9%
+19,Chess,32,439,7.1,6.0,28655,99.9%
+20,Power Grid,31,39,7.9,7.0,56129,99.9%
+21,Blackjack,31,20246,4.7,9.5,1562,99.9%
+22,Vegas Showdown,30,549,7.2,9.5,6077,99.9%
+23,Ra,29,177,7.5,8.5,19077,99.8%
+24,Goa,29,180,7.6,10.0,10921,99.8%
+25,Thunderstone: Wrath of the Elements,27,-1,7.5,-1.0,2018,99.8%
+26,Kingdoms,27,1329,6.6,6.0,4645,99.8%
+27,Catan: Seafarers,25,-1,7.2,8.0,16346,99.6%
+28,Santiago,24,700,7.1,7.0,4817,99.6%
+29,Railways of the World,23,128,7.7,9.0,11028,99.4%
+30,Gin Rummy,22,3506,6.3,8.0,1206,99.3%
+31,Sid Meier's Civilization: The Board Game,21,259,7.4,9.0,14412,99.2%
+32,Louis XIV,21,711,7.1,9.0,5339,99.2%
+33,Nexus Ops,20,454,7.2,8.0,8480,99.0%
+34,Boxes,19,20003,4.7,5.0,208,98.7%
+35,"Warhammer 40,000 (Fifth Edition)",18,2674,6.7,10.0,1066,98.4%
+36,Titan,18,1057,7.0,-1.0,3861,98.4%
+37,Risk 2210 A.D.,17,1290,6.7,7.5,6692,98.0%
+38,Eclipse,17,51,7.9,8.0,26127,98.0%
+39,BattleLore,17,358,7.4,7.0,9091,98.0%
+40,Twilight Imperium: Third Edition,16,80,7.8,7.0,18296,97.4%
+41,Thunderstone: Dragonspire,16,793,7.3,8.0,2634,97.4%
+42,Roll Through the Ages: The Bronze Age,16,712,6.9,6.0,11484,97.4%
+43,Hive,16,246,7.3,6.0,29494,97.4%
+44,Expedition,16,2237,6.8,8.5,1086,97.4%
+45,Tsuro,15,933,6.7,7.0,23277,96.8%
+46,Terra Mystica,15,16,8.1,8.0,39166,96.8%
+47,Lord of the Rings: The Confrontation,15,533,7.2,7.0,6534,96.8%
+48,Dominant Species,15,64,7.8,9.5,17989,96.8%
+49,Alhambra,15,468,7.0,7.0,28607,96.8%
+50,Yokohama,14,104,7.9,8.0,8829,96.0%
+51,"Warhammer 40,000 Cities of Death",14,-1,6.8,9.0,71,96.0%
+52,Tikal,14,263,7.3,8.5,17891,96.0%
+53,Struggle of Empires,14,479,7.5,9.0,3798,96.0%
+54,San Juan,14,293,7.3,7.5,22214,96.0%
+55,Heroscape Expansion Set: Road to the Forgotten Forest,14,-1,8.1,9.0,515,96.0%
+56,Defenders of the Realm,14,525,7.3,9.0,5212,96.0%
+57,Colosseum,14,451,7.2,8.0,8436,96.0%
+58,Thunderstone: Promo Pack,13,-1,7.4,8.5,386,94.9%
+59,RoboRally,13,441,7.1,5.5,22444,94.9%
+60,Tigris & Euphrates,12,92,7.7,9.5,25297,93.6%
+61,Star Realms,12,115,7.6,-1.0,35855,93.6%
+62,Sons of Anarchy: Men of Mayhem,12,903,7.3,9.0,2555,93.6%
+63,Shogun,12,192,7.5,9.5,12819,93.6%
+64,Medici,12,537,7.1,7.0,7133,93.6%
+65,Heroscape Expansion Set: Volcarren Wasteland,12,-1,7.4,8.0,638,93.6%
+66,Heroscape Expansion Set: Fortress of the Archkyrie,12,-1,7.7,8.5,1004,93.6%
+67,Diamant,11,718,6.8,8.0,17037,92.0%
+68,Caverna: The Cave Farmers,11,30,8.0,9.0,28040,92.0%
+69,Zooloretto,10,755,6.8,7.0,13881,90.0%
+70,WildLife,10,2297,6.7,8.0,1344,90.0%
+71,Twilight Imperium: Third Edition – Shattered Empire,10,-1,8.6,8.0,4588,90.0%
+72,Sid Meier's Civilization: The Board Game – Fame and Fortune,10,-1,8.0,9.0,2260,90.0%
+73,Rising Sun: Daimyo Box,10,-1,8.5,-1.0,1293,90.0%
+74,Rising Sun,10,85,7.9,8.0,15717,90.0%
+75,Heroscape Expansion Set: Crest of the Valkyrie (Flagbearer series),10,-1,7.5,8.0,331,90.0%
+76,Gang of Four,10,1955,6.6,6.5,2250,90.0%
+77,Thurn and Taxis,9,428,7.1,7.0,18091,87.4%
+78,Sharp Shooters,9,3011,6.4,7.0,1207,87.4%
+79,Pirate's Cove,9,1291,6.6,6.0,7936,87.4%
+80,Fallen Land: A Post Apocalyptic Board Game,9,3910,8.3,9.0,323,87.4%
+81,Fallen Land: A Journey into Darkness,9,-1,8.7,8.0,88,87.4%
+82,Domaine,9,893,7.0,7.0,4276,87.4%
+83,Breaking Away,9,2848,7.3,9.5,448,87.4%
+84,Tzolk'in: The Mayan Calendar,8,40,7.9,7.5,30663,84.1%
+85,Thunderstone: Doomgate Legion,8,-1,7.6,-1.0,1400,84.1%
+86,Star Wars: Rebellion,8,9,8.4,8.0,22983,84.1%
+87,Siam,8,3326,6.7,7.0,610,84.1%
+88,Pickomino,8,1252,6.6,6.5,8983,84.1%
+89,Oceania,8,7077,5.8,7.0,933,84.1%
+90,Heroscape Expansion Set: Utgar's Rage,8,-1,7.8,8.0,615,84.1%
+91,Heroscape Expansion Set: Orm's Return,8,-1,7.6,8.0,818,84.1%
+92,Heroscape Expansion Set: Dawn of Darkness,8,-1,7.7,8.0,385,84.1%
+93,Galactic Emperor,8,2314,6.6,9.0,1399,84.1%
+94,For Sale,8,301,7.2,6.5,23815,84.1%
+95,Eggs and Empires,8,2775,6.7,-1.0,860,84.1%
+96,Bora Bora,8,205,7.6,7.0,9086,84.1%
+97,BANG!,8,1270,6.5,5.5,26411,84.1%
+98,Xenon Profiteer,7,2007,7.2,-1.0,820,80.0%
+99,Wings of War: Famous Aces,7,1064,6.9,8.0,4616,80.0%
+100,Under the Shadow of the Dragon,7,3622,6.5,6.0,661,80.0%
+101,Thunderstone Advance: Towers of Ruin,7,511,7.4,-1.0,4589,80.0%
+102,A Few Acres of Snow,7,339,7.4,-1.0,7415,80.0%
+103,Family Business,7,3094,6.1,5.0,3979,80.0%
+104,Dungeon Lords,7,257,7.4,7.5,12855,80.0%
+105,Dominion: Intrigue,7,84,7.7,9.0,30066,80.0%
+106,Defenders of the Realm: The Dragon Expansion,7,-1,7.7,-1.0,426,80.0%
+107,Can't Stop,7,739,6.8,6.0,13213,80.0%
+108,Blokus Trigon,7,1207,6.9,4.5,2912,80.0%
+109,UNO,6,20170,5.4,3.5,21129,74.8%
+110,Twilight Imperium: Third Edition – Shards of the Throne,6,-1,8.7,8.0,2365,74.8%
+111,Ticket to Ride: Märklin,6,309,7.4,7.5,8709,74.8%
+112,Thunderstone: Heart of Doom,6,-1,7.7,-1.0,580,74.8%
+113,Through the Desert,6,499,7.1,7.0,12705,74.8%
+114,The Starfarers of Catan,6,1097,6.8,5.5,5031,74.8%
+115,Rummy,6,6791,5.8,5.0,1448,74.8%
+116,Rocketville,6,20051,5.1,5.0,584,74.8%
+117,Power Grid: France/Italy,6,-1,7.9,7.0,3081,74.8%
+118,No Thanks!,6,449,7.1,6.5,20289,74.8%
+119,Niagara,6,1425,6.5,6.0,7917,74.8%
+120,Modern Art,6,221,7.4,8.0,16670,74.8%
+121,Loot,6,1982,6.3,6.0,5922,74.8%
+122,Heroscape Expansion Set: Zanafor's Discovery,6,-1,7.7,8.0,405,74.8%
+123,Heroscape Expansion Set: Jandar's Oath,6,-1,7.7,8.0,501,74.8%
+124,Heroscape Expansion Set: Aquilla's Alliance,6,-1,8.0,8.0,252,74.8%
+125,Head-to-Head Poker,6,12680,5.8,6.5,203,74.8%
+126,Endeavor,6,295,7.4,8.0,9077,74.8%
+127,Clockwork Wars,6,2131,7.6,9.0,600,74.8%
+128,Catan: 5-6 Player Extension,6,-1,7.0,6.0,14665,74.8%
+129,Catan Histories: Struggle for Rome,6,2804,6.4,7.0,1359,74.8%
+130,Brass: Lancashire,6,19,8.2,8.0,19333,74.8%
+131,Age of Steam Expansion: Jamaica / Puerto Rico,6,-1,7.0,7.0,160,74.8%
+132,1960: The Making of the President,6,204,7.6,8.0,8511,74.8%
+133,Xenon Profiteer: Tactics & Profiteers Expansion Pack,5,-1,7.3,-1.0,54,68.3%
+134,Tribune: Primus Inter Pares,5,629,7.2,7.5,4415,68.3%
+135,Ticket to Ride: Switzerland,5,-1,7.5,7.0,4602,68.3%
+136,Thunderstone: For the Dwarf Promo,5,-1,7.3,-1.0,495,68.3%
+137,Thunderstone Advance: Caverns of Bane,5,-1,7.8,-1.0,1027,68.3%
+138,Tempus,5,2003,6.5,8.0,2536,68.3%
+139,Small World,5,255,7.3,9.5,61593,68.3%
+140,Rising Sun: Kami Unbound,5,-1,8.1,-1.0,1154,68.3%
+141,Oasis,5,1713,6.7,7.5,2160,68.3%
+142,Mage Knight Board Game,5,26,8.1,8.0,27775,68.3%
+143,Heroscape Expansion Set: Thora's Vengeance,5,-1,7.5,8.0,419,68.3%
+144,Heroscape Expansion Set: Thaelenk Tundra,5,-1,7.8,8.0,531,68.3%
+145,Heroscape Expansion Set: Raknar's Vision,5,-1,7.9,8.0,504,68.3%
+146,Five Tribes,5,65,7.8,7.0,32178,68.3%
+147,Defenders of the Realm: Hero Expansion #3,5,-1,7.6,-1.0,259,68.3%
+148,Defenders of the Realm: Hero Expansion #1,5,-1,7.7,-1.0,318,68.3%
+149,Cleopatra and the Society of Architects,5,986,6.8,7.5,6252,68.3%
+150,Civilization: A New Dawn,5,647,7.3,8.0,4256,68.3%
+151,Labyrinth,5,1612,6.4,5.5,10468,68.3%
+152,Age of Steam Expansion: Barbados / St. Lucia,5,-1,7.3,7.0,359,68.3%
+153,Vinhos Deluxe Edition,4,109,8.2,8.0,4225,60.1%
+154,Blockers!,4,1810,6.7,6.5,1922,60.1%
+155,Union Pacific,4,668,7.2,7.5,4173,60.1%
+156,Twilight Struggle,4,10,8.3,-1.0,40694,60.1%
+157,Ticket to Ride: Mystery Train Expansion,4,-1,6.6,8.0,925,60.1%
+158,Thunderstone: Thornwood Siege,4,-1,7.6,-1.0,811,60.1%
+159,Through the Ages: A New Story of Civilization,4,6,8.4,10.0,22963,60.1%
+160,Terra Mystica: Fire & Ice,4,-1,8.4,7.0,3761,60.1%
+161,Take it Easy!,4,1695,6.6,6.5,2751,60.1%
+162,The Swarm,4,4082,6.4,-1.0,610,60.1%
+163,Sunken City,4,4475,6.2,8.0,852,60.1%
+164,Sons of Anarchy: Men of Mayhem – Grim Bastards Club Expansion,4,-1,7.5,-1.0,242,60.1%
+165,Sons of Anarchy: Men of Mayhem – Calaveras Club Expansion,4,-1,7.6,-1.0,273,60.1%
+166,Saga,4,6431,5.8,5.5,1219,60.1%
+167,Return of the Heroes,4,2247,6.5,5.5,2022,60.1%
+168,Relic Runners,4,1879,6.6,-1.0,2171,60.1%
+169,Panzer General: Allied Assault,4,6633,6.4,8.0,345,60.1%
+170,Money!,4,1868,6.5,7.0,2716,60.1%
+171,Die Macher,4,286,7.6,9.0,5222,60.1%
+172,Dream Factory,4,745,7.1,8.0,5070,60.1%
+173,Heroscape: Nerak's Return,4,-1,7.4,7.5,183,60.1%
+174,Heroscape Expansion Set: Ticalla Jungle,4,-1,8.2,9.0,356,60.1%
+175,Heroscape Expansion Set: Malliddon's Prophecy,4,-1,7.7,8.0,745,60.1%
+176,Heroscape Expansion Set: Fields of Valor,4,-1,7.8,8.0,343,60.1%
+177,Heroscape Expansion Set: Blackmoon's Siege,4,-1,8.1,-1.0,206,60.1%
+178,Halo Interactive Strategy Game,4,19962,5.0,7.0,232,60.1%
+179,Floating Market,4,5479,6.2,-1.0,445,60.1%
+180,Elfenland,4,1036,6.7,7.5,8062,60.1%
+181,Eclipse: Rise of the Ancients,4,-1,8.4,10.0,3631,60.1%
+182,Defenders of the Realm: Hero Expansion #2,4,-1,7.7,-1.0,281,60.1%
+183,Crusaders: Thy Will Be Done,4,592,7.6,-1.0,2655,60.1%
+184,Caveman Curling,4,4630,6.3,-1.0,592,60.1%
+185,Campaign Manager 2008,4,1635,6.7,-1.0,2593,60.1%
+186,Battleball,4,2856,6.3,6.0,2066,60.1%
+187,Battle Line,4,224,7.4,6.0,15624,60.1%
+188,Amerigo,4,360,7.5,-1.0,5492,60.1%
+189,Age of Steam Expansion: Sun / London,4,-1,7.6,8.5,125,60.1%
+190,Wombat Rescue,3,4871,6.5,-1.0,377,49.8%
+191,Wits & Wagers,3,622,6.9,2.0,13343,49.8%
+192,Wings of War: Watch Your Back!,3,1547,7.0,7.0,1765,49.8%
+193,War,3,20281,2.3,2.0,1337,49.8%
+194,Vexation,3,-1,7.1,8.0,722,49.8%
+195,Thunderstone: Promo Pack #2,3,-1,7.5,-1.0,171,49.8%
+196,Thunderstone: Blade Trap Promo,3,-1,7.2,-1.0,195,49.8%
+197,Thunderstone Advance: Root of Corruption,3,-1,7.8,-1.0,734,49.8%
+198,Stratego: Lord of the Rings Trilogy Edition,3,6180,6.2,5.0,411,49.8%
+199,Stoplights,3,19451,5.1,6.0,190,49.8%
+200,Sparta,3,17219,5.5,-1.0,135,49.8%
+201,Small World: Grand Dames of Small World,3,-1,7.4,-1.0,5551,49.8%
+202,Small World: Cursed!,3,-1,7.5,-1.0,5720,49.8%
+203,Sid Meier's Civilization: The Board Game – Wisdom and Warfare,3,-1,8.3,-1.0,1411,49.8%
+204,Rising Sun: Monster Pack,3,-1,8.2,8.0,1182,49.8%
+205,Rising Sun: Dynasty Invasion,3,-1,8.3,7.0,986,49.8%
+206,Railways of Europe,3,-1,8.1,9.0,1889,49.8%
+207,Puerto Rico: Expansion I – New Buildings,3,-1,7.6,7.0,2677,49.8%
+208,Power Grid: Factory Manager,3,920,6.9,5.5,5793,49.8%
+209,Power Grid: China/Korea,3,-1,8.0,-1.0,2757,49.8%
+210,Pioneer Days,3,1198,7.3,8.0,1548,49.8%
+211,Organized Crime,3,14866,5.7,6.5,109,49.8%
+212,Nations,3,148,7.6,8.0,11130,49.8%
+213,Memoir '44: Pacific Theater,3,-1,7.9,8.0,1952,49.8%
+214,Memoir '44: Eastern Front,3,-1,8.0,8.0,2769,49.8%
+215,Masons,3,1991,6.5,7.0,2403,49.8%
+216,High Society,3,566,7.1,7.0,8875,49.8%
+217,Heroscape Expansion Set: Defenders of Kinsland,3,-1,7.8,8.0,322,49.8%
+218,The Gallerist,3,57,8.0,8.0,9649,49.8%
+219,Galaxy Trucker,3,191,7.4,6.5,29437,49.8%
+220,Francis Drake,3,467,7.4,8.0,4505,49.8%
+221,Food Chain Magnate,3,30,8.1,8.0,13806,49.8%
+222,Glenn Drover's Empires: Galactic Rebellion,3,8801,6.5,-1.0,132,49.8%
+223,DVONN,3,472,7.4,6.5,4440,49.8%
+224,Duel of Ages Set 1: Worldspanner,3,2402,6.6,7.0,1684,49.8%
+225,Defenders of the Realm: Global Effects Cards,3,-1,7.3,-1.0,154,49.8%
+226,Container: 10th Anniversary Jumbo Edition!,3,882,7.7,9.0,1483,49.8%
+227,Conquest of Pangea,3,19478,5.3,6.5,298,49.8%
+228,The Colonists,3,425,7.7,9.0,3396,49.8%
+229,Clockwork Wars: Sentience,3,-1,7.8,8.0,104,49.8%
+230,Citadels,3,403,7.1,7.0,48290,49.8%
+231,Catan Card Game,3,960,6.7,6.0,13003,49.8%
+232,Carson City,3,473,7.2,7.5,6733,49.8%
+233,Can't Stop Express,3,5827,6.3,-1.0,344,49.8%
+234,Bootleggers,3,1502,6.7,6.0,3148,49.8%
+235,Axis & Allies Miniatures,3,3275,6.5,5.5,1089,49.8%
+236,Automobile,3,459,7.3,-1.0,5365,49.8%
+237,7 Wonders: Leaders,3,-1,7.8,-1.0,13462,49.8%
+238,Worm Up!,2,6177,5.9,7.0,939,36.9%
+239,WarQuest,2,15593,6.3,-1.0,78,36.9%
+240,Urbania,2,4363,6.5,-1.0,492,36.9%
+241,Tripoley,2,17127,5.5,7.0,798,36.9%
+242,Ticket to Ride: The Card Game,2,2747,6.1,8.0,3900,36.9%
+243,Ticket to Ride: Europe,2,119,7.5,7.5,58364,36.9%
+244,Thunderstone: Werewolf Promo Pack,2,-1,7.7,-1.0,112,36.9%
+245,Thunderstone: Death Sentinel Promo,2,-1,7.3,-1.0,225,36.9%
+246,Theophrastus,2,7595,5.9,7.5,428,36.9%
+247,SWAT!,2,10047,6.0,-1.0,181,36.9%
+248,Star Trek: Catan,2,1081,7.0,-1.0,3243,36.9%
+249,Salmon Run,2,3750,6.5,6.5,616,36.9%
+250,Railways Through Time,2,-1,7.4,-1.0,236,36.9%
+251,Qwirkle,2,796,6.8,7.0,16075,36.9%
+252,Quarriors!,2,886,6.8,-1.0,13141,36.9%
+253,Primordial Soup,2,913,6.9,7.0,4539,36.9%
+254,Monuments: Wonders of Antiquity,2,4820,6.4,-1.0,440,36.9%
+255,League of Six,2,1674,6.8,9.0,1878,36.9%
+256,Heroscape: Sir Hawthorne's Arrival,2,-1,7.5,5.0,152,36.9%
+257,Harbour: Launch Promo Characters,2,-1,6.7,-1.0,69,36.9%
+258,Harbour,2,1533,6.5,-1.0,4562,36.9%
+259,Fortress America,2,1755,6.7,6.0,2385,36.9%
+260,The Flow of History,2,1617,6.8,-1.0,1952,36.9%
+261,Fleet,2,942,6.9,-1.0,4556,36.9%
+262,Fallen Land: Gen Con 2017 Promo Cards,2,-1,8.4,9.0,16,36.9%
+263,Empires: Galactic Rebellion – Oligarchs Expansion,2,-1,6.9,-1.0,17,36.9%
+264,Eclipse: Ship Pack One,2,-1,7.7,9.0,1280,36.9%
+265,Dungeons & Dragons Miniatures,2,3081,6.5,6.0,1062,36.9%
+266,Dragon Parade,2,7748,5.8,6.0,640,36.9%
+267,The Downfall of Pompeii,2,541,7.1,7.5,7368,36.9%
+268,Dominion: Envoy Promo Card,2,-1,7.2,8.0,3237,36.9%
+269,Dominion: Black Market Promo Card,2,-1,7.1,9.0,3490,36.9%
+270,Defenders of the Realm: The Barbarian,2,-1,7.5,-1.0,442,36.9%
+271,Cornucopia,2,10036,5.8,7.0,258,36.9%
+272,Clout Fantasy,2,17255,5.6,4.0,385,36.9%
+273,Clockwork Wars: Gulag & Dynamo Bonus Tiles,2,-1,7.7,9.0,28,36.9%
+274,Clockwork Wars: Academy & Volcano Bonus Tiles,2,-1,7.7,9.0,27,36.9%
+275,Charon Inc.,2,4847,6.3,-1.0,497,36.9%
+276,Catan Histories: Settlers of America – Trails to Rails,2,1553,6.8,-1.0,2240,36.9%
+277,Wildlife Safari,2,1603,6.6,5.0,2802,36.9%
+278,Blokus,2,646,6.9,6.5,22840,36.9%
+279,Adrenaline,2,730,7.1,-1.0,5528,36.9%
+280,The Settlers of the Stone Age,2,1943,6.6,6.0,2278,36.9%
+281,Yokohama: Achievements & Free Agents Promo,1,-1,7.6,7.0,87,20.5%
+282,Wits & Wagers Family,1,1501,6.9,6.0,1806,20.5%
+283,Warriors,1,20124,5.0,5.0,603,20.5%
+284,Tzolk'in: The Mayan Calendar – Tribes & Prophecies,1,-1,8.1,8.0,3283,20.5%
+285,Trans Europa,1,1528,6.6,7.0,3228,20.5%
+286,Tiny Epic Galaxies,1,271,7.4,-1.0,15645,20.5%
+287,Ticket to Ride: USA 1910,1,-1,8.0,-1.0,10064,20.5%
+288,Ticket to Ride Map Collection: Volume 1 – Team Asia & Legendary Asia,1,-1,7.7,-1.0,5150,20.5%
+289,Terra Mystica: 4 Town Tiles,1,-1,8.1,-1.0,842,20.5%
+290,Tash-Kalar: Arena of Legends,1,563,7.2,-1.0,6054,20.5%
+291,Small World Underground,1,401,7.3,-1.0,9772,20.5%
+292,The Settlers of Catan: The Fishermen of Catan,1,-1,7.1,6.5,1067,20.5%
+293,Saboteur,1,1075,6.6,6.5,25602,20.5%
+294,Rocket Jockey,1,15314,5.6,-1.0,154,20.5%
+295,Terror in Meeple City,1,857,6.9,7.0,7117,20.5%
+296,Railroad Rivals,1,4103,6.6,-1.0,536,20.5%
+297,Quarriors! Rise of the Demons,1,-1,6.8,-1.0,1728,20.5%
+298,Pirelli,1,-1,7.3,7.0,4,20.5%
+299,Palatinus,1,17597,5.5,6.5,252,20.5%
+300,Nautilus,1,2974,6.4,7.0,1383,20.5%
+301,Monopoly Junior,1,20258,4.3,3.0,1479,20.5%
+302,Modern Art Card Game,1,2033,6.6,7.0,1809,20.5%
+303,Memoir '44: Air Pack,1,-1,7.5,9.5,1218,20.5%
+304,Magna Grecia,1,3193,6.6,8.0,809,20.5%
+305,Mage Wars Arena,1,245,7.6,-1.0,7372,20.5%
+306,Mage Knight Board Game: The Lost Legion Expansion,1,-1,8.8,9.0,3503,20.5%
+307,Looting London,1,7047,5.9,6.0,588,20.5%
+308,Letter Jam,1,881,7.3,-1.0,2368,20.5%
+309,King's Gate,1,4367,6.2,7.0,818,20.5%
+310,Isaribi,1,6848,6.3,7.0,239,20.5%
+311,Heroscape: Viper's Vengeance,1,-1,7.6,7.0,147,20.5%
+312,Heroscape: Skahen's Rescue,1,-1,7.9,8.0,123,20.5%
+313,Hearts,1,1845,6.4,5.5,3815,20.5%
+314,Le Havre,1,47,7.9,8.0,26395,20.5%
+315,Gem Dealer,1,14646,5.6,6.5,359,20.5%
+316,Fredericus,1,18197,5.4,6.5,168,20.5%
+317,Five Points: Gangs of New York,1,8058,6.2,7.0,200,20.5%
+318,The End of the Triumvirate,1,1812,6.8,8.0,1590,20.5%
+319,Empires: Galactic Rebellion – Faction Power Cards,1,-1,6.4,-1.0,7,20.5%
+320,Eclipse: Supernova,1,-1,7.5,9.0,1018,20.5%
+321,Eclipse: Pulsar,1,-1,7.7,-1.0,695,20.5%
+322,Dungeon Twister,1,1016,6.8,7.5,5751,20.5%
+323,Cubist,1,3116,6.8,-1.0,638,20.5%
+324,Cosmic Encounter,1,3008,6.4,6.0,1273,20.5%
+325,Conquest of Pangea: Atlantis,1,-1,5.7,7.0,33,20.5%
+326,Cheesonomics,1,13823,6.0,-1.0,57,20.5%
+327,Bora Bora: Orange God Tiles,1,-1,7.4,-1.0,322,20.5%
+328,Boomtown,1,1896,6.5,7.0,2587,20.5%
+329,Blood Feud in New York,1,5701,6.1,8.0,654,20.5%
+330,Birds on a Wire,1,19347,5.2,6.0,223,20.5%
+331,Battleborn Legacy,1,10041,8.0,-1.0,51,20.5%
+332,Attika,1,746,7.0,7.0,6328,20.5%
+333,Alchemists,1,110,7.7,-1.0,18203,20.5%
+334,Age of Steam Expansion: America / Europe,1,-1,7.5,8.0,162,20.5%
+335,Age of Steam Expansion: 1830's Pennsylvania / Northern California,1,-1,7.9,8.5,201,20.5%
+336,Age of Steam Expansion #3: Scandinavia and Korea,1,-1,7.8,5.0,454,20.5%
+337,Adrenaline: Team Play DLC,1,-1,7.5,-1.0,251,20.5%
+338,7 Wonders: Wonder Pack,1,-1,7.6,-1.0,5176,20.5%
+339,7 Wonders: Cities,1,-1,7.8,-1.0,9838,20.5%
+340,1000 Blank White Cards,1,4007,6.7,1.0,520,20.5%
+341,Zig-Zag,0,13217,5.7,-1.0,330,0.0%
+342,Yu-Gi-Oh! Dungeon Dice Monsters,0,15814,6.1,-1.0,111,0.0%
+343,Zen Master,0,4942,6.3,-1.0,465,0.0%
+344,Wyatt Earp,0,1116,6.8,-1.0,3886,0.0%
+345,The World at War,0,8590,6.4,5.0,169,0.0%
+346,Wombat Rescue: Expansion Pack,0,-1,6.5,-1.0,27,0.0%
+347,Wombat Rescue: 5th Player Expansion,0,-1,6.4,-1.0,18,0.0%
+348,Wings of War: Burning Drachens,0,1682,7.1,-1.0,1317,0.0%
+349,Wench,0,20072,4.5,-1.0,214,0.0%
+350,Weiß Schwarz,0,7322,7.1,-1.0,121,0.0%
+351,We Will Wok You,0,5661,6.3,-1.0,367,0.0%
+352,Warriors: Dragon Hordes Expansion,0,-1,5.3,-1.0,272,0.0%
+353,WarQuest: 5th Player Expansion and Experienced Units,0,-1,6.6,-1.0,7,0.0%
+354,"Warhammer 40,000: Spearhead",0,-1,5.9,9.0,20,0.0%
+355,"Warhammer 40,000: Battle for Macragge",0,5120,6.6,8.0,359,0.0%
+356,"Warhammer 40,000: Assault On Black Reach",0,4468,7.0,10.0,292,0.0%
+357,"Warhammer 40,000 Expansion: Planetstrike",0,-1,6.2,-1.0,50,0.0%
+358,Tzolk'in: The Mayan Calendar – Mini Expansion 2,0,-1,7.6,-1.0,491,0.0%
+359,Tzolk'in: The Mayan Calendar – Mini Expansion 1,0,-1,7.5,-1.0,601,0.0%
+360,Twilight Struggle: Turn Zero,0,-1,7.3,-1.0,142,0.0%
+361,Treasure Chest,0,-1,7.3,-1.0,627,0.0%
+362,Trapwords,0,1493,7.0,-1.0,1657,0.0%
+363,Top Trumps,0,20253,4.2,-1.0,955,0.0%
+364,Titan Dice,0,14498,6.0,-1.0,62,0.0%
+365,Ticket to Ride: The Dice Expansion,0,-1,5.7,-1.0,811,0.0%
+366,Ticket to Ride Map Collection: Volume 2 – India & Switzerland,0,-1,7.8,-1.0,5206,0.0%
+367,Thunderstone: Vision Promo,0,-1,7.5,-1.0,85,0.0%
+368,Thunderstone: Vicious Promo Pack,0,-1,7.6,-1.0,79,0.0%
+369,Thunderstone: German Promo Pack Harrulier (Harruli),0,-1,7.4,-1.0,60,0.0%
+370,Thunderstone Advance: Numenera,0,1433,7.3,-1.0,1287,0.0%
+371,Terror in Meeple City: The Space Cowboys,0,-1,6.8,-1.0,105,0.0%
+372,Street Illegal,0,11384,5.7,-1.0,438,0.0%
+373,Stratego,0,2593,6.1,5.0,13793,0.0%
+374,Star Wars: Jedi Unleashed,0,20093,4.7,-1.0,304,0.0%
+375,Star Realms: Merc Destroyer Promo Card,0,-1,7.2,-1.0,36,0.0%
+376,Star Realms: Interceptor Promo Card,0,-1,6.4,-1.0,5,0.0%
+377,Star Realms: Federal Transport,0,-1,6.9,-1.0,21,0.0%
+378,Star Realms: Colony Wars,0,164,7.9,-1.0,6040,0.0%
+379,Star Realms: Coalition Tower Promo Card,0,-1,7.3,-1.0,32,0.0%
+380,Star Realms: Battle Barge Promo Card,0,-1,7.3,-1.0,73,0.0%
+381,Star Realms: Assault Shuttle,0,-1,7.1,-1.0,23,0.0%
+382,Spammers,0,19927,4.2,-1.0,106,0.0%
+383,Spades,0,1704,6.8,5.0,2091,0.0%
+384,Small World: Tunnels,0,-1,6.9,-1.0,606,0.0%
+385,Small World: Tales and Legends,0,-1,7.2,-1.0,3266,0.0%
+386,Small World: Realms,0,-1,7.3,-1.0,1781,0.0%
+387,Small World: Necromancer Island,0,-1,6.7,-1.0,1521,0.0%
+388,Small World: Leaders of Small World,0,-1,6.6,-1.0,1391,0.0%
+389,Small World: Be Not Afraid...,0,-1,7.6,-1.0,5286,0.0%
+390,Sluff Off!,0,1407,6.9,-1.0,2257,0.0%
+391,Slide 5,0,2851,6.5,6.0,1046,0.0%
+392,Sleuth,0,1205,6.9,-1.0,2734,0.0%
+393,SiXeS,0,6155,7.2,-1.0,153,0.0%
+394,Signorie,0,708,7.4,-1.0,2625,0.0%
+395,Die Siedler von Catan: Thüringen Edition,0,-1,6.6,-1.0,21,0.0%
+396,Shogun: Tenno's Court,0,-1,7.2,-1.0,364,0.0%
+397,Shadows over Camelot: The Card Game – Merlin & Morgan Promo cards,0,-1,6.3,-1.0,97,0.0%
+398,Shadows over Camelot: The Card Game,0,7408,5.7,-1.0,1144,0.0%
+399,Shadow Era,0,15555,5.7,-1.0,72,0.0%
+400,The Settlers of Catan: The Great River,0,-1,6.0,-1.0,967,0.0%
+401,The Scarlet Pimpernel,0,5962,6.9,-1.0,175,0.0%
+402,Salmon Run: The Grizzly Bear,0,-1,6.7,-1.0,29,0.0%
+403,Salmon Run: The Fork/Cataract Falls Board,0,-1,6.9,-1.0,27,0.0%
+404,Salmon Run: The Fisherman Board,0,-1,7.2,-1.0,34,0.0%
+405,Salmon Run: The Bald Eagle,0,-1,6.5,-1.0,22,0.0%
+406,Salmon Run: The 5th Player Expansion,0,-1,7.2,-1.0,21,0.0%
+407,Sailor Moon Crystal: Dice Challenge – Sailor Pluto Promo,0,-1,7.0,-1.0,8,0.0%
+408,Road to the White House,0,7769,6.2,-1.0,259,0.0%
+409,Rival Realms,0,6563,7.1,-1.0,131,0.0%
+410,Railways of the World: Nippon Expansion,0,-1,7.8,-1.0,35,0.0%
+411,Railways of the World: Event Deck,0,-1,7.5,-1.0,227,0.0%
+412,Railways of the Western U.S.,0,-1,8.0,-1.0,510,0.0%
+413,Railways of North America,0,-1,7.8,-1.0,220,0.0%
+414,Railways of Nippon,0,2926,7.7,-1.0,338,0.0%
+415,Railways of England and Wales,0,-1,7.9,9.0,721,0.0%
+416,Quarriors! X-Mas Promo Cards,0,-1,6.9,-1.0,80,0.0%
+417,Quarriors! Quest of the Qladiator,0,-1,7.3,-1.0,969,0.0%
+418,Quarriors! Quaxos Promo Cards,0,-1,6.5,-1.0,641,0.0%
+419,Quarriors! Quarmageddon: Multiplying Mischievous Imp Promo Card,0,-1,7.0,-1.0,158,0.0%
+420,Quarriors! Key Master Lord of the Quarry Promo Card,0,-1,6.8,-1.0,81,0.0%
+421,PÜNCT,0,1842,6.8,-1.0,1659,0.0%
+422,Power Grid: The New Power Plant Cards,0,-1,7.8,-1.0,3448,0.0%
+423,Power Grid: BGG Promo Card Set,0,-1,7.5,-1.0,602,0.0%
+424,Polis: Fight for the Hegemony – Promotional Events,0,-1,7.4,-1.0,24,0.0%
+425,Polis: Fight for the Hegemony,0,753,7.6,9.0,2100,0.0%
+426,Pirate Dice: Voyage on the Rolling Seas,0,5269,6.2,-1.0,534,0.0%
+427,Pirate Dice: Rough Waters Expansion,0,-1,6.3,-1.0,34,0.0%
+428,Pirate Dice: Capture the Treasure & Ghost Ship,0,-1,6.4,-1.0,20,0.0%
+429,Pictionary,0,4640,5.8,4.0,6898,0.0%
+430,Petite Pastiche: Extra Commissions #3,0,-1,7.1,-1.0,9,0.0%
+431,Petite Pastiche: Extra Commissions #2,0,-1,7.2,-1.0,11,0.0%
+432,Petite Pastiche: Extra Commissions #1,0,-1,7.1,-1.0,10,0.0%
+433,Paramedics: Clear! Gen Con 50 Stampede Promo,0,-1,7.4,-1.0,7,0.0%
+434,Alhambra: The City Gates,0,-1,7.1,-1.0,1027,0.0%
+435,Alhambra: The Vizier's Favor,0,-1,6.9,-1.0,1496,0.0%
+436,Outlive: Leader – Greg & Emmy,0,-1,7.8,-1.0,38,0.0%
+437,Othello,0,2754,6.1,5.0,7021,0.0%
+438,Ostrakon,0,11527,5.8,-1.0,184,0.0%
+439,Munchkin Promotional Bookmarks,0,-1,5.6,-1.0,265,0.0%
+440,The Newlywed Game,0,19703,4.8,-1.0,138,0.0%
+441,Nations: Mechanical Turk promo card,0,-1,7.1,-1.0,113,0.0%
+442,Nations: Nicola Tesla promo card,0,-1,7.0,-1.0,150,0.0%
+443,Nations: Kremlin promo card,0,-1,7.3,-1.0,117,0.0%
+444,Nations: Inspiration Promo Pack,0,-1,7.5,-1.0,119,0.0%
+445,Nations: Hagia Sophia promo card,0,-1,7.2,-1.0,138,0.0%
+446,Mystery Rummy: Murders in the Rue Morgue,0,2837,6.7,-1.0,805,0.0%
+447,Mystery Rummy: Jekyll & Hyde,0,2472,6.6,-1.0,1238,0.0%
+448,Mystery Rummy: Jack the Ripper,0,1074,6.9,-1.0,3316,0.0%
+449,Mystery Rummy: Escape from Alcatraz,0,3904,6.9,-1.0,365,0.0%
+450,Mystery Rummy: Al Capone and the Chicago Underworld,0,2695,6.8,-1.0,798,0.0%
+451,My Dwarves Fly,0,18384,5.5,-1.0,389,0.0%
+452,Musketeers,0,6452,6.1,-1.0,410,0.0%
+453,Musée,0,3860,6.8,-1.0,407,0.0%
+454,Munchkin Collectible Card Game: Booster,0,-1,7.2,-1.0,11,0.0%
+455,Monopoly,0,20278,4.4,-1.0,28927,0.0%
+456,Miscellaneous Game Accessory,0,4908,7.2,-1.0,221,0.0%
+457,Miscellaneous Card Game Accessory,0,-1,6.5,-1.0,12,0.0%
+458,Memoir '44: Winter Wars,0,-1,8.2,-1.0,807,0.0%
+459,Memoir '44: Winter 2007 Scenario,0,-1,7.3,7.0,107,0.0%
+460,Memoir '44: VE-Day Scenarios,0,-1,8.1,-1.0,56,0.0%
+461,Memoir '44: Tigers in the Snow,0,-1,7.9,-1.0,383,0.0%
+462,Memoir '44: The Vercors Campaign,0,-1,7.7,-1.0,160,0.0%
+463,Memoir '44: The Invasion of Crete,0,-1,8.0,-1.0,101,0.0%
+464,Memoir '44: Terrain Pack,0,-1,7.5,9.0,2100,0.0%
+465,Memoir '44: Operation Overlord,0,-1,7.7,-1.0,831,0.0%
+466,Memoir '44: New Flight Plan Bonus Scenarios,0,-1,8.8,-1.0,30,0.0%
+467,Memoir '44: New Flight Plan,0,-1,8.3,-1.0,271,0.0%
+468,Memoir '44: Mediterranean Theater,0,-1,7.9,9.0,1385,0.0%
+469,Memoir '44: Equipment Pack Bonus Scenarios,0,-1,8.0,-1.0,133,0.0%
+470,Memoir '44: Campaign Book Volume 1,0,-1,8.2,9.0,851,0.0%
+471,Memoir '44: Audie Murphy's Campaign,0,-1,8.0,-1.0,78,0.0%
+472,Mayfair Games' Limited Edition Promo Expansion Set #8,0,-1,6.8,-1.0,6,0.0%
+473,Mayfair Games' Limited Edition Promo Expansion Set #18,0,-1,6.7,-1.0,4,0.0%
+474,Catan World Championship Berlin 2014 Special,0,-1,6.7,-1.0,23,0.0%
+475,Mayfair Games' Limited Edition Promo Expansion Set #16,0,-1,6.0,-1.0,2,0.0%
+476,Mayfair Games' Limited Edition Promo Expansion Set #15,0,-1,7.8,-1.0,5,0.0%
+477,Mayfair Games' Limited Edition Promo Expansion Set #14,0,-1,6.3,-1.0,3,0.0%
+478,Mayfair Games' Limited Edition Promo Expansion Set #13,0,-1,7.7,-1.0,3,0.0%
+479,Mayfair Games' Limited Edition Promo Expansion Set #10,0,-1,7.3,-1.0,4,0.0%
+480,Mayfair Games Limited Edition Promo Expansion Set #5,0,-1,8.3,-1.0,7,0.0%
+481,Mayfair Games Limited Edition Promo Expansion Set #4,0,-1,7.3,-1.0,4,0.0%
+482,Mayfair Games Limited Edition Promo Expansion Set #3,0,-1,7.0,-1.0,4,0.0%
+483,Maori,0,2233,6.6,-1.0,1530,0.0%
+484,Magic: The Gathering – Arena of the Planeswalkers,0,2715,6.3,-1.0,2883,0.0%
+485,Mage Wars: Victorian Griffin Promo Card,0,-1,5.7,-1.0,3,0.0%
+486,Mage Wars: Sunfire Burst Promo Card,0,-1,7.0,-1.0,5,0.0%
+487,Mage Wars: Plagued Promo Card,0,-1,6.2,-1.0,12,0.0%
+488,Mage Wars: Leviathan Scale Armor Promo Card,0,-1,7.3,-1.0,7,0.0%
+489,Mage Wars: Kumanjaran Leopard Promo Card,0,-1,7.0,-1.0,7,0.0%
+490,Mage Wars: Holy Strike Promo Card,0,-1,6.2,-1.0,13,0.0%
+491,Mage Wars: Forged in Fire – Spell Tome Expansion,0,-1,8.1,-1.0,403,0.0%
+492,Mage Wars: Fire Elemental Promo Card,0,-1,6.9,-1.0,10,0.0%
+493,Mage Wars: Druid vs. Necromancer,0,-1,8.3,-1.0,759,0.0%
+494,Mage Wars: Dragonclaw Wolverine Promo Card,0,-1,6.7,-1.0,7,0.0%
+495,Mage Wars: Debilitate Promo Card,0,-1,6.2,-1.0,12,0.0%
+496,"Mage Wars: Asto Vidatu, Angel Slayer Promo Card",0,-1,7.0,-1.0,7,0.0%
+497,Mage Wars: Altar of the Iron Guard Promo Card,0,-1,6.4,-1.0,12,0.0%
+498,Mage Knight Board Game: Shades of Tezla Expansion,0,-1,8.0,-1.0,985,0.0%
+499,Mage Knight Board Game: Krang Character Expansion,0,-1,8.1,-1.0,1563,0.0%
+500,Lords & Ladies,0,6946,6.5,-1.0,216,0.0%
+501,Lord of the Rings: The Duel,0,5018,5.9,-1.0,1329,0.0%
+502,Letter Jam: Bonus Chip #9,0,-1,6.9,-1.0,38,0.0%
+503,League of Six: Loyal Retinue,0,-1,7.2,-1.0,280,0.0%
+504,Last Battle: Twilight – 2000,0,14861,6.2,-1.0,62,0.0%
+505,Lancaster: Big Box,0,-1,7.8,-1.0,435,0.0%
+506,Krakatoa,0,17887,5.5,-1.0,147,0.0%
+507,Kingdom Builder: Big Box,0,-1,7.6,-1.0,1014,0.0%
+508,King's Kilt,0,8652,6.1,-1.0,211,0.0%
+509,Key Largo,0,3059,6.6,6.0,844,0.0%
+510,Karesansui,0,5545,6.5,-1.0,293,0.0%
+511,Java,0,997,7.0,-1.0,3327,0.0%
+512,Inkognito,0,1696,6.6,-1.0,3050,0.0%
+513,Ikusa,0,883,7.0,6.0,4892,0.0%
+514,I'm the Boss!: The Card Game – Piece of the Action Expansion,0,-1,6.6,-1.0,10,0.0%
+515,I'm the Boss!: The Card Game,0,10208,5.9,-1.0,175,0.0%
+516,Hooyah: Navy Seals Card Game – Mission – Hostage Rescue Promo Card,0,-1,6.3,-1.0,11,0.0%
+517,Hooyah: Navy Seals Card Game,0,7466,6.3,-1.0,207,0.0%
+518,Heroscape: Arrival of the Master,0,-1,7.5,8.0,124,0.0%
+519,Heroscape Marvel: The Conflict Begins,0,1471,7.0,8.0,1848,0.0%
+520,Heroscape Expansion Set D3: Moltenclaw's Invasion,0,-1,7.8,-1.0,160,0.0%
+521,Le Havre: Le Grand Hameau,0,-1,7.8,-1.0,1103,0.0%
+522,Harald,0,6768,6.3,-1.0,236,0.0%
+523,Gunship: Mk II,0,-1,6.4,-1.0,14,0.0%
+524,Gunship: Green and White Carriers,0,-1,6.1,-1.0,10,0.0%
+525,Gunship: First Strike! X-perimental Weapons,0,-1,6.3,-1.0,22,0.0%
+526,Gunship: First Strike!,0,11798,5.9,-1.0,242,0.0%
+527,Gunship: Crewmates!,0,-1,6.1,-1.0,24,0.0%
+528,Gunship: Asteroids!,0,-1,6.1,-1.0,18,0.0%
+529,Gunship: Anti-Fighter Turret Promo,0,-1,6.4,-1.0,5,0.0%
+530,Golden Trivia Game: M*A*S*H Edition,0,17834,5.0,4.0,31,0.0%
+531,Go,0,171,7.6,-1.0,14810,0.0%
+532,Gloomhaven: Solo Scenarios,0,-1,8.6,9.0,673,0.0%
+533,Gloomhaven: Jaws of the Lion,0,7,8.9,9.0,7952,0.0%
+534,Gloomhaven: Forgotten Circles,0,-1,8.0,-1.0,1172,0.0%
+535,Glenn Drover's Empires: Galactic Rebellion Revenge or Redemption Expansion,0,-1,7.1,-1.0,12,0.0%
+536,Gentes: Deluxified Edition,0,-1,7.8,-1.0,1288,0.0%
+537,The Gallerist: KS Stretch Goal Pack #2,0,-1,7.7,8.0,245,0.0%
+538,Galaxy Trucker: The Big Expansion,0,-1,8.0,7.0,3114,0.0%
+539,Galaxy Trucker: Another Big Expansion,0,-1,8.1,7.0,1023,0.0%
+540,Fraud Squad,0,18924,4.1,-1.0,36,0.0%
+541,Francis Drake: The Expansions,0,-1,7.5,-1.0,185,0.0%
+542,For The Win: 3-4 Player Expansion,0,-1,6.5,-1.0,40,0.0%
+543,For The Win,0,9071,5.8,-1.0,482,0.0%
+544,Fleet: Wharfside Casino,0,-1,6.8,-1.0,94,0.0%
+545,Fleet: Salty Captains,0,-1,7.3,-1.0,110,0.0%
+546,Fleet: Nunavut Weather Authority,0,-1,6.5,-1.0,105,0.0%
+547,Fleet: Inuit Fisherman,0,-1,7.3,-1.0,109,0.0%
+548,Fleet Wharfside,0,3334,6.9,-1.0,494,0.0%
+549,Five Tribes: Wilwit,0,-1,7.3,-1.0,336,0.0%
+550,Five Tribes: Dhenim,0,-1,7.5,-1.0,529,0.0%
+551,Five Points: Gangs of New York – Flophouse,0,-1,6.3,-1.0,8,0.0%
+552,Fishing for Terrorists Version 2.0,0,18371,5.3,-1.0,98,0.0%
+553,Fantastiqa: Treasure Hunt Expansion,0,-1,7.9,-1.0,25,0.0%
+554,Fantastiqa: Special Delivery Expansion,0,-1,7.8,-1.0,26,0.0%
+555,Fantastiqa: Fantastic Events Expansion,0,-1,7.4,-1.0,35,0.0%
+556,Fantastiqa: The Rucksack Edition,0,1991,7.0,-1.0,1108,0.0%
+557,Fallout,0,1044,6.9,-1.0,5399,0.0%
+558,Fallen Land: Gen Con 2018 Promo Cards,0,-1,8.6,-1.0,10,0.0%
+559,Euchre,0,1596,6.8,8.0,2235,0.0%
+560,Epic Card Game,0,1909,6.5,-1.0,4292,0.0%
+561,Employee of the Month,0,19492,5.1,-1.0,188,0.0%
+562,Empires: Age of Discovery,0,571,7.9,10.0,1884,0.0%
+563,Elevenses for One,0,6942,6.2,-1.0,292,0.0%
+564,Electric Football,0,20043,4.8,6.0,231,0.0%
+565,Eggs and Empires Eggspansion,0,-1,7.0,-1.0,42,0.0%
+566,Eclipse: Rise of the Ancients – The Tractor Beam,0,-1,7.3,-1.0,235,0.0%
+567,Eclipse: Nebula,0,-1,7.7,-1.0,483,0.0%
+568,Eclipse: Minions of the Solstice,0,-1,7.1,-1.0,37,0.0%
+569,Eclipse: Elders of the Solstice,0,-1,7.0,-1.0,59,0.0%
+570,Dragonfire: Ranger Wood Elf Promo Card,0,-1,8.3,-1.0,7,0.0%
+571,Dominion: Walled Village Promo Card,0,-1,7.5,-1.0,1418,0.0%
+572,Dominion: Stash Promo Card,0,-1,7.3,-1.0,2176,0.0%
+573,Diplomacy,0,605,7.0,-1.0,12083,0.0%
+574,Dexikon,0,8797,6.3,-1.0,148,0.0%
+575,Desperados,0,16000,5.6,-1.0,346,0.0%
+576,Defenders of the Realm: Realm in Flames and Darkness Spreads,0,-1,7.4,-1.0,44,0.0%
+577,Defenders of the Realm: Battlefields – Scorpion Canyon and Karmak Sands,0,-1,5.6,-1.0,9,0.0%
+578,Defenders of the Realm: Battlefields – Greenleaf Village and Fire River,0,-1,5.9,-1.0,11,0.0%
+579,Defenders of the Realm: Battlefields – Elf Lord,0,-1,6.0,-1.0,5,0.0%
+580,Defenders of the Realm: Battlefields,0,10953,6.0,-1.0,161,0.0%
+581,Decktet,0,2605,7.5,-1.0,492,0.0%
+582,Cubist: The Attic,0,-1,6.8,-1.0,25,0.0%
+583,Cubist: Museum Expansion Pack,0,-1,7.3,-1.0,26,0.0%
+584,Cubist: Additional Installation Cards,0,-1,7.2,-1.0,24,0.0%
+585,Codenames: Bonus Pack – CGE Games,0,-1,6.8,-1.0,61,0.0%
+586,Codenames: Bonus Pack – Board Gaming (English),0,-1,7.0,-1.0,95,0.0%
+587,Codenames,0,93,7.6,-1.0,67424,0.0%
+588,The Club,0,20131,4.4,-1.0,243,0.0%
+589,Chimera & More,0,7340,7.5,-1.0,74,0.0%
+590,Checkers,0,20255,4.9,4.5,7160,0.0%
+591,Cheater,0,20134,4.1,-1.0,191,0.0%
+592,Caverna: Water Expansion,0,-1,7.3,-1.0,400,0.0%
+593,Caverna: Christmas Chamber,0,-1,6.7,-1.0,91,0.0%
+594,Caverna: Cave vs Cave,0,607,7.2,-1.0,5034,0.0%
+595,Catan: New England,0,-1,7.3,-1.0,19,0.0%
+596,Catan: Event Cards,0,-1,6.5,4.0,864,0.0%
+597,Catan: Catan Day 2015 Exclusive Expansion,0,-1,6.9,-1.0,29,0.0%
+598,Catan: Ancient Egypt,0,3651,7.3,-1.0,359,0.0%
+599,Catan Scenarios: Oil Springs,0,-1,6.8,-1.0,326,0.0%
+600,Catan Scenarios: Helpers of Catan,0,-1,7.2,-1.0,378,0.0%
+601,Catan Scenarios: Frenemies,0,-1,7.0,-1.0,209,0.0%
+602,Catan Histories: Merchants of Europe,0,3709,6.7,-1.0,546,0.0%
+603,Catan Geographies: The Carolinas,0,-1,6.9,-1.0,11,0.0%
+604,Catan Geographies: Settlers of Hesse,0,-1,7.0,-1.0,65,0.0%
+605,Catan Geographies: Rickshaw Run,0,-1,7.4,-1.0,11,0.0%
+606,Catan: Penn-Jersey,0,-1,7.2,-1.0,36,0.0%
+607,Catan Geographies: North Rhine – Westphalia,0,-1,7.1,-1.0,47,0.0%
+608,Catan: New York,0,-1,7.1,-1.0,35,0.0%
+609,Catan Geographies: Mallorca,0,-1,6.9,-1.0,42,0.0%
+610,Catan Geographies: Kennessee,0,-1,7.0,-1.0,3,0.0%
+611,Catan: Indiana & Ohio,0,-1,6.8,-1.0,80,0.0%
+612,Die Siedler von Catan: Hispania Edition,0,-1,6.9,-1.0,16,0.0%
+613,Catan: Hawaii (Szenario für Seefahrer),0,-1,8.3,-1.0,16,0.0%
+614,Catan Geographies: Germany,0,2950,6.9,-1.0,657,0.0%
+615,Catan Geographies: Georgia,0,-1,7.2,-1.0,10,0.0%
+616,Catan: Delmarva,0,-1,7.0,-1.0,39,0.0%
+617,Catan Geographies: Corsica,0,-1,7.5,-1.0,12,0.0%
+618,Catan Geographies: Bayern Edition,0,-1,6.9,-1.0,44,0.0%
+619,Catan Geographies: Austria,0,-1,7.1,-1.0,32,0.0%
+620,Catan Card Game: Barbarians & Traders Upgrade Kit,0,-1,7.0,-1.0,470,0.0%
+621,Catan Card Game: Artisans & Benefactors,0,-1,7.1,-1.0,343,0.0%
+622,CardFight!! Vanguard,0,9517,6.6,-1.0,150,0.0%
+623,Carcassonne: The River II,0,-1,7.2,-1.0,4234,0.0%
+624,Carcassonne: The Count of Carcassonne,0,-1,6.0,-1.0,3200,0.0%
+625,Carcassonne: Expansion 5 – Abbey & Mayor,0,-1,7.1,-1.0,4613,0.0%
+626,Can't Stop: Rollin' Down the Highway,0,-1,6.2,-1.0,76,0.0%
+627,Bridge,0,692,7.5,6.5,2887,0.0%
+628,Brass: 2-player board,0,-1,8.4,-1.0,44,0.0%
+629,Le Boomb!,0,20178,4.4,-1.0,343,0.0%
+630,Blockers! The Card Game,0,17080,5.5,-1.0,63,0.0%
+631,Battleship Galaxies,0,2680,6.6,-1.0,1206,0.0%
+632,BattleLore: Hill Giant,0,-1,7.2,-1.0,475,0.0%
+633,BattleLore: Earth Elemental,0,-1,7.1,7.0,493,0.0%
+634,BattleLore: Call to Arms,0,-1,7.3,-1.0,1161,0.0%
+635,Battle Hymn: Leatherneck,0,-1,7.9,7.0,163,0.0%
+636,Battle Hymn,0,2983,7.5,7.0,411,0.0%
+637,Battle Cry,0,849,7.2,-1.0,3422,0.0%
+638,Fluxx Promo Cards,0,-1,6.6,-1.0,282,0.0%
+639,Baseball Highlights: 2045 – Robot Hitters Expansion,0,-1,7.8,-1.0,141,0.0%
+640,Baseball Highlights: 2045 – Rally Cap Expansion,0,-1,7.8,-1.0,137,0.0%
+641,Baseball Highlights: 2045 – Naturals & Magna Glove Expansion,0,-1,7.8,-1.0,136,0.0%
+642,Baseball Highlights: 2045 – Cyborg Pitchers Expansion,0,-1,7.8,-1.0,137,0.0%
+643,Baseball Highlights: 2045 – Coaches Expansion,0,-1,7.3,-1.0,115,0.0%
+644,Bacchus' Banquet: New Years Celebration,0,-1,5.0,-1.0,1,0.0%
+645,Axis & Allies,0,1432,6.6,6.0,10290,0.0%
+646,Amerigo Queenie 3: Special Production Buildings and Tokens,0,-1,7.4,-1.0,182,0.0%
+647,American Carrom,0,8555,6.4,4.5,143,0.0%
+648,Ambush!: Silver Star,0,-1,7.6,7.0,312,0.0%
+649,Ambush!: Purple Heart,0,-1,7.7,7.0,419,0.0%
+650,Ambush!: Move Out!,0,-1,7.6,7.0,511,0.0%
+651,Ambush!,0,891,7.4,7.0,2183,0.0%
+652,Alhambra: Queenie 1 – The Magical Buildings,0,-1,7.3,-1.0,454,0.0%
+653,Alchemists: Ring of Favor,0,-1,7.6,-1.0,224,0.0%
+654,"Age of Steam Expansion: Vermont, New Hampshire & Central New England",0,-1,7.8,-1.0,102,0.0%
+655,Age of Steam Expansion: Time Traveler,0,-1,6.7,-1.0,35,0.0%
+656,Age of Steam Expansion: Southern US / Western US,0,-1,8.0,-1.0,25,0.0%
+657,Age of Steam Expansion: South America / South Africa,0,-1,8.0,-1.0,33,0.0%
+658,Age of Steam Expansion: Secret Blueprints of Steam Plans 1 & 2,0,-1,6.7,-1.0,41,0.0%
+659,Age of Steam Expansion: Moon and Berlin Wall,0,-1,8.2,-1.0,71,0.0%
+660,Age of Steam Expansion: Montréal Métro,0,-1,8.3,-1.0,127,0.0%
+661,Age of Steam Expansion: Mexico & China,0,-1,7.9,-1.0,75,0.0%
+662,Age of Steam Expansion: Germany & France,0,-1,7.9,-1.0,89,0.0%
+663,Age of Steam Expansion: Eastern US & Canada,0,-1,7.2,-1.0,28,0.0%
+664,"Age of Steam Expansion: 1867 Georgia Reconstruction, South Carolina & Oklahoma Land Rush",0,-1,7.6,-1.0,72,0.0%
+665,Age of Steam Expansion #1: England & Ireland,0,-1,8.1,-1.0,530,0.0%
+666,7 Wonders: Manneken Pis,0,-1,6.8,-1.0,2051,0.0%
+667,7 Wonders: Leaders – Stevie,0,-1,6.9,-1.0,1044,0.0%
+668,7 Wonders: Leaders – Louis,0,-1,7.0,-1.0,921,0.0%
+669,7 Wonders: Catan,0,-1,7.1,-1.0,1862,0.0%
+670,12 Days of Christmas,0,8943,6.0,-1.0,267,0.0%

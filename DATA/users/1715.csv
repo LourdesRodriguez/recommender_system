@@ -1,0 +1,805 @@
+,Game,Plays,BGG Rank,BGG Rating,Your Rating,Users Rating,Utilisation
+0,Terraforming Mars,12,4,8.4,9.0,64485,93.6%
+1,Up Front,7,552,7.9,10.0,2154,80.0%
+2,Advanced Squad Leader,7,316,8.0,9.0,3486,80.0%
+3,Pandemic,4,99,7.6,7.0,101865,60.1%
+4,W1815,3,2380,7.5,7.0,576,49.8%
+5,Tesla vs. Edison: War of Currents,2,2104,6.7,9.0,1455,36.9%
+6,South Pacific: Breaking the Bismarck Barrier 1942-1943,1,4720,7.9,9.0,151,20.5%
+7,Roll for the Galaxy,1,94,7.7,7.0,26342,20.5%
+8,Power Grid,1,39,7.9,8.0,56129,20.5%
+9,Khalkhin-Gol,1,-1,6.8,7.0,21,20.5%
+10,Imperial Stars II,1,7026,7.2,7.0,104,20.5%
+11,Here I Stand: 500th Anniversary Edition,1,1434,8.6,10.0,582,20.5%
+12,Great War Commander,1,2941,8.4,-1.0,301,20.5%
+13,For the People,1,927,7.7,8.0,1493,20.5%
+14,The Duke,1,561,7.4,-1.0,3773,20.5%
+15,Divided Republic,1,5756,6.7,7.0,223,20.5%
+16,Commands & Colors: Ancients,1,142,7.8,-1.0,7975,20.5%
+17,Combat Commander: Europe,1,156,7.9,7.0,5376,20.5%
+18,Brass: Lancashire,1,19,8.2,8.0,19333,20.5%
+19,Zorndorf,0,6867,7.5,-1.0,104,0.0%
+20,Zero!,0,3010,6.9,-1.0,593,0.0%
+21,Zeppelin Raider: Imperial German Naval Airships,0,7961,7.8,-1.0,80,0.0%
+22,Yardmaster Express,0,5928,5.8,-1.0,1185,0.0%
+23,Yanks: ASL Module 3a,0,-1,9.1,-1.0,139,0.0%
+24,World War I: 1914-1918,0,4323,6.8,-1.0,382,0.0%
+25,Wooden Ships & Iron Men,0,1403,7.0,7.5,1944,0.0%
+26,WO Bonus Pack: ASL Scenario Bonus Pack for Winter Offensive 2010,0,-1,8.1,-1.0,61,0.0%
+27,WO Bonus Pack #3: ASL Scenario Pack for Winter Offensive 2012,0,-1,7.8,-1.0,55,0.0%
+28,WO Bonus Pack #2: ASL Scenario Pack for Winter Offensive 2011,0,-1,7.9,-1.0,52,0.0%
+29,Winter Thunder: The Battle of the Bulge,0,-1,7.2,-1.0,23,0.0%
+30,Winter Offensive Bonus Pack #8: ASL Scenario Bonus Pack for Winter Offensive 2017,0,-1,8.3,-1.0,24,0.0%
+31,Winter Offensive Bonus Pack #7: ASL Scenario Bonus Pack for Winter Offensive 2016,0,-1,8.7,-1.0,32,0.0%
+32,Winter Offensive Bonus Pack #6: ASL Scenario Pack for Winter Offensive 2015,0,-1,8.6,-1.0,29,0.0%
+33,Winter Offensive Bonus Pack #5: ASL Scenario Pack for Winter Offensive 2014,0,-1,8.4,-1.0,34,0.0%
+34,Winter Offensive Bonus Pack #4: ASL Scenario Pack for Winter Offensive 2013,0,-1,8.2,-1.0,42,0.0%
+35,Winner's Circle,0,834,7.0,-1.0,5048,0.0%
+36,Wingspan,0,20,8.1,8.0,42672,0.0%
+37,Wings Over France,0,8799,7.5,-1.0,60,0.0%
+38,Wings of War: World War 1 – De Havilland D.H.4,0,-1,7.5,-1.0,3,0.0%
+39,Wings of War: Watch Your Back!,0,1547,7.0,-1.0,1765,0.0%
+40,Wings of War: Top Fighters Booster Pack,0,-1,7.3,-1.0,306,0.0%
+41,Wings of War: Recon Patrol Booster Pack,0,-1,7.3,-1.0,312,0.0%
+42,Wings of War: Immelmann Booster Pack,0,-1,7.4,-1.0,138,0.0%
+43,Wings of War: Hit & Run Booster Pack,0,-1,7.5,-1.0,56,0.0%
+44,Wings of War: Flight of the Giants,0,-1,7.6,-1.0,154,0.0%
+45,Wings of War: Fire from the Sky,0,3954,7.2,-1.0,319,0.0%
+46,Wings of War: Famous Aces,0,1064,6.9,-1.0,4616,0.0%
+47,Wings of War: Dogfight Booster Pack,0,-1,7.4,-1.0,138,0.0%
+48,Wings of War: Crossfire Booster Pack,0,-1,7.4,-1.0,59,0.0%
+49,Wings of War: Burning Drachens,0,1682,7.1,-1.0,1317,0.0%
+50,Wings of War: Balloon Busters,0,-1,7.5,-1.0,125,0.0%
+51,Wings of Glory: WW1 – Ace Cards Promo Pack,0,-1,8.1,-1.0,57,0.0%
+52,Wings of Glory: WW1 Rules and Accessories Pack,0,2358,8.0,-1.0,502,0.0%
+53,Wings of Glory: WW1 Duel Pack,0,4029,8.1,-1.0,217,0.0%
+54,Wings of Glory: WW1 Special Packs,0,-1,8.6,-1.0,61,0.0%
+55,Wings of Glory: World War 1 – Nieuport Ni.28,0,-1,8.6,-1.0,18,0.0%
+56,Wings of Glory: World War 1 – Hannover CL.IIIa,0,-1,8.7,-1.0,12,0.0%
+57,"Wilson's Creek: The West's First Fight, August 10, 1861",0,6800,6.6,-1.0,187,0.0%
+58,Wilderness War,0,823,7.7,-1.0,1682,0.0%
+59,Wild Blue Yonder,0,4188,7.9,-1.0,204,0.0%
+60,The White Tribe: Rhodesia's War 1966-1980,0,6006,8.3,-1.0,90,0.0%
+61,"White October: The Last Assault on Red Petrograd, October 1919",0,-1,7.0,-1.0,23,0.0%
+62,White Eagle Eastward,0,17984,5.4,-1.0,78,0.0%
+63,Where There Is Discord: War in the South Atlantic,0,2563,7.9,-1.0,403,0.0%
+64,What Price Glory?,0,8035,6.9,-1.0,89,0.0%
+65,A Week In Hell: The Battle of Hue,0,6554,7.1,-1.0,126,0.0%
+66,We Must Tell the Emperor: Expansion Kit,0,-1,7.5,-1.0,59,0.0%
+67,Waterloo Campaign 1815,0,7569,7.3,-1.0,82,0.0%
+68,Washington's Crossing,0,8975,7.6,-1.0,54,0.0%
+69,Warsaw: City of Ruins,0,1112,7.4,-1.0,1645,0.0%
+70,WarpWar,0,6712,6.3,-1.0,270,0.0%
+71,War Plan Crimson,0,-1,6.5,-1.0,4,0.0%
+72,War of the Worlds,0,12305,6.9,-1.0,32,0.0%
+73,War of 1812,0,2784,7.0,-1.0,637,0.0%
+74,War at Sea (Third Edition),0,7316,7.0,-1.0,104,0.0%
+75,Wallachia 20,0,-1,7.6,-1.0,23,0.0%
+76,Viva España: A Game of the Spanish Civil War – 1936-1939,0,13657,6.7,-1.0,40,0.0%
+77,Viticulture: Visit from the Rhine Valley,0,-1,8.3,-1.0,1110,0.0%
+78,Viticulture: Tuscany Essential Edition,0,-1,8.6,-1.0,5597,0.0%
+79,Viticulture Essential Edition,0,23,8.1,-1.0,29285,0.0%
+80,Virgin Queen,0,662,8.1,9.0,1555,0.0%
+81,Viking Raiders,0,6875,7.1,-1.0,120,0.0%
+82,Victory in the Pacific,0,1664,7.2,-1.0,1194,0.0%
+83,"A Victory Complete: The Battle of Tannenberg, 1914",0,7989,7.0,-1.0,81,0.0%
+84,Victory at Midway,0,5396,7.2,-1.0,168,0.0%
+85,Victoria Cross: The Battle of Rorke's Drift,0,5226,7.0,-1.0,211,0.0%
+86,The Very Best of March Madness (Vol. 1),0,-1,6.5,-1.0,2,0.0%
+87,Veracruz: U.S. Invasion of Mexico 1847,0,12377,6.0,-1.0,146,0.0%
+88,Valor & Victory,0,4382,7.7,-1.0,223,0.0%
+89,Union Pacific,0,668,7.2,-1.0,4173,0.0%
+90,Under the Lily Banners,0,3270,7.7,-1.0,306,0.0%
+91,Unconditional Surrender! World War 2 in Europe,0,1246,8.3,-1.0,824,0.0%
+92,Ulysses S. Grant's Early Battles,0,-1,7.0,-1.0,1,0.0%
+93,Ukraine '44,0,7114,7.5,-1.0,91,0.0%
+94,The U.S. Civil War,0,1870,8.3,-1.0,552,0.0%
+95,Twilight Struggle: Turn Zero and Promo Packs,0,-1,7.7,-1.0,78,0.0%
+96,Twilight Struggle,0,10,8.3,8.0,40694,0.0%
+97,Twilight of the Ottomans: World War I in the Middle East,0,9987,7.1,-1.0,53,0.0%
+98,Twilight of the Luftwaffe,0,-1,8.0,-1.0,6,0.0%
+99,Turning The Tide,0,-1,8.0,-1.0,58,0.0%
+100,Tunisia II,0,4016,8.5,-1.0,176,0.0%
+101,"Tri-Pack: Battles of the American Revolution – Guilford, Saratoga, Brandywine",0,4057,8.1,-1.0,198,0.0%
+102,Trenchzone Expansion: Tactical Advantage,0,-1,8.0,-1.0,11,0.0%
+103,Total Pacific Theater Pack I,0,-1,4.8,-1.0,5,0.0%
+104,Tobruk Expansion Pack 2: Benghazi Handicap,0,-1,7.6,-1.0,21,0.0%
+105,"Tobruk Expansion Pack 1: Wavell's 30,000",0,-1,7.9,-1.0,25,0.0%
+106,Time on Target: The Battle of the Bulge – 50th Anniversary,0,-1,8.0,-1.0,12,0.0%
+107,Tigers in the Mist: Ardennes Offensive,0,6518,6.9,-1.0,162,0.0%
+108,"Thunderbirds at War: Bombing the Reich, Jan. to Jun. 1943",0,-1,6.5,-1.0,18,0.0%
+109,Thunderbirds,0,1028,7.6,-1.0,1688,0.0%
+110,This Guilty Land,0,5201,7.6,-1.0,150,0.0%
+111,"This Accursed Civil War: The Battle of Cheriton, 1644",0,-1,6.6,-1.0,31,0.0%
+112,This Accursed Civil War,0,3729,7.6,-1.0,268,0.0%
+113,"Thirty Years War: Europe in Agony, 1618-1648",0,3147,6.9,-1.0,643,0.0%
+114,Thirty Years War Quad (Second Edition),0,7665,6.8,-1.0,105,0.0%
+115,They Fell Like Stones: Isandlwana,0,-1,7.5,-1.0,6,0.0%
+116,Texas Glory,0,5669,7.0,-1.0,181,0.0%
+117,Tesla vs. Edison: Powering Up!,0,-1,7.8,-1.0,358,0.0%
+118,Terraforming Mars: Venus Next,0,-1,7.6,-1.0,5505,0.0%
+119,Terraforming Mars: Turmoil,0,-1,7.7,-1.0,2659,0.0%
+120,Terraforming Mars: Snow Algae Promo Card,0,-1,7.8,-1.0,886,0.0%
+121,Terraforming Mars: Small Asteroid Promo Card,0,-1,7.8,-1.0,1026,0.0%
+122,Terraforming Mars: Self Replicating Robots Promo Card,0,-1,7.7,-1.0,838,0.0%
+123,Terraforming Mars: Prelude,0,-1,8.8,-1.0,8372,0.0%
+124,Terraforming Mars: Penguins Promo Card,0,-1,7.9,-1.0,937,0.0%
+125,Terraforming Mars: Hellas & Elysium,0,-1,8.4,-1.0,7069,0.0%
+126,Terraforming Mars: Colonies,0,-1,8.2,-1.0,4265,0.0%
+127,Terraforming Mars: BGG User-Created Corporation Pack,0,-1,7.9,-1.0,624,0.0%
+128,"""Tarleton's Quarter!""",0,11051,7.0,-1.0,44,0.0%
+129,Target: Iran,0,12347,6.8,-1.0,35,0.0%
+130,Target for Today,0,3412,8.0,-1.0,322,0.0%
+131,Target Arnhem: Across 6 Bridges,0,4802,6.5,-1.0,402,0.0%
+132,Table Battles,0,4456,7.1,-1.0,258,0.0%
+133,Sword of Rome,0,1201,7.3,-1.0,1556,0.0%
+134,Swing States 2012,0,7941,7.0,-1.0,103,0.0%
+135,Swedish Volunteers,0,-1,8.7,-1.0,14,0.0%
+136,Sweden Fights On,0,3978,7.7,-1.0,215,0.0%
+137,The Sun Never Sets volume II,0,-1,7.2,-1.0,27,0.0%
+138,Sucking Vacuum,0,16371,5.6,-1.0,448,0.0%
+139,A Study in Emerald,0,827,7.2,8.0,3120,0.0%
+140,Struggle of Empires,0,479,7.5,7.0,3798,0.0%
+141,Strike of the Eagle,0,1919,7.6,-1.0,698,0.0%
+142,Storm Over Taierzhuang,0,10233,6.6,-1.0,77,0.0%
+143,"Storm Over Madrid 1936: ""Miracle of November""",0,-1,7.1,-1.0,25,0.0%
+144,"Storm Over Kunlun Pass, 1939",0,-1,6.6,-1.0,27,0.0%
+145,Stellar Horizons,0,4550,8.1,-1.0,169,0.0%
+146,Steam,0,186,7.6,-1.0,9546,0.0%
+147,Star Wars: X-Wing Miniatures Game – Y-Wing Expansion Pack,0,-1,7.8,-1.0,1816,0.0%
+148,Star Wars: X-Wing Miniatures Game – X-Wing Expansion Pack,0,-1,7.9,-1.0,1605,0.0%
+149,Star Wars: X-Wing Miniatures Game – TIE Phantom Expansion Pack,0,-1,8.1,-1.0,782,0.0%
+150,Star Wars: X-Wing Miniatures Game – TIE Interceptor Expansion Pack,0,-1,8.0,-1.0,1483,0.0%
+151,Star Wars: X-Wing Miniatures Game – TIE Fighter Expansion Pack,0,-1,7.8,-1.0,1468,0.0%
+152,Star Wars: X-Wing Miniatures Game – TIE Advanced Expansion Pack,0,-1,7.8,-1.0,1965,0.0%
+153,Star Wars: X-Wing Miniatures Game – Slave I Expansion Pack,0,-1,8.0,-1.0,1661,0.0%
+154,Star Wars: X-Wing Miniatures Game – Millennium Falcon Expansion Pack,0,-1,8.1,-1.0,2060,0.0%
+155,Star Wars: X-Wing Miniatures Game – HWK-290 Expansion Pack,0,-1,7.5,-1.0,939,0.0%
+156,Star Wars: Rebellion,0,9,8.4,8.0,22983,0.0%
+157,St. Nazaire: Operation Chariot,0,-1,8.5,-1.0,27,0.0%
+158,Special Ops Issue #6,0,-1,7.1,-1.0,12,0.0%
+159,Special Ops Issue #5,0,-1,7.0,-1.0,14,0.0%
+160,Special Ops Issue #4,0,-1,7.3,-1.0,12,0.0%
+161,Special Ops Issue #3,0,-1,7.2,-1.0,20,0.0%
+162,Special Ops Issue #2,0,-1,7.4,-1.0,16,0.0%
+163,Special Ops Issue #1,0,-1,7.6,-1.0,19,0.0%
+164,Special Forces II: Küstenjäger!,0,-1,8.4,-1.0,5,0.0%
+165,"Spanish Civil War Battles: Belchite, Teruel & Alfambra",0,-1,7.4,-1.0,17,0.0%
+166,Spanish Civil War Battles: Vol. 2 – Guadalajara & Penarroya,0,18412,5.0,-1.0,54,0.0%
+167,The Spanish Civil War,0,-1,5.6,-1.0,5,0.0%
+168,Space 1889 Adversaries,0,-1,8.0,-1.0,6,0.0%
+169,Solitaire ASL,0,-1,7.6,-1.0,337,0.0%
+170,Soldier King,0,12540,5.9,-1.0,117,0.0%
+171,Smokejumpers,0,9117,6.6,-1.0,92,0.0%
+172,Smithereens: The End of World War II in Europe,0,11956,6.5,-1.0,55,0.0%
+173,Slouch Hats and Eggshells: The Allied Invasion of Syria & Lebanon – 1941,0,10330,7.1,-1.0,50,0.0%
+174,Sky Galleons of Mars,0,6631,6.7,7.0,169,0.0%
+175,Singling Campaign,0,-1,8.3,-1.0,34,0.0%
+176,"The Siege of Orgun: Afghanistan, 1983",0,7683,7.7,-1.0,71,0.0%
+177,Siege at Peking,0,14700,6.0,-1.0,66,0.0%
+178,Siege,0,4196,7.0,-1.0,324,0.0%
+179,Sideshow: The Campaign for German East Africa 1914-1918,0,10699,6.2,-1.0,106,0.0%
+180,Shock Army,0,-1,6.7,-1.0,5,0.0%
+181,Shining Path: The Struggle for Peru,0,-1,6.9,-1.0,29,0.0%
+182,"Shiloh: Bloody April, 1862",0,14685,6.3,-1.0,30,0.0%
+183,A Sheer Butchery: Solferino 1859,0,-1,7.3,-1.0,25,0.0%
+184,Shakespeare: Prospero,0,-1,7.5,-1.0,94,0.0%
+185,Shakespeare: Backstage,0,-1,7.9,-1.0,476,0.0%
+186,Shakespeare,0,515,7.4,-1.0,3820,0.0%
+187,"Setting Sun, Rising Sun: The Russo-Japanese War",0,-1,6.3,-1.0,15,0.0%
+188,Sergeants Miniatures Game: Saint-Côme-du-Mont Expansion,0,-1,8.5,-1.0,11,0.0%
+189,Sergeants Miniatures Game: Road to Carentan,0,-1,8.0,-1.0,61,0.0%
+190,Sergeants Miniatures Game: Red Devils,0,9155,7.9,-1.0,44,0.0%
+191,Sergeants Miniatures Game: Pontigou Farm Normandy Expansion,0,-1,8.0,-1.0,15,0.0%
+192,Sergeants Miniatures Game: Pegasus Bridge Expansion,0,-1,8.1,-1.0,7,0.0%
+193,Sergeants Miniatures Game: Operation Tonga Expansion,0,-1,8.2,-1.0,11,0.0%
+194,Sergeants Miniatures Game: La Fière Bridge,0,-1,7.9,-1.0,24,0.0%
+195,Sergeants Miniatures Game: Hasty Positions Normandy Expansion,0,-1,8.0,-1.0,23,0.0%
+196,Sergeants Miniatures Game: Expansion Squads and Leaders,0,-1,7.9,-1.0,25,0.0%
+197,Sergeants Miniatures Game: Day of Days,0,4099,7.7,-1.0,241,0.0%
+198,Schwerpunkt: Volume 7,0,-1,7.9,-1.0,11,0.0%
+199,Schwerpunkt: Volume 4,0,-1,8.1,-1.0,14,0.0%
+200,Schwerpunkt: Volume 21,0,-1,6.0,-1.0,1,0.0%
+201,Schwerpunkt: Volume 19,0,-1,9.5,-1.0,4,0.0%
+202,Schwerpunkt: Volume 16,0,-1,8.3,-1.0,8,0.0%
+203,Schwerpunkt: Volume 15,0,-1,7.4,-1.0,9,0.0%
+204,Schwerpunkt: Volume 14,0,-1,7.7,-1.0,7,0.0%
+205,Schwerpunkt: Volume 12,0,-1,7.6,-1.0,9,0.0%
+206,Schwerpunkt: Volume 10,0,-1,8.1,-1.0,15,0.0%
+207,Schwerpunkt: Volume 1,0,-1,7.8,-1.0,16,0.0%
+208,Savannah,0,6879,6.9,-1.0,134,0.0%
+209,Savage Streets,0,12035,6.3,-1.0,56,0.0%
+210,Saratoga: 1777 – Burgoyne vs Gates,0,16738,5.4,-1.0,36,0.0%
+211,Saratoga,0,3545,7.1,-1.0,375,0.0%
+212,Samurai Sunset,0,13451,6.4,-1.0,41,0.0%
+213,Samurai Blades: The Game of Man-to-Man Combat in Feudal Japan,0,7155,6.7,-1.0,151,0.0%
+214,Saints in Armor,0,3749,8.0,-1.0,214,0.0%
+215,Sails of Glory: Captain and Crew Ability Deck,0,-1,7.9,-1.0,18,0.0%
+216,Sails of Glory Special Ship Pack: USS Constitution,0,-1,8.4,-1.0,23,0.0%
+217,Sails of Glory Special Ship Pack: HMS Victory,0,-1,8.4,-1.0,27,0.0%
+218,Sails of Glory Ship Pack: Thorn 1779 / USS Atlanta 1781,0,-1,7.2,-1.0,16,0.0%
+219,Sails of Glory Ship Pack: Proserpine 1785 / Dryade 1783,0,-1,7.7,-1.0,17,0.0%
+220,Sails of Glory Ship Pack: Le Berwick 1795 / Le Swiftsure 1801,0,-1,7.9,-1.0,23,0.0%
+221,Sails of Glory Ship Pack: La Concorde 1777 / Junon 1778,0,-1,8.2,-1.0,9,0.0%
+222,Sails of Glory Ship Pack: HMS Sybille 1794 / HMS Amelia 1796,0,-1,7.5,-1.0,14,0.0%
+223,Sails of Glory Ship Pack: HMS Swan 1767 / HMS Fairy 1778,0,-1,7.6,-1.0,19,0.0%
+224,Sails of Glory Ship Pack: HMS Juno 1780 / HMS Castor 1785,0,-1,8.1,-1.0,9,0.0%
+225,Sails of Glory Ship Pack: HMS Concorde 1783 / HMS Unite 1796,0,-1,7.6,-1.0,21,0.0%
+226,Sails of Glory Ship Pack: HMS Cleopatra 1779 / HMS Iphigenia 1780,0,-1,8.0,-1.0,22,0.0%
+227,Sails of Glory Ship Pack: HMS Bellona 1760 / HMS Goliath 1781,0,-1,8.1,-1.0,18,0.0%
+228,Sails of Glory Ship Pack: HMS Bellerophon 1786 / HMS Defiance 1783,0,-1,8.0,-1.0,12,0.0%
+229,Sails of Glory Ship Pack: Hermione 1779 / L'Inconstante 1786,0,-1,7.9,-1.0,21,0.0%
+230,Sails of Glory Ship Pack: Fougueux 1785 / Redoutable 1791,0,-1,8.0,-1.0,12,0.0%
+231,Sails of Glory Ship Pack: Embuscade 1798 / Le Succes 1801,0,-1,8.0,-1.0,16,0.0%
+232,Sails of Glory Ship Pack: Commerce de Bordeaux 1785 / Duguay-Trouin 1788,0,-1,8.0,-1.0,24,0.0%
+233,Sails of Glory Ship Pack: Carmagnole 1793 / Sibylle 1791,0,-1,7.9,-1.0,13,0.0%
+234,Sails of Glory Ship Pack: Alligator 1782 / Le Fortune 1780,0,-1,7.7,-1.0,16,0.0%
+235,Sails of Glory,0,1653,7.5,-1.0,994,0.0%
+236,Safe Return Doubtful,0,14036,6.0,-1.0,56,0.0%
+237,The Russian Campaign: Southern Expansion Kit,0,-1,7.5,-1.0,37,0.0%
+238,Roundhammer 1943,0,-1,7.7,-1.0,44,0.0%
+239,Root: The Underworld Expansion,0,-1,8.8,-1.0,1289,0.0%
+240,Root: The Riverfolk Expansion,0,-1,8.5,-1.0,3620,0.0%
+241,Root: The Exiles and Partisans Deck,0,-1,8.7,-1.0,528,0.0%
+242,Root: The Clockwork Expansion,0,-1,8.2,-1.0,553,0.0%
+243,Root,0,28,8.1,8.0,24064,0.0%
+244,Rommel's War,0,8798,7.3,-1.0,65,0.0%
+245,Rommel in the Desert,0,1483,7.5,-1.0,988,0.0%
+246,Roll for the Galaxy: Ambition,0,-1,8.1,-1.0,3144,0.0%
+247,Rockets Red Glare,0,-1,5.9,-1.0,27,0.0%
+248,The Road to Cheren,0,6774,7.6,-1.0,87,0.0%
+249,Rivers to the Reich,0,-1,8.0,-1.0,31,0.0%
+250,Rising Sun: ASL Module 13,0,-1,9.1,-1.0,176,0.0%
+251,Rise of the Luftwaffe,0,3069,7.1,-1.0,519,0.0%
+252,Rifles in the Ardennes,0,8811,7.2,-1.0,78,0.0%
+253,Riesenflugzeugabteilungen,0,-1,6.4,-1.0,18,0.0%
+254,Richthofen's War,0,5866,6.0,-1.0,828,0.0%
+255,Richard III: The Wars of the Roses,0,1781,7.4,-1.0,882,0.0%
+256,"Reichswehr & Freikorps: If the Red Army Invaded Germany, 1920",0,-1,6.5,-1.0,26,0.0%
+257,Reds! The Russian Civil War 1918-1921,0,3071,7.3,-1.0,459,0.0%
+258,"Red Typhoon: The Soviet Winter Counter-Offensive, 1942",0,7375,7.7,-1.0,73,0.0%
+259,"Red Sun/Red Star: The Nomonhan Campaign, 1939",0,14923,5.9,-1.0,61,0.0%
+260,"Red Star/White Eagle: The Russo-Polish War, 1920 – Designer Signature Edition",0,9691,7.8,-1.0,38,0.0%
+261,"Red Star/White Eagle: The Russo-Polish War, 1920",0,7819,7.7,-1.0,72,0.0%
+262,Red Factories: ASL Historical Module 10 (2019),0,-1,9.2,-1.0,76,0.0%
+263,Recon...by Fire: Issue 4,0,-1,7.4,-1.0,10,0.0%
+264,Recon... by Fire! Issue #1,0,-1,7.6,-1.0,8,0.0%
+265,Recon by Fire: Issue 2,0,-1,7.4,-1.0,7,0.0%
+266,Rebels & Redcoats: Volume III,0,12552,6.6,-1.0,42,0.0%
+267,Rebels & Redcoats: Volume II,0,13008,6.5,-1.0,45,0.0%
+268,Rebels & Redcoats: Volume I,0,12373,6.3,-1.0,58,0.0%
+269,Rebel Raiders on the High Seas,0,5455,7.1,-1.0,180,0.0%
+270,Raphia,0,14822,5.8,-1.0,66,0.0%
+271,Rally Point Volume 8: Sons of the Rising Sun,0,-1,7.7,-1.0,6,0.0%
+272,Rally Point Volume 7: Schwerpunkt's Greatest Hits,0,-1,7.2,-1.0,6,0.0%
+273,Rally Point Volume 6: Advanced Squad Leader Starter Kit Special Study II,0,-1,7.5,-1.0,18,0.0%
+274,Rally Point Volume 5: The Thunderbird Pack,0,-1,8.0,-1.0,6,0.0%
+275,Rally Point Volume 4,0,-1,8.0,-1.0,6,0.0%
+276,Rally Point Volume 2: Advanced Squad Leader Starter Kit Special Study,0,-1,7.7,-1.0,30,0.0%
+277,Rally Point Volume 1: Axis Minor Special Study,0,-1,7.8,-1.0,10,0.0%
+278,Rally Point 12: Schwerpunkt's Greatest Hits II,0,-1,8.0,-1.0,1,0.0%
+279,Railways of North America,0,-1,7.8,-1.0,220,0.0%
+280,Railways of Mexico,0,-1,7.8,-1.0,319,0.0%
+281,Railways of Europe,0,-1,8.1,-1.0,1889,0.0%
+282,Raiders of the North Sea: The Mico Promo,0,-1,7.8,-1.0,179,0.0%
+283,Raiders of the North Sea: Solo Variant,0,-1,8.2,-1.0,382,0.0%
+284,Raiders of the North Sea: Outsiders,0,-1,7.8,-1.0,137,0.0%
+285,Raiders of the North Sea: Jarl Promo,0,-1,7.6,-1.0,84,0.0%
+286,Raiders of the North Sea: Hall of Heroes,0,-1,8.2,-1.0,2193,0.0%
+287,Raiders of the North Sea: Garphill Games 5-Year Anniversary Promo Cards,0,-1,8.0,-1.0,72,0.0%
+288,Raiders of the North Sea: Fields of Fame,0,-1,8.1,-1.0,1763,0.0%
+289,Raiders of the North Sea,0,91,7.8,7.5,15886,0.0%
+290,Raiders of the North,0,-1,2.0,-1.0,1,0.0%
+291,Race to the Meuse,0,15300,5.9,-1.0,61,0.0%
+292,Race For Tunis,0,8962,6.5,-1.0,111,0.0%
+293,Race for Berlin: The Final Struggle,0,8495,7.1,-1.0,94,0.0%
+294,Qui ose gagne,0,-1,6.4,-1.0,16,0.0%
+295,Purple Heart Draw,0,-1,8.2,-1.0,17,0.0%
+296,"The Punic Wars: Rome vs Carthage, 264-146 B.C.",0,10152,6.1,-1.0,161,0.0%
+297,Prussia's Glory: The Battles of Frederick the Great,0,6541,6.7,-1.0,168,0.0%
+298,Prussia's Glory II: Four Battles of the Seven Years War,0,6405,7.0,-1.0,139,0.0%
+299,Prussia's Defiant Stand,0,6559,6.9,-1.0,143,0.0%
+300,Prussia 20,0,-1,7.9,-1.0,57,0.0%
+301,Primosole Bridge: ASL Journal 6 Historical Module,0,-1,7.9,-1.0,56,0.0%
+302,Primera Batalla,0,-1,0.0,-1.0,0,0.0%
+303,PQ-17: Arctic Naval Operations 1941-1943,0,4916,7.4,-1.0,208,0.0%
+304,Power Grid: Warehouse,0,-1,7.2,-1.0,349,0.0%
+305,Power Grid: Transformer Station,0,-1,7.5,-1.0,521,0.0%
+306,Power Grid: Theme Park,0,-1,7.4,-1.0,282,0.0%
+307,Power Grid: The Robots,0,-1,7.1,-1.0,1199,0.0%
+308,Power Grid: The New Power Plant Cards,0,-1,7.8,-1.0,3448,0.0%
+309,Power Grid: Taxes,0,-1,6.8,-1.0,250,0.0%
+310,Power Grid: Supply Contract,0,-1,7.1,-1.0,255,0.0%
+311,Power Grid: Russia & Japan,0,-1,7.9,-1.0,1446,0.0%
+312,Power Grid: Oracle & Industrial Espionage,0,-1,6.8,-1.0,191,0.0%
+313,Power Grid: Northern Europe/United Kingdom & Ireland,0,-1,7.9,-1.0,982,0.0%
+314,Power Grid: France/Italy,0,-1,7.9,-1.0,3081,0.0%
+315,Power Grid: Flux Generator,0,-1,7.4,-1.0,603,0.0%
+316,Power Grid: China/Korea,0,-1,8.0,-1.0,2757,0.0%
+317,Power Grid: Brazil/Spain & Portugal,0,-1,7.9,-1.0,1574,0.0%
+318,Power Grid: BGG Promo Card Set,0,-1,7.5,-1.0,602,0.0%
+319,Power Grid: Benelux/Central Europe,0,-1,8.0,-1.0,3082,0.0%
+320,Power Grid: Australia & Indian Subcontinent,0,-1,8.0,-1.0,675,0.0%
+321,Popular Front,0,4343,7.1,-1.0,277,0.0%
+322,Poland in Flames,0,-1,8.6,-1.0,34,0.0%
+323,Platoon Forward!: A Dynamic Campaign System for Tactical Level Games,0,-1,8.7,-1.0,6,0.0%
+324,Plan Orange: Pacific War 1932 – 1935,0,5286,7.6,9.0,141,0.0%
+325,The Picrocholine Wars,0,-1,6.9,-1.0,29,0.0%
+326,Phantom Fury,0,6176,7.5,-1.0,114,0.0%
+327,Peter the Great,0,8930,6.6,-1.0,103,0.0%
+328,Pensacola,0,7227,7.4,-1.0,95,0.0%
+329,Pemberton & Grant: Vicksburg Campaign of 1863,0,-1,7.6,-1.0,29,0.0%
+330,Pegasus Bridge: ASL Historical Module 4,0,-1,8.1,-1.0,319,0.0%
+331,Pea Ridge: The Gettysburg of the West March 7-8 1862,0,5617,7.2,-1.0,162,0.0%
+332,Pax Transhumanity,0,1926,7.7,-1.0,642,0.0%
+333,Pax Renaissance: BGG Promo Pack,0,-1,8.2,-1.0,79,0.0%
+334,Pax Renaissance,0,517,8.0,-1.0,1892,0.0%
+335,Pax Porfiriana,0,464,7.7,9.0,2981,0.0%
+336,Pax Pamir: Second Edition,0,77,8.4,-1.0,4264,0.0%
+337,Pax Pamir: Khyber Knives,0,-1,8.3,-1.0,132,0.0%
+338,Pax Pamir,0,1390,7.6,-1.0,1061,0.0%
+339,Paul Koenig's The Bulge: 6th Panzer Army,0,9130,7.2,-1.0,57,0.0%
+340,Patton's First Victory: Tunisia,0,9889,7.1,-1.0,52,0.0%
+341,Paths of Glory,0,153,8.1,-1.0,4522,0.0%
+342,PARKS: Nightfall Expansion,0,-1,8.4,-1.0,439,0.0%
+343,PARKS,0,140,7.9,-1.0,7073,0.0%
+344,Pandemic: The Cure,0,361,7.3,-1.0,9373,0.0%
+345,Pandemic: On the Brink,0,-1,8.1,-1.0,16131,0.0%
+346,Pandemic: In the Lab,0,-1,7.9,-1.0,4736,0.0%
+347,"Pancho Villa, Dead or Alive!",0,-1,6.1,-1.0,19,0.0%
+348,Pan Am,0,1175,7.8,-1.0,1090,0.0%
+349,Pacific Victory: War in the Pacific 1941-45,0,3809,6.9,-1.0,400,0.0%
+350,Pacific Typhoon,0,3068,6.6,-1.0,780,0.0%
+351,"Pacific Fury: Guadalcanal, 1942",0,7440,7.4,9.0,90,0.0%
+352,"Pacific Battles: Nomonhan, 1939",0,-1,4.9,-1.0,14,0.0%
+353,Outremer,0,7573,7.0,-1.0,96,0.0%
+354,Out of the Bunker,0,-1,8.2,-1.0,28,0.0%
+355,Out of the Attic: Issue One,0,-1,7.9,-1.0,36,0.0%
+356,Out of the Attic: Issue #2,0,-1,8.3,-1.0,58,0.0%
+357,Ottoman Sunset: The Great War in the Near East,0,2402,7.3,-1.0,634,0.0%
+358,Ost Front 3,0,-1,7.0,-1.0,1,0.0%
+359,Operations Special Issue #3,0,-1,7.7,-1.0,10,0.0%
+360,Operations Special Issue #2,0,-1,7.9,-1.0,9,0.0%
+361,Operations Special Issue #1,0,-1,7.5,-1.0,15,0.0%
+362,Operation Whirlwind: Budapest – November 1956,0,13924,6.5,-1.0,30,0.0%
+363,"Operation Pedestal: Malta Convoy, August 1942",0,-1,7.1,-1.0,9,0.0%
+364,"Operation Anaconda: Battle in Afghanistan, March 2002",0,12282,6.8,-1.0,35,0.0%
+365,Oil War: Iran Strikes,0,13429,6.6,-1.0,31,0.0%
+366,Ogre: BGG Exclusive Overlays Sponsored Counter Sheets,0,-1,7.2,-1.0,58,0.0%
+367,Ogre: BGG 3-D Units Sponsored Counter Sheet,0,-1,7.4,-1.0,66,0.0%
+368,Ogre: ACD Distribution Sponsored Counter Sheet,0,-1,7.1,-1.0,26,0.0%
+369,Obsession: Promotional Cards,0,-1,8.1,-1.0,63,0.0%
+370,Obsession,0,506,8.2,9.0,1785,0.0%
+371,Objective: Schmidt,0,-1,8.8,-1.0,12,0.0%
+372,Not War But Murder,0,5748,7.1,-1.0,165,0.0%
+373,¡No Pasaran!: Mallorca 1936,0,-1,7.3,-1.0,6,0.0%
+374,¡No Pasaran!: La Quinta del Biberon – Balaguer 1938,0,-1,7.4,-1.0,5,0.0%
+375,¡No Pasaran!,0,-1,6.1,-1.0,4,0.0%
+376,Night Drop 2: Pegasus Bridge,0,10234,7.6,-1.0,39,0.0%
+377,Ney vs. Wellington: The Battle of Quatre Bras,0,5179,6.9,-1.0,238,0.0%
+378,The Next War in Lebanon,0,-1,6.8,-1.0,21,0.0%
+379,Newtown,0,8090,7.3,-1.0,81,0.0%
+380,New Bedford: White Whale Promo,0,-1,7.4,-1.0,95,0.0%
+381,New Bedford: Rising Tide,0,-1,7.4,-1.0,344,0.0%
+382,New Bedford,0,1361,7.1,-1.0,1716,0.0%
+383,Neither Fear Nor Hope!,0,-1,7.2,-1.0,13,0.0%
+384,Neanderthal,0,1240,7.4,-1.0,1418,0.0%
+385,"NATO, Nukes & Nazis",0,8844,7.0,-1.0,73,0.0%
+386,The Napoleonic Wars,0,2598,7.0,-1.0,754,0.0%
+387,Napoleonic 20 Expansion Kit (with Hanau 20),0,-1,8.6,-1.0,9,0.0%
+388,Napoleon's War: Battle Pack II – America's War,0,-1,6.5,-1.0,28,0.0%
+389,Napoleon at Waterloo,0,4130,6.6,7.0,485,0.0%
+390,Murfreesboro: A Game of the Battle of Stones River,0,14738,6.3,-1.0,35,0.0%
+391,The Mule Shoe Salient,0,-1,6.3,-1.0,4,0.0%
+392,Mr. Madison's War: The Incredible War of 1812,0,4051,7.5,-1.0,251,0.0%
+393,Mr. Jack Extension,0,-1,7.2,-1.0,1157,0.0%
+394,"A Most Dangerous Time: Japan in Chaos, 1570-1584",0,3637,7.4,-1.0,326,0.0%
+395,Monmouth,0,4022,7.4,-1.0,254,0.0%
+396,Modern Art,0,221,7.4,-1.0,16670,0.0%
+397,"Moby Dick, or, The Card Game",0,14881,5.6,-1.0,190,0.0%
+398,Mini WWII,0,6688,7.3,-1.0,120,0.0%
+399,Merchant of Venus (Second Edition),0,776,7.2,-1.0,3588,0.0%
+400,The End of Abd-el-Krim: Morocco 1926,0,-1,6.5,-1.0,17,0.0%
+401,Memoir '44: Winter Wars,0,-1,8.2,-1.0,807,0.0%
+402,Memoir '44: Terrain Pack,0,-1,7.5,-1.0,2100,0.0%
+403,Memoir '44: Sword of Stalingrad,0,-1,8.0,-1.0,410,0.0%
+404,Memoir '44: Pacific Theater,0,-1,7.9,-1.0,1952,0.0%
+405,Memoir '44: Operation Overlord,0,-1,7.7,-1.0,831,0.0%
+406,Memoir '44: Eastern Front,0,-1,8.0,-1.0,2769,0.0%
+407,Memoir '44: Breakthrough,0,-1,8.2,-1.0,740,0.0%
+408,Med Sirocco,0,13723,6.6,-1.0,33,0.0%
+409,Mayfair Games' Limited Edition Promo Expansion Set #6,0,-1,7.8,-1.0,6,0.0%
+410,Mayfair Games' Limited Edition Promo Expansion Set #19,0,-1,7.0,-1.0,10,0.0%
+411,Mayfair Game Variants & Mini-Expansions Set #1,0,-1,7.6,-1.0,9,0.0%
+412,March Madness '97: Tournament Scenario Pack,0,-1,7.3,-1.0,4,0.0%
+413,Manoeuvre,0,911,7.3,-1.0,2327,0.0%
+414,Malta Under Siege: 1940-1942,0,-1,7.6,-1.0,8,0.0%
+415,Malta Besieged: 1940-1942,0,7139,7.5,-1.0,81,0.0%
+416,The Magnates: A Game of Power,0,3490,6.8,-1.0,587,0.0%
+417,Luftschiff,0,8830,7.1,-1.0,73,0.0%
+418,Lost Battles: Forty Battles & Campaigns of the Ancient World,0,4206,7.9,-1.0,193,0.0%
+419,Long Range Desert Group: Special Operations Against Rommel 1941-1942,0,14331,6.1,-1.0,67,0.0%
+420,London (Second Edition),0,336,7.6,-1.0,4419,0.0%
+421,Lock 'n Load: Noville – Bastogne's Outpost,0,-1,8.1,-1.0,94,0.0%
+422,Lock 'n Load Tactical: Dark July 43,0,-1,8.1,-1.0,76,0.0%
+423,Lock 'n Load Tactical: Battle Pack Alpha,0,-1,7.7,-1.0,36,0.0%
+424,Lion of Ethiopia,0,6436,7.3,-1.0,125,0.0%
+425,Lincoln's War,0,9582,6.3,6.0,103,0.0%
+426,Liberty Roads,0,2118,8.1,-1.0,497,0.0%
+427,Liberia: Descent Into Hell – The Liberian Civil War 1989-1996,0,10662,7.5,-1.0,34,0.0%
+428,"Leuthen: Frederick's Greatest Victory 5 December, 1757",0,8274,7.2,-1.0,77,0.0%
+429,Leaving Earth: Stations,0,-1,8.5,-1.0,172,0.0%
+430,Leaving Earth: Outer Planets,0,-1,8.4,-1.0,329,0.0%
+431,"The Last Success: Quadrigame of the War Against Austria, April - July 1809",0,6195,7.7,-1.0,106,0.0%
+432,Last Night on Earth 'We've Got To Go Back!' Scenario,0,-1,7.6,-1.0,144,0.0%
+433,The Last King of Scotland: The Uganda-Tanzania War 1978-1978,0,9286,6.7,-1.0,83,0.0%
+434,Landships! Tactical Weapons Innovations 1914-1918: Infernal Machines,0,-1,7.0,-1.0,49,0.0%
+435,Landships! Tactical Weapons Innovations 1914-1918,0,6185,6.7,-1.0,199,0.0%
+436,"Labyrinth: The War on Terror, 2001 – ?",0,385,7.6,-1.0,4317,0.0%
+437,L.A. Lawless,0,-1,6.8,-1.0,11,0.0%
+438,Kremlin (Third Edition),0,6170,6.9,-1.0,152,0.0%
+439,Kremlin,0,1176,7.0,-1.0,2790,0.0%
+440,King Philip's War,0,5827,7.0,-1.0,173,0.0%
+441,Khyber Rifles,0,18002,5.3,-1.0,35,0.0%
+442,Khalkin-Gol: 1939,0,-1,6.3,-1.0,6,0.0%
+443,"Kasserine: Rommel's Battle for Tunisia, 1943",0,6138,7.1,-1.0,148,0.0%
+444,Kandahar: Special Forces in Afghanistan,0,-1,6.9,-1.0,17,0.0%
+445,Jerusalem,0,9234,6.9,-1.0,67,0.0%
+446,Jena 20,0,5156,6.8,-1.0,267,0.0%
+447,Jaws,0,832,7.3,-1.0,2836,0.0%
+448,Iwo Jima: Rage Against the Marines,0,7087,7.0,-1.0,111,0.0%
+449,Ironman Football,0,14197,6.2,-1.0,42,0.0%
+450,The Ironclads: A Tactical Level Game of Naval Combat in the American Civil War 1861-1865,0,4520,7.3,-1.0,253,0.0%
+451,Iron Tide: Panzers in the Ardennes,0,6118,7.9,-1.0,108,0.0%
+452,Into the Rubble 2,0,-1,9.0,-1.0,11,0.0%
+453,Into the Bastards!: First tank battle,0,7915,7.4,-1.0,75,0.0%
+454,Infection: Humanity's Last Gasp,0,2550,7.3,-1.0,557,0.0%
+455,Indunas Colonels and Emirs,0,-1,0.0,-1.0,0,0.0%
+456,In the Trenches: Through Fire and Flames,0,-1,7.2,-1.0,6,0.0%
+457,In the Trenches: Doughboys,0,-1,7.0,-1.0,11,0.0%
+458,In the Trenches: Devil Dogs,0,-1,7.5,-1.0,20,0.0%
+459,In the Trenches: Coup de Grace,0,-1,6.8,-1.0,6,0.0%
+460,Imperium: Empires in Conflict – Worlds in the Balance,0,3425,6.9,-1.0,541,0.0%
+461,Imperium: 3rd Millennium,0,19068,5.3,-1.0,154,0.0%
+462,Ideology: The War of Ideas,0,4787,6.1,-1.0,883,0.0%
+463,I Will Fight No More... Forever,0,-1,6.8,-1.0,22,0.0%
+464,Hundred Days 20,0,-1,7.9,-1.0,52,0.0%
+465,Holy War: Afghanistan,0,11608,6.2,-1.0,88,0.0%
+466,Hold the Line: The French & Indian War,0,-1,8.1,-1.0,29,0.0%
+467,Hold the Line: The American Revolution,0,6340,7.9,-1.0,102,0.0%
+468,Hold the Line: Highland Charge,0,-1,7.5,-1.0,32,0.0%
+469,Hold the Line: French and Indian War Expansion Set,0,-1,7.6,-1.0,114,0.0%
+470,Hold the Line: Frederick's War,0,6427,7.7,-1.0,98,0.0%
+471,Hold the Line,0,2729,7.3,7.0,526,0.0%
+472,HOB Update: SS I / SS II,0,-1,8.6,-1.0,5,0.0%
+473,High Frontier 4 All: Module 3 – Conflict,0,-1,9.3,-1.0,9,0.0%
+474,High Frontier 4 All: Module 2 – Colonization,0,-1,8.8,-1.0,43,0.0%
+475,High Frontier 4 All: Module 1 – Terawatt & Futures,0,-1,8.8,-1.0,40,0.0%
+476,High Frontier 4 All,0,2310,8.9,-1.0,340,0.0%
+477,Heroes of Normandie: US Rangers,0,-1,7.8,-1.0,63,0.0%
+478,Heroes of Normandie: US Platoon,0,-1,7.7,-1.0,52,0.0%
+479,Heroes of Normandie: US Army Box,0,-1,7.9,-1.0,109,0.0%
+480,Heroes of Normandie: River Set Terrain Pack,0,-1,7.9,-1.0,78,0.0%
+481,Heroes of Normandie: Reinforcement-GE 21eme PZ,0,-1,7.9,-1.0,60,0.0%
+482,Heroes of Normandie: Lord Lovat's Commandos,0,-1,8.1,-1.0,43,0.0%
+483,Heroes of Normandie: German Army Box,0,-1,7.9,-1.0,117,0.0%
+484,Heroes of Normandie: GE Wittman,0,-1,7.9,-1.0,75,0.0%
+485,Heroes of Normandie: GE SS Panzergrenadiere,0,-1,7.9,-1.0,70,0.0%
+486,Heroes of Normandie: Fortified Farm,0,-1,7.7,-1.0,52,0.0%
+487,Heroes of Normandie: Extra Unit US-GE,0,-1,7.8,-1.0,71,0.0%
+488,Heroes of Normandie: Commonwealth Army Box,0,-1,8.1,-1.0,84,0.0%
+489,Heroes of Normandie: Civilians Under Fire,0,-1,8.2,-1.0,41,0.0%
+490,Heroes of Normandie: Canadian Platoon,0,-1,7.9,-1.0,43,0.0%
+491,Heroes of Normandie: British Platoon,0,-1,7.9,-1.0,39,0.0%
+492,Heroes of Normandie: Bill Furlong & Siegfried,0,-1,7.8,-1.0,52,0.0%
+493,Heroes of Normandie,0,1024,7.5,-1.0,1925,0.0%
+494,Helsinki 1918: German Intervention in the Finnish Civil War,0,8111,7.7,8.0,56,0.0%
+495,Hell's Gate,0,7091,6.9,-1.0,116,0.0%
+496,Hedgerow Hell: ASL Deluxe Module 2,0,-1,7.7,-1.0,227,0.0%
+497,Hatten in Flames: ASL Historical Module 9,0,-1,8.7,-1.0,78,0.0%
+498,Hapsburg Eclipse,0,3845,7.3,-1.0,318,0.0%
+499,Hals und Beinbruch!,0,-1,0.0,-1.0,0,0.0%
+500,The Halls of Montezuma,0,6421,6.5,-1.0,218,0.0%
+501,Hakkaa Päälle!: ASL Module 14,0,-1,8.3,-1.0,98,0.0%
+502,Guilford,0,4330,7.1,-1.0,268,0.0%
+503,Guerra Civil Española: Expansión no oficial para The Rise of the Luftwaffe,0,-1,6.0,-1.0,8,0.0%
+504,Guerilla,0,5783,6.3,-1.0,377,0.0%
+505,Guadalajara,0,7528,6.6,-1.0,169,0.0%
+506,"Growling Tigers: The Battle for Changde, 1943",0,10797,6.9,-1.0,46,0.0%
+507,The Grizzled: At Your Orders!,0,-1,7.7,-1.0,1958,0.0%
+508,Gringo!: The Mexican War 1846-48,0,5651,7.2,-1.0,163,0.0%
+509,Green Beret,0,-1,6.8,-1.0,14,0.0%
+510,"The Greek Civil War, 1947-49",0,13225,6.7,-1.0,34,0.0%
+511,"Great War at Sea: 1898, The Spanish American War",0,8885,6.6,-1.0,115,0.0%
+512,The Great Fire of London 1666,0,2475,6.5,-1.0,1485,0.0%
+513,A GI's Dozen,0,-1,7.6,-1.0,67,0.0%
+514,Gettysburg: Lee's Greatest Gamble,0,8115,6.7,-1.0,125,0.0%
+515,Gettysburg,0,4977,7.3,-1.0,194,0.0%
+516,Germantown,0,5143,7.5,-1.0,161,0.0%
+517,Gazala: The Cauldron,0,8330,7.3,-1.0,71,0.0%
+518,The Gallerist,0,57,8.0,-1.0,9649,0.0%
+519,Fury in the West,0,7406,6.6,-1.0,159,0.0%
+520,Fuentes de Oñoro 20,0,10581,7.7,-1.0,30,0.0%
+521,From the Cellar: Pack 8,0,-1,8.7,-1.0,6,0.0%
+522,From the Cellar: Pack 7,0,-1,8.6,-1.0,10,0.0%
+523,From the Cellar: Pack 6,0,-1,8.4,-1.0,12,0.0%
+524,Friendly Fire Pack 8,0,-1,8.9,-1.0,8,0.0%
+525,Friendly Fire Pack 7,0,-1,8.3,-1.0,14,0.0%
+526,Friendly Fire Pack 6,0,-1,8.5,-1.0,19,0.0%
+527,Friendly Fire Pack 5,0,-1,8.2,-1.0,13,0.0%
+528,Friendly Fire Pack 4,0,-1,8.1,-1.0,15,0.0%
+529,Friendly Fire Pack 3,0,-1,8.1,-1.0,15,0.0%
+530,Friendly Fire Pack 2,0,-1,8.0,-1.0,15,0.0%
+531,Friendly Fire Pack 11,0,-1,8.5,-1.0,6,0.0%
+532,Friendly Fire Pack 1,0,-1,8.2,-1.0,14,0.0%
+533,French Foreign Legion,0,8305,7.3,8.0,71,0.0%
+534,"Freikorps: The Bolsheviks Invade Germany, 1920",0,-1,6.4,-1.0,29,0.0%
+535,Freeman's Farm 1777,0,7503,7.9,-1.0,79,0.0%
+536,Le Franc-Tireur #13: The Crimean Campaign,0,-1,8.2,-1.0,18,0.0%
+537,Le Franc Tireur #6: La Guerre D'Espagne,0,-1,7.4,-1.0,7,0.0%
+538,Le Franc Tireur #14: Italians,0,-1,8.2,-1.0,12,0.0%
+539,Le Franc Tireur #12: PTO and Chinese Civil War for ASL,0,-1,8.4,-1.0,24,0.0%
+540,Fortune and Glory: Treasure Hunters Expansion,0,-1,7.7,-1.0,382,0.0%
+541,Fortune and Glory: Rise of the Crimson Hand,0,-1,7.6,-1.0,396,0.0%
+542,"Fort Sumter: The Secession Crisis, 1860-61",0,3344,6.6,8.0,680,0.0%
+543,Forgotten War: Korea 1950-1953 – ASL Module 15,0,-1,8.5,-1.0,51,0.0%
+544,Forged in Steel,0,3688,7.3,-1.0,295,0.0%
+545,For Bloody Honor: The Russian Civil War,0,14096,6.3,-1.0,37,0.0%
+546,Folgore,0,-1,7.5,-1.0,14,0.0%
+547,The Flying Tigers,0,-1,7.3,-1.0,12,0.0%
+548,Flying Circus: Aerial Combat in WWI,0,11237,6.5,-1.0,72,0.0%
+549,Flash Point: Fire Rescue – Victim with Oxygen Tank,0,-1,7.8,-1.0,72,0.0%
+550,Flash Point: Fire Rescue – Veteran and Rescue Dog,0,-1,7.6,-1.0,827,0.0%
+551,Flash Point: Fire Rescue – Urban Structures,0,-1,7.6,-1.0,1317,0.0%
+552,Flash Point: Fire Rescue – Tragic Events,0,-1,8.1,-1.0,377,0.0%
+553,Flash Point: Fire Rescue – Locked Doors,0,-1,7.7,-1.0,61,0.0%
+554,Flash Point: Fire Rescue – Lightly Wounded Victims,0,-1,7.7,-1.0,69,0.0%
+555,Flash Point: Fire Rescue – Honor & Duty,0,-1,7.6,-1.0,560,0.0%
+556,Flash Point: Fire Rescue – Heavy Victim,0,-1,7.8,-1.0,70,0.0%
+557,Flash Point: Fire Rescue – Hazmat POI,0,-1,7.9,-1.0,72,0.0%
+558,Flash Point: Fire Rescue – Fire Prevention Specialist,0,-1,7.5,-1.0,67,0.0%
+559,Flash Point: Fire Rescue – Extreme Danger Kickstarter Bonus Pack,0,-1,7.8,-1.0,76,0.0%
+560,Flash Point: Fire Rescue – Extreme Danger,0,-1,7.7,-1.0,1154,0.0%
+561,Flash Point: Fire Rescue – Explosive Objects,0,-1,7.8,-1.0,64,0.0%
+562,Flash Point: Fire Rescue – Dangerous Waters,0,-1,7.6,-1.0,770,0.0%
+563,Flash Point: Fire Rescue – Critically Wounded Victims,0,-1,7.7,-1.0,90,0.0%
+564,Flash Point: Fire Rescue – 2nd Story,0,-1,7.6,-1.0,1338,0.0%
+565,Flash Point: Fire Rescue,0,344,7.2,-1.0,20894,0.0%
+566,Flames of War: Stars and Stripes – Intelligence Handbook on US Armored and Infantry Forces,0,-1,6.5,-1.0,4,0.0%
+567,"The First Afghan War, 1839-42",0,12844,6.4,-1.0,48,0.0%
+568,Finnish Civil War,0,-1,6.9,-1.0,18,0.0%
+569,The Fight for Seoul,0,-1,8.9,-1.0,9,0.0%
+570,Fields of Fire,0,1279,7.8,-1.0,1073,0.0%
+571,Festung Budapest,0,-1,8.8,-1.0,127,0.0%
+572,FAB: The Bulge,0,2183,7.4,-1.0,651,0.0%
+573,Expedition: Northwest Passage,0,1407,7.0,-1.0,1775,0.0%
+574,España 20: Volume 1,0,10059,7.6,-1.0,40,0.0%
+575,España 1936,0,2365,7.3,-1.0,685,0.0%
+576,Entre dos banderas: Guadalajara 1937,0,-1,5.7,-1.0,17,0.0%
+577,Enemy Action: Ardennes,0,1947,8.7,-1.0,433,0.0%
+578,Empire of the Sun,0,758,8.2,-1.0,1407,0.0%
+579,Eldritch Horror: Under the Pyramids,0,-1,8.4,-1.0,1886,0.0%
+580,Eldritch Horror: Strange Remnants,0,-1,8.3,-1.0,2834,0.0%
+581,Eldritch Horror: Signs of Carcosa,0,-1,8.3,-1.0,1768,0.0%
+582,Eldritch Horror: Mountains of Madness,0,-1,8.2,-1.0,3046,0.0%
+583,Eldritch Horror: Forsaken Lore,0,-1,8.3,-1.0,5489,0.0%
+584,Eldritch Horror: Cities in Ruin,0,-1,8.5,-1.0,1293,0.0%
+585,Eldritch Horror,0,82,7.8,7.0,29279,0.0%
+586,Eighth Air Force,0,-1,7.3,-1.0,285,0.0%
+587,Eagles: Waterloo,0,5554,6.6,-1.0,274,0.0%
+588,Drive for Saint-Lô,0,-1,9.5,-1.0,2,0.0%
+589,"Downfall: If the U.S. Invaded Japan, 1945",0,15213,6.0,-1.0,41,0.0%
+590,Down in Flames: The Netherlands East Indies,0,-1,8.0,-1.0,8,0.0%
+591,Down In Flames: Poland 1939,0,-1,7.9,-1.0,13,0.0%
+592,Down In Flames: Kuban Bridgehead,0,-1,7.8,-1.0,12,0.0%
+593,Down in Flames: Air Umbrella Over Dunkirk,0,-1,8.0,-1.0,12,0.0%
+594,Down in Flames Squadron Pack 2: Bombers,0,-1,7.5,-1.0,43,0.0%
+595,Down in Flames Squadron Pack 1: Fighters,0,-1,7.5,-1.0,67,0.0%
+596,Dos Equis Scenario Pack,0,-1,7.9,-1.0,12,0.0%
+597,Dixie: Shiloh,0,7588,6.4,-1.0,174,0.0%
+598,Dixie: Gettysburg,0,7220,6.5,-1.0,173,0.0%
+599,Dixie: Bull Run,0,5986,6.2,-1.0,368,0.0%
+600,A Distant Plain,0,861,7.9,8.0,1425,0.0%
+601,Disposable Heroes and Coffin For Seven Brothers: Infantry and Vehicle Small Unit Skirmish Wargaming in WWII,0,8292,7.6,-1.0,62,0.0%
+602,Dispatches from the Bunker #45,0,-1,8.0,-1.0,6,0.0%
+603,Dispatches from the Bunker #35,0,-1,8.0,-1.0,3,0.0%
+604,Dispatches from the Bunker #34,0,-1,8.0,-1.0,4,0.0%
+605,Dillinger,0,-1,6.6,-1.0,6,0.0%
+606,Devil Boats: PT Boats in the Solomons,0,10182,7.9,10.0,46,0.0%
+607,Desert War,0,-1,7.9,7.0,266,0.0%
+608,Ogre,0,1288,6.9,7.0,2676,0.0%
+609,The Defense of Rorke's Drift,0,8852,6.7,-1.0,104,0.0%
+610,Deep Sea Adventure,0,619,7.0,-1.0,10690,0.0%
+611,Deathride: Mars-la-Tour 1870,0,7997,7.1,-1.0,87,0.0%
+612,Days of Battle: Golan Heights,0,9391,7.3,-1.0,51,0.0%
+613,Dark Cults,0,6978,6.9,-1.0,137,0.0%
+614,Cuba: The Splendid Little War,0,8458,7.3,-1.0,68,0.0%
+615,Cry Havoc,0,3025,6.9,-1.0,697,0.0%
+616,"Crusade and Revolution: The Spanish Civil War, 1936-1939",0,2172,8.6,9.0,382,0.0%
+617,Cruel Morning: Shiloh 1862,0,-1,6.8,-1.0,18,0.0%
+618,Counter-Attack! Arras,0,14302,6.0,-1.0,47,0.0%
+619,Corsairs and Hellcats,0,-1,7.4,-1.0,221,0.0%
+620,Container: 10th Anniversary Jumbo Edition!,0,882,7.7,-1.0,1483,0.0%
+621,"Commands & Colors: Napoleonics Expansion #5 – Generals, Marshals & Tacticians",0,-1,8.6,-1.0,226,0.0%
+622,Commands & Colors: Napoleonics Expansion #4 – The Prussian Army,0,-1,8.3,-1.0,235,0.0%
+623,Commands & Colors: Napoleonics Expansion #3 – The Austrian Army,0,-1,8.4,-1.0,292,0.0%
+624,Commands & Colors: Napoleonics Expansion #2 – The Russian Army,0,-1,8.4,-1.0,356,0.0%
+625,Commands & Colors: Napoleonics,0,371,8.0,-1.0,2627,0.0%
+626,Commands & Colors: Ancients Expansion Pack #5 – Epic Ancients II,0,-1,8.4,-1.0,387,0.0%
+627,Commands & Colors: Ancients Expansion Pack #4 – Imperial Rome,0,-1,8.4,-1.0,380,0.0%
+628,Commands & Colors: Ancients Expansion Pack #3 – The Roman Civil Wars,0,-1,8.3,-1.0,559,0.0%
+629,Commands & Colors: Ancients Expansion Pack #2 – Rome vs the Barbarians,0,-1,8.3,-1.0,745,0.0%
+630,Commands & Colors: Ancients Expansion Pack #1 – Greece & Eastern Kingdoms,0,-1,8.3,-1.0,1157,0.0%
+631,Commands & Colors Tricorne: The American Revolution – The French & More!,0,-1,8.5,-1.0,61,0.0%
+632,Commands & Colors Tricorne: The American Revolution,0,3454,8.4,-1.0,211,0.0%
+633,The Coming Storm: Quadrigame of the Fourth Coalition October 1806 - June 1807,0,5219,8.0,-1.0,124,0.0%
+634,Combat Veteran,0,-1,7.6,-1.0,15,0.0%
+635,Combat Soldiers: In the Battle of the Bulge,0,-1,6.9,-1.0,25,0.0%
+636,Combat Commander: Mediterranean,0,-1,8.5,-1.0,1230,0.0%
+637,Combat Commander: Europe – C3i #28 Scenarios,0,-1,7.8,-1.0,4,0.0%
+638,Combat Commander: Battle Pack #7 – Leader of Men: Tournament Battle Pack,0,-1,8.4,-1.0,111,0.0%
+639,Combat Commander: Battle Pack #6 – Sea Lion,0,-1,8.4,-1.0,172,0.0%
+640,Combat Commander: Battle Pack #5 – Fall of the West,0,-1,8.5,-1.0,247,0.0%
+641,Combat Commander: Battle Pack #2 – Stalingrad,0,-1,8.4,-1.0,550,0.0%
+642,"Colonial Twilight: The French-Algerian War, 1954-62",0,1585,7.8,-1.0,784,0.0%
+643,Collapsible D: The Final Minutes of the Titanic,0,8929,6.7,-1.0,116,0.0%
+644,"Codeword Cromwell: The German Invasion of England, 8 June 1940",0,4962,8.1,-1.0,127,0.0%
+645,Close Action: The Age of Fighting Sail Vol. 1,0,2904,7.8,-1.0,365,0.0%
+646,Clash of Monarchs,0,3988,7.1,-1.0,332,0.0%
+647,Circus Train (Second Edition),0,4026,7.1,-1.0,312,0.0%
+648,el cierre de la bolsa de Merida. Extremadura 1938,0,-1,5.4,-1.0,10,0.0%
+649,Chippawa: The Birth of the United States Army,0,-1,7.0,-1.0,1,0.0%
+650,China-Burma-India: The Lost Theater Part I – The Japanese Invade: December 1941 - May 1942,0,-1,8.3,-1.0,16,0.0%
+651,Chennault's First Fight,0,11768,6.7,-1.0,49,0.0%
+652,The Chaco War,0,9368,6.6,-1.0,95,0.0%
+653,Chaco,0,-1,6.5,-1.0,21,0.0%
+654,"Cedar Mountain: Prelude to Bull Run, August 9, 1862",0,5390,7.0,-1.0,197,0.0%
+655,Cataclysm: A Second World War,0,2384,7.7,9.0,555,0.0%
+656,Campaigns of Marlborough,0,11373,6.8,-1.0,50,0.0%
+657,Caesar: Epic Battle of Alesia,0,2819,7.1,-1.0,612,0.0%
+658,Caesar XL,0,7155,7.0,-1.0,112,0.0%
+659,Bunker Hill,0,16450,5.8,-1.0,69,0.0%
+660,Bulge 20 Expansion Kit,0,-1,7.7,-1.0,15,0.0%
+661,Bulge 20,0,7517,7.4,-1.0,77,0.0%
+662,The Bulge,0,10438,7.1,-1.0,47,0.0%
+663,Bug-Eyed Monsters,0,13551,6.1,7.0,76,0.0%
+664,Breitenfeld,0,6965,6.5,-1.0,190,0.0%
+665,Bravery in the Sand,0,7755,7.2,-1.0,84,0.0%
+666,Brave Little Belgium,0,5516,7.6,-1.0,131,0.0%
+667,Brass: Birmingham,0,3,8.7,8.0,18969,0.0%
+668,Braccio da Montone,0,-1,8.0,-1.0,26,0.0%
+669,Bloody Kasserine,0,7927,6.4,-1.0,140,0.0%
+670,Blood of Noble Men: The Alamo,0,11929,6.5,-1.0,53,0.0%
+671,Blood and Jungle,0,-1,9.1,-1.0,54,0.0%
+672,Blockade Runner,0,5989,6.7,-1.0,237,0.0%
+673,Blitzkrieg Pack,0,-1,7.0,-1.0,1,0.0%
+674,Bizkaya 1937,0,-1,6.2,-1.0,7,0.0%
+675,"Bittereinder: The Second Anglo-Boer War, 1899-1902",0,12123,6.3,-1.0,69,0.0%
+676,Beyond Waterloo,0,10350,7.2,-1.0,42,0.0%
+677,Beyond the Beaches: ASL Starter Kit Bonus Pack #1,0,-1,7.8,-1.0,188,0.0%
+678,Berlin '45: The Nightmare Ends,0,11475,6.5,-1.0,68,0.0%
+679,Beda Fomm,0,6777,7.3,-1.0,113,0.0%
+680,"Battles with the Gringos, Mexico 1846-62",0,-1,7.3,-1.0,59,0.0%
+681,The Battle of Monmouth,0,7964,6.6,-1.0,120,0.0%
+682,Battle of Maiwand,0,-1,8.0,-1.0,1,0.0%
+683,Battle of Ebro 1938: Spanish Civil War,0,-1,7.2,-1.0,13,0.0%
+684,The Battle of Bushy Run,0,14837,6.3,-1.0,31,0.0%
+685,The Battle of Borodino: Napoleon in Russia 1812,0,7468,6.7,7.0,146,0.0%
+686,Battle Hymn Vol. 1: Gettysburg and Pea Ridge,0,5123,7.8,-1.0,162,0.0%
+687,Battle for the Bayous: The New Orleans Campaign,0,-1,6.1,-1.0,10,0.0%
+688,The Battle for Madrid,0,-1,7.1,-1.0,9,0.0%
+689,Battle for Germany,0,2895,7.1,-1.0,532,0.0%
+690,"Battle for China, 1937-1941 (Second Edition)",0,-1,7.1,-1.0,25,0.0%
+691,Battle for China,0,12040,7.1,-1.0,35,0.0%
+692,Battle Cry,0,849,7.2,-1.0,3422,0.0%
+693,Baraque de Fraiture: The Battle for Parker's Crossroads,0,-1,7.8,-1.0,22,0.0%
+694,Baptism By Fire: The Battle of Kasserine,0,4982,8.2,-1.0,149,0.0%
+695,Banzai,0,-1,8.2,8.0,498,0.0%
+696,Axis & Allies: 1942,0,1622,6.9,-1.0,2288,0.0%
+697,Axis & Allies Pacific 1940,0,1185,7.5,-1.0,1632,0.0%
+698,Axis & Allies Europe 1940,0,1055,7.6,-1.0,1874,0.0%
+699,Axis & Allies Anniversary Edition,0,854,7.4,-1.0,2593,0.0%
+700,The Awful Green Things From Outer Space,0,2055,6.5,-1.0,2538,0.0%
+701,Automobile,0,459,7.3,-1.0,5365,0.0%
+702,Attack Sub,0,4146,6.6,-1.0,480,0.0%
+703,Attack in the Ardennes: The Battle of the Bulge,0,15506,5.7,-1.0,62,0.0%
+704,Atlantic Storm,0,4169,6.5,-1.0,537,0.0%
+705,Atacar es Vencer!,0,-1,0.0,-1.0,0,0.0%
+706,Asteroid,0,8205,6.5,7.0,150,0.0%
+707,Valor of the Guards: ASL Historical Module Number 7,0,-1,8.8,-1.0,265,0.0%
+708,The Long March,0,-1,8.1,-1.0,8,0.0%
+709,Special Forces,0,-1,7.3,-1.0,8,0.0%
+710,Operation Cobra,0,-1,8.2,-1.0,31,0.0%
+711,ASL: March Madness 2013 Commissar Pack,0,-1,7.5,-1.0,8,0.0%
+712,Kreta: Operation Merkur,0,-1,7.9,-1.0,20,0.0%
+713,Kampfgruppe Scherer: the Shield of Cholm,0,-1,8.8,-1.0,46,0.0%
+714,Kampfgruppe Peiper I: ASL Historical Module 2,0,-1,7.9,-1.0,261,0.0%
+715,ASL: Journal – Issue Two,0,-1,8.3,-1.0,120,0.0%
+716,ASL: Journal – Issue Six,0,-1,7.8,-1.0,62,0.0%
+717,ASL: Journal – Issue Seven,0,-1,8.0,-1.0,72,0.0%
+718,ASL: Journal – Issue Eleven,0,-1,8.3,-1.0,40,0.0%
+719,ASL: Journal – Issue Eight,0,-1,8.1,-1.0,82,0.0%
+720,High Ground 2,0,-1,8.2,-1.0,27,0.0%
+721,Heat of Battle: FireFights! 2,0,-1,7.0,-1.0,15,0.0%
+722,Heat of Battle: FireFights!,0,-1,7.0,-1.0,16,0.0%
+723,For King and Country: ASL module 5a,0,-1,8.6,-1.0,270,0.0%
+724,Doomed Battalions: ASL Module 11,0,-1,8.3,-1.0,315,0.0%
+725,Beyond the Beachhead 2,0,-1,8.4,-1.0,36,0.0%
+726,Hero Pax 1,0,-1,6.9,-1.0,8,0.0%
+727,Guerra Civil: The Spanish Civil War – 1936-1939,0,-1,6.4,-1.0,17,0.0%
+728,Croix de Guerre: ASL Module 10,0,-1,8.2,-1.0,391,0.0%
+729,ASL Comp Afrikakorps: El Guettar Stakes,0,-1,0.0,-1.0,0,0.0%
+730,Blood Reef: Tarawa – ASL Historical Module 5,0,-1,8.1,-1.0,179,0.0%
+731,ASL Annual '97,0,-1,8.0,-1.0,59,0.0%
+732,ASL Annual '93b,0,-1,8.0,-1.0,78,0.0%
+733,ASL Annual '93a,0,-1,7.8,-1.0,57,0.0%
+734,ASL Action Pack #9: To the Bridge !,0,-1,8.5,-1.0,52,0.0%
+735,ASL Action Pack #8: Roads Through Rome,0,-1,8.4,-1.0,78,0.0%
+736,ASL Action Pack #7,0,-1,8.1,-1.0,72,0.0%
+737,ASL Action Pack #6: A Decade of War,0,-1,8.4,-1.0,109,0.0%
+738,ASL Action Pack #5: East Front,0,-1,8.2,-1.0,123,0.0%
+739,ASL Action Pack #4: Normandy 1944,0,-1,8.2,-1.0,141,0.0%
+740,ASL Action Pack #3: Few Returned,0,-1,8.1,-1.0,152,0.0%
+741,ASL Action Pack #2,0,-1,8.1,-1.0,120,0.0%
+742,ASL Action Pack #14: ASL Oktoberfest XXXIV,0,-1,8.5,-1.0,22,0.0%
+743,ASL Action Pack #13: ASL Oktoberfest XXXII,0,-1,8.4,-1.0,29,0.0%
+744,ASL Action Pack #12: ASL Oktoberfest XXX,0,-1,8.4,-1.0,36,0.0%
+745,ASL Action Pack #11: 29 Let's Go!,0,-1,8.5,-1.0,50,0.0%
+746,ASL Action Pack #10,0,-1,8.4,-1.0,52,0.0%
+747,ASL Action Pack #1,0,-1,8.2,-1.0,131,0.0%
+748,British AFV Cards,0,-1,6.3,-1.0,8,0.0%
+749,Asia Crossroads: The Great Game,0,16004,5.8,-1.0,40,0.0%
+750,¡Arriba España!,0,9219,6.5,9.0,110,0.0%
+751,A Bridge Too Far: Arnhem,0,4752,7.2,-1.0,230,0.0%
+752,Armies of Oblivion: ASL Module 12,0,-1,8.5,-1.0,288,0.0%
+753,Arkham Horror: The Card Game – Where Doom Awaits: Mythos Pack,0,-1,8.1,-1.0,920,0.0%
+754,Arkham Horror: The Card Game – Undimensioned and Unseen: Mythos Pack,0,-1,8.0,-1.0,1003,0.0%
+755,Arkham Horror: The Card Game – The Unspeakable Oath: Mythos Pack,0,-1,8.4,-1.0,582,0.0%
+756,Arkham Horror: The Card Game – The Path to Carcosa: Expansion,0,-1,8.7,-1.0,1217,0.0%
+757,Arkham Horror: The Card Game – The Miskatonic Museum: Mythos Pack,0,-1,8.1,-1.0,1373,0.0%
+758,Arkham Horror: The Card Game – The Essex County Express: Mythos Pack,0,-1,8.4,-1.0,1273,0.0%
+759,Arkham Horror: The Card Game – The Dunwich Legacy: Expansion,0,-1,8.5,-1.0,2759,0.0%
+760,Arkham Horror: The Card Game – Lost in Time and Space: Mythos Pack,0,-1,8.3,-1.0,865,0.0%
+761,Arkham Horror: The Card Game – Echoes of the Past: Mythos Pack,0,-1,8.2,-1.0,598,0.0%
+762,Arkham Horror: The Card Game – Curse of the Rougarou: Scenario Pack,0,-1,7.9,-1.0,985,0.0%
+763,Arkham Horror: The Card Game – Carnevale of Horrors: Scenario Pack,0,-1,8.2,-1.0,878,0.0%
+764,Arkham Horror: The Card Game – Blood on the Altar: Mythos Pack,0,-1,8.3,-1.0,1104,0.0%
+765,Arkham Horror: The Card Game,0,22,8.2,-1.0,28406,0.0%
+766,Ardennes '44: The Battle of the Bulge,0,1652,8.0,-1.0,674,0.0%
+767,Anzio: Operation Shingle,0,-1,6.7,-1.0,23,0.0%
+768,Assault on Hoth: The Empire Strikes Back,0,3362,7.0,7.0,501,0.0%
+769,Amigos and Insurrectos: The Philippine Insurrection 1899-1902,0,-1,7.2,-1.0,22,0.0%
+770,Ambush!: Purple Heart,0,-1,7.7,-1.0,419,0.0%
+771,Ambush!,0,891,7.4,-1.0,2183,0.0%
+772,Amateurs to Arms!,0,4316,7.8,-1.0,185,0.0%
+773,Algeria: The War of Independence 1954-1962,0,11623,6.9,-1.0,50,0.0%
+774,The Alamo Remembered,0,11353,6.6,-1.0,56,0.0%
+775,ZRCV: Flying Flat-Top,0,-1,7.4,-1.0,21,0.0%
+776,Age of Industry Expansion: Great Lakes & South Africa,0,-1,8.0,-1.0,159,0.0%
+777,Age of Industry Expansion: Belgium & USSR,0,-1,7.8,-1.0,119,0.0%
+778,Age of Industry Expansion #1: Japan and Minnesota,0,-1,7.8,-1.0,313,0.0%
+779,Age of Industry,0,701,7.4,-1.0,2855,0.0%
+780,AFTERSHOCK: A Humanitarian Crisis Game,0,-1,8.1,8.0,21,0.0%
+781,Aeroplanes: PWS-24,0,-1,6.9,-1.0,25,0.0%
+782,Aeroplanes: Charters,0,-1,6.9,-1.0,32,0.0%
+783,Aeroplanes: Aviation Ascendant,0,3244,6.6,7.0,743,0.0%
+784,Advanced Squad Leader: Starter Kit Expansion Pack #1,0,2939,8.3,-1.0,290,0.0%
+785,Advanced Squad Leader: Deluxe Pack 1,0,-1,8.0,-1.0,20,0.0%
+786,Advanced Squad Leader: Starter Kit #1,0,554,7.8,-1.0,2375,0.0%
+787,Across the Potomac,0,10730,6.3,-1.0,97,0.0%
+788,Acquire,0,276,7.3,-1.0,18189,0.0%
+789,Ace Detective: Strange Tales,0,-1,5.9,-1.0,14,0.0%
+790,Ace Detective,0,9466,6.0,-1.0,176,0.0%
+791,Absolute Victory: World Conflict 1939-1945,0,7682,8.1,-1.0,67,0.0%
+792,800 Heroes: Defense of Sihang Warehouse,0,9996,6.9,-1.0,61,0.0%
+793,1936: Guerra Civil,0,3565,7.6,-1.0,312,0.0%
+794,1960: The Making of the President,0,204,7.6,-1.0,8511,0.0%
+795,18MEX,0,2313,7.8,-1.0,437,0.0%
+796,18Chesapeake,0,1380,8.0,-1.0,757,0.0%
+797,1867: The Railways of Canada,0,-1,7.6,-1.0,96,0.0%
+798,1862: Railway Mania in the Eastern Counties,0,1307,8.4,-1.0,663,0.0%
+799,1861/1867,0,-1,8.1,-1.0,25,0.0%
+800,1830: Railways & Robber Barons,0,196,7.9,8.0,4680,0.0%
+801,1805: Sea of Glory,0,3793,7.3,-1.0,294,0.0%
+802,1777: The Year of the Hangman,0,11175,6.6,-1.0,75,0.0%
+803,Zulus on the Ramparts!: The Battle of Rorke's Drift – Second Edition,0,1894,7.4,-1.0,881,0.0%
